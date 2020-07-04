@@ -1,4 +1,18 @@
 {
+    "adversitas": {
+        "fast": [
+            "frhd.co/t/3982/r/adversitas"
+        ],
+        "trick": [
+            ""
+        ],
+        "auto": [
+            ""
+        ],
+        "vehicle": [
+            ""
+        ]
+    },
     "Anonyymi": {
         "fast": [
             "frhd.co/t/243884/r/anonyymi",
@@ -98,20 +112,6 @@
         ],
         "auto": [
             "frhd.co/t/516985/r/precalculus"
-        ],
-        "vehicle": [
-            ""
-        ]
-    },
-    "Calm.Wizard": {
-        "fast": [
-            "frhd.co/t/3982/r/calm.wizard"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
         ],
         "vehicle": [
             ""
@@ -252,7 +252,8 @@
             "frhd.co/t/624596/r/madara",
             "frhd.co/t/523860/r/madara",
             "frhd.co/t/201964/r/madara"
-        ]
+        ],
+        "alias": "sanninx"
     },
     "mR..A": {
         "fast": [
@@ -296,7 +297,8 @@
         ],
         "vehicle": [
             ""
-        ]
+        ],
+        "alias": "teamcaesar"
     },
     "mudkip": {
         "fast": [
@@ -356,7 +358,8 @@
         ],
         "vehicle": [
             ""
-        ]
+        ],
+        "alias": "campaigned"
     },
     "Odala": {
         "fast": [
@@ -447,7 +450,8 @@
         ],
         "vehicle": [
             ""
-        ]
+        ],
+        "alias": "trickghost"
     },
     "Resurrect": {
         "fast": [
@@ -548,6 +552,10 @@
         ],
         "vehicle": [
             ""
+        ],
+        "alias": [
+            "aiice",
+            "dumptruck"
         ]
     },
     "Stevie.T": {
@@ -580,7 +588,8 @@
         ],
         "vehicle": [
             ""
-        ]
+        ],
+        "alias": "undertakerwwe"
     },
     "tetrationiscool": {
         "fast": [
@@ -622,6 +631,10 @@
         ],
         "vehicle": [
             ""
+        ],
+        "alias": [
+            "alzakhion",
+            "lordcar171"
         ]
     },
     "Trainer_Bob": {
