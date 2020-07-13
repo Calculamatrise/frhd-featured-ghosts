@@ -102,11 +102,6 @@
             "frhd.co/t/556324/r/chaos-fallen"
         ]
     },
-    "Cork": {
-        "fast": [
-            "frhd.co/t/446203/r/cork"
-        ]
-    },
     "DblU": {
         "fast": [
             "frhd.co/t/191253/r/dblu",
@@ -115,21 +110,29 @@
     },
     "eryp": {
         "fast": [
-            "frhd.co/t/8875/r/eryp",
+            "frhd.co/t/8875/r/eryp"
+        ],
+        "auto": [
             "frhd.co/t/1405/r/eryp",
             "frhd.co/t/3147/r/eryp"
-        ]
+        ],
     },
     "freelander2": {
         "fast": [
             "frhd.co/t/52773/r/freelander2"
-        ]
+        ],
+        "auto": [
+            "frhd.co/t/52341/r/freelander2"
+        ],  
     },
     "hairy.landesburg788": {
         "fast": [
             "frhd.co/t/72229/r/hairy.landesburg788",
             "frhd.co/t/7444/r/hairy.landesburg788"
-        ]
+        ],
+        "auto": [
+            "frhd.co/t/123735/r/hairy.landesburg788"
+        ],  
     },
     "Madara": {
         "fast": [
@@ -219,6 +222,11 @@
             "frhd.co/t/690667/r/mudkip"
         ]
     },
+    "NewGoblin": {
+        "auto": [
+            "frhd.co/t/516985/r/newgoblin"
+        ]
+    },
     "Ninjasparkour": {
         "fast": [
             "frhd.co/t/520372/r/ninjasparkour",
@@ -231,7 +239,7 @@
         ]
     },
     "Noob": {
-        "fast": [
+        "trick": [
             "frhd.co/t/3982/r/noob"
         ]
     },
@@ -239,6 +247,9 @@
         "fast": [
             "frhd.co/t/1906/r/campaigned"
         ],
+        "auto": [
+            "frhd.co/t/1051/r/notverygood"
+        ],  
         "alias": "Campaigned"
     },
     "Odala": {
@@ -328,7 +339,7 @@
         ]
     },
     "Slayed": {
-        "fast": [
+        "trick": [
             "frhd.co/t/568797/r/slayed"
         ]
     },
@@ -464,7 +475,6 @@
             "frhd.co/t/574346/r/zycerak",
             "frhd.co/t/1641/r/zycerak",
             "frhd.co/t/646557/r/zycerak",
-            "frhd.co/t/627100/r/zycerak",
             "frhd.co/t/196676/r/zycerak",
             "frhd.co/t/332790/r/zycerak",
             "frhd.co/t/677761/r/zycerak"
