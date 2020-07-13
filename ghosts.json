@@ -59,13 +59,29 @@
             "frhd.co/t/173968/r/anonyymi",
             "frhd.co/t/2995/r/anonyymi",
             "frhd.co/t/230102/r/anonyymi",
-            "frhd.co/t/342707/r/anonyymi"
+            "frhd.co/t/342707/r/anonyymi",
+            "frhd.co/t/706438/r/anonyymi",
+            "frhd.co/t/50046/r/anonyymi"
         ],
         "trick": [
             "frhd.co/t/158140/r/anonyymi"
         ],
         "auto": [
             ""
+        ],
+        "vehicle": [
+            ""
+        ]
+    },
+    "Apocolypse": {
+        "fast": [
+            ""
+        ],
+        "trick": [
+            ""
+        ],
+        "auto": [
+            "frhd.co/t/725337/r/apocolypse"
         ],
         "vehicle": [
             ""
@@ -89,7 +105,8 @@
         "fast": [
             "frhd.co/t/680661/r/brendanmagill",
             "frhd.co/t/660509/r/brendanmagill",
-            "frhd.co/t/713218/r/brendanmagill"
+            "frhd.co/t/713218/r/brendanmagill",
+            "frhd.co/t/713537/r/legendary_authors"
         ],
         "trick": [
             ""
@@ -99,7 +116,8 @@
         ],
         "vehicle": [
             ""
-        ]
+        ],
+        "alias": "Legendary_Authors"
     },
     "Calculus": {
         "fast": [
@@ -269,7 +287,8 @@
             "frhd.co/t/492949/r/mr..a",
             "frhd.co/t/708087/r/mr..a",
             "frhd.co/t/710486/r/mr..a",
-            "frhd.co/t/274437/r/mr..a"
+            "frhd.co/t/274437/r/mr..a",
+            "frhd.co/t/725866/r/mr..a"
         ],
         "trick": [
             "frhd.co/t/211082/r/mr..a",
@@ -355,7 +374,7 @@
             ""
         ],
         "auto": [
-            ""
+            "frhd.co/t/1051/r/notverygood"
         ],
         "vehicle": [
             ""
@@ -441,13 +460,15 @@
             "frhd.co/t/571055/r/redorblue",
             "frhd.co/t/167075/r/redorblue",
             "frhd.co/t/608919/r/redorblue",
-            "frhd.co/t/197596/r/redorblue"
+            "frhd.co/t/197596/r/redorblue",
+            "frhd.co/t/724312/r/trickghost",
+            "frhd.co/t/6745/r/redorblue"
         ],
         "trick": [
             "frhd.co/t/656352/r/redorblue"
         ],
         "auto": [
-            ""
+            "frhd.co/t/721704/r/redorblue"
         ],
         "vehicle": [
             ""
