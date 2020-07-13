@@ -2,15 +2,6 @@
     "adversitas": {
         "fast": [
             "frhd.co/t/3982/r/adversitas"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Anonyymi": {
@@ -65,40 +56,19 @@
         ],
         "trick": [
             "frhd.co/t/158140/r/anonyymi"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Apocolypse": {
-        "fast": [
-            ""
-        ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/725337/r/apocolypse"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Backtwice": {
         "fast": [
             "frhd.co/t/239108/r/backtwice"
         ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/1334/r/backtwice"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "BrendanMagill": {
@@ -110,14 +80,8 @@
             "frhd.co/t/682672/r/brendanmagill",
             "frhd.co/t/652249/r/brendanmagill"
         ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/8998/r/brendanmagill"
-        ],
-        "vehicle": [
-            ""
         ],
         "alias": "Legendary_Authors"
     },
@@ -131,55 +95,22 @@
         "trick": [
             "frhd.co/t/10013/r/precalculus"
         ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
-        ],
         "alias": "PreCalculus"
     },
     "Chaos-Fallen": {
         "fast": [
             "frhd.co/t/556324/r/chaos-fallen"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Cork": {
         "fast": [
             "frhd.co/t/446203/r/cork"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "DblU": {
         "fast": [
             "frhd.co/t/191253/r/dblu",
             "frhd.co/t/1254/r/dblu"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "eryp": {
@@ -187,44 +118,17 @@
             "frhd.co/t/8875/r/eryp",
             "frhd.co/t/1405/r/eryp",
             "frhd.co/t/3147/r/eryp"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "freelander2": {
         "fast": [
             "frhd.co/t/52773/r/freelander2"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            "frhd.co/t/52341/r/freelander2"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "hairy.landesburg788": {
         "fast": [
             "frhd.co/t/72229/r/hairy.landesburg788",
             "frhd.co/t/7444/r/hairy.landesburg788"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            "frhd.co/t/123735/r/hairy.landesburg788"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Madara": {
@@ -242,12 +146,6 @@
             "frhd.co/t/232048/r/madara",
             "frhd.co/t/192560/r/madara",
             "frhd.co/t/487217/r/madara"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
         ],
         "vehicle": [
             "frhd.co/t/499876/r/madara",
@@ -313,27 +211,12 @@
             "frhd.co/t/715818/r/mr..a",
             "frhd.co/t/715618/r/mr..a"
         ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
-        ],
         "alias": "TeamCaesar"
     },
     "mudkip": {
         "fast": [
             "frhd.co/t/53133/r/mudkip",
             "frhd.co/t/690667/r/mudkip"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Ninjasparkour": {
@@ -345,69 +228,27 @@
         "trick": [
             "frhd.co/t/314531/r/ninjasparkour",
             "frhd.co/t/2819/r/ninjasparkour"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Noob": {
         "fast": [
             "frhd.co/t/3982/r/noob"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "NotVeryGood": {
         "fast": [
             "frhd.co/t/1906/r/campaigned"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            "frhd.co/t/1051/r/notverygood"
-        ],
-        "vehicle": [
-            ""
-        ],
+        ]
         "alias": "Campaigned"
     },
     "Odala": {
         "fast": [
             "frhd.co/t/668128/r/odala"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Pie42": {
-        "fast": [
-            ""
-        ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/292666/r/pie42"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Reborn": {
@@ -416,29 +257,11 @@
             "frhd.co/t/1042/r/reborn",
             "frhd.co/t/602609/r/reborn",
             "frhd.co/t/468573/r/reborn"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "RedOpBlue": {
         "fast": [
             "frhd.co/t/1026/r/redopblue"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "RedOrBlue": {
@@ -471,9 +294,6 @@
         "auto": [
             "frhd.co/t/721704/r/redorblue"
         ],
-        "vehicle": [
-            ""
-        ],
         "alias": "Trickghost"
     },
     "Resurrect": {
@@ -482,12 +302,6 @@
         ],
         "trick": [
             "frhd.co/t/387779/r/resurrect"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Rhodium": {
@@ -497,12 +311,6 @@
         ],
         "trick": [
             "frhd.co/t/82818/r/rhodium"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Sidewalk": {
@@ -512,55 +320,22 @@
         ],
         "trick": [
             "frhd.co/t/455779/r/sidewalk"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Skijumping": {
-        "fast": [
-            ""
-        ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/709759/r/skijumping"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Slayed": {
         "fast": [
             "frhd.co/t/568797/r/slayed"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "spruce": {
         "fast": [
             "frhd.co/t/443126/r/aiice",
             "frhd.co/t/608398/r/dumptruck"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ],
         "alias": [
             "AIice",
@@ -573,12 +348,6 @@
         ],
         "trick": [
             "frhd.co/t/568797/r/stevie.t"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Synapse": {
@@ -588,15 +357,6 @@
             "frhd.co/t/262859/r/synapse",
             "frhd.co/t/297012/r/synapse",
             "frhd.co/t/411803/r/undertakerwwe"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ],
         "alias": "UndertakerWWE"
     },
@@ -615,15 +375,6 @@
             "frhd.co/t/395374/r/tetrationiscool",
             "frhd.co/t/473132/r/tetrationiscool",
             "frhd.co/t/106750/r/tetrationiscool"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Totoca12": {
@@ -638,9 +389,6 @@
         "auto": [
             "frhd.co/t/258545/r/totoca12"
         ],
-        "vehicle": [
-            ""
-        ],
         "alias": [
             "Alzakhion",
             "LordCarl71"
@@ -652,15 +400,6 @@
             "frhd.co/t/1554/r/trainer_bob",
             "frhd.co/t/92960/r/trainer_bob",
             "frhd.co/t/305440/r/trainer_bob"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "TuttiFruity": {
@@ -671,12 +410,6 @@
         ],
         "trick": [
             "frhd.co/t/166892/r/tuttifruity"
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Ultraviolet": {
@@ -686,13 +419,7 @@
             "frhd.co/t/714294/r/ultraviolet",
             "frhd.co/t/712894/r/ultraviolet",
             "frhd.co/t/683736/r/ultraviolet"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
+        ]
         "vehicle": [
             "frhd.co/t/577101/r/ultraviolet",
             "frhd.co/t/625674/r/ultraviolet"
@@ -702,57 +429,24 @@
         "fast": [
             "frhd.co/t/226644/r/unghosted",
             "frhd.co/t/299698/r/unghosted"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "unspoken": {
         "fast": [
             "frhd.co/t/1076/r/unspoken"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "we_are_number_one": {
         "fast": [
             "frhd.co/t/1034/r/we_are_number_one"
-        ],
-        "trick": [
-            ""
-        ],
-        "auto": [
-            ""
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Whisk": {
         "fast": [
             "frhd.co/t/282498/r/whisk"
         ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/9007/r/whisk"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "xagefimuh": {
@@ -760,14 +454,8 @@
             "frhd.co/t/641550/r/xagefimuh",
             "frhd.co/t/459503/r/xagefimuh"
         ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/464750/r/xagefimuh"
-        ],
-        "vehicle": [
-            ""
         ]
     },
     "Zycerak": {
@@ -781,9 +469,6 @@
             "frhd.co/t/332790/r/zycerak",
             "frhd.co/t/677761/r/zycerak"
         ],
-        "trick": [
-            ""
-        ],
         "auto": [
             "frhd.co/t/428676/r/zycerak",
             "frhd.co/t/8335/r/zycerak",
@@ -795,9 +480,6 @@
             "frhd.co/t/706346/r/zycerak",
             "frhd.co/t/710226/r/zycerak",
             "frhd.co/t/712645/r/zycerak"
-        ],
-        "vehicle": [
-            ""
         ]
     }
 }
