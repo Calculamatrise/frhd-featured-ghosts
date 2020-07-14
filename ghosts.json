@@ -343,15 +343,12 @@
             "frhd.co/t/568797/r/slayed"
         ]
     },
-    "spruce": {
+    "dumptruck": {
         "fast": [
             "frhd.co/t/443126/r/aiice",
             "frhd.co/t/608398/r/dumptruck"
         ],
-        "alias": [
-            "AIice",
-            "dumptruck"
-        ]
+        "alias": "AIice"
     },
     "Stevie.T": {
         "fast": [
@@ -390,9 +387,7 @@
     },
     "Totoca12": {
         "fast": [
-            "frhd.co/t/384996/r/alzakhion",
-            "frhd.co/t/1031/r/totoca12",
-            "frhd.co/t/319404/r/alzakhion"
+            "frhd.co/t/1031/r/totoca12"
         ],
         "trick": [
             "frhd.co/t/435363/r/lordcarl71"
@@ -400,10 +395,14 @@
         "auto": [
             "frhd.co/t/258545/r/totoca12"
         ],
-        "alias": [
-            "Alzakhion",
-            "LordCarl71"
-        ]
+        "alias": "LordCarl71"
+    },
+    "Alzakhion": {
+        "fast": [
+            "frhd.co/t/384996/r/alzakhion",
+            "frhd.co/t/319404/r/alzakhion"
+        ],
+        "alias": "Totoca12"
     },
     "Trainer_Bob": {
         "fast": [
