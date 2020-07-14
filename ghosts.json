@@ -403,6 +403,15 @@
             "frhd.co/t/319404/r/alzakhion"
         ]
     },
+     "Testname1": {
+        "fast": [
+            "frhd.co/t/1031/r/totoca12"
+        ],
+        "auto": [
+            "frhd.co/t/258545/r/totoca12"
+        ],
+        "alias": "Totoca12"
+    },
     "Trainer_Bob": {
         "fast": [
             "frhd.co/t/8865/r/trainer_bob",
