@@ -4,7 +4,7 @@
             "frhd.co/t/3982/r/adversitas"
         ]
     },
-    "Anonyymi": {
+    "anonyymi": {
         "fast": [
             "frhd.co/t/243884/r/anonyymi",
             "frhd.co/t/1038/r/anonyymi",
@@ -58,12 +58,12 @@
             "frhd.co/t/158140/r/anonyymi"
         ]
     },
-    "Apocolypse": {
+    "apocolypse": {
         "auto": [
             "frhd.co/t/725337/r/apocolypse"
         ]
     },
-    "Backtwice": {
+    "backtwice": {
         "fast": [
             "frhd.co/t/239108/r/backtwice"
         ],
@@ -71,7 +71,7 @@
             "frhd.co/t/1334/r/backtwice"
         ]
     },
-    "BrendanMagill": {
+    "brendanmagill": {
         "fast": [
             "frhd.co/t/680661/r/brendanmagill",
             "frhd.co/t/660509/r/brendanmagill",
@@ -83,9 +83,9 @@
         "auto": [
             "frhd.co/t/8998/r/brendanmagill"
         ],
-        "alias": "Legendary_Authors"
+        "alias": "legendary_authors"
     },
-    "Calculus": {
+    "calculus": {
         "fast": [
             "frhd.co/t/170958/r/calculus",
             "frhd.co/t/179558/r/calculus",
@@ -95,20 +95,20 @@
         "trick": [
             "frhd.co/t/10013/r/precalculus"
         ],
-        "alias": "PreCalculus"
+        "alias": "precalculus"
     },
-    "Chaos-Fallen": {
+    "chaos-fallen": {
         "fast": [
             "frhd.co/t/556324/r/chaos-fallen"
         ]
     },
-    "DblU": {
+    "dblu": {
         "fast": [
             "frhd.co/t/191253/r/dblu",
             "frhd.co/t/1254/r/dblu"
         ]
     },
-    "Eryp": {
+    "eryp": {
         "fast": [
             "frhd.co/t/8875/r/eryp"
         ],
@@ -117,7 +117,7 @@
             "frhd.co/t/3147/r/eryp"
         ]
     },
-    "FreeLander2": {
+    "freelander2": {
         "fast": [
             "frhd.co/t/52773/r/freelander2"
         ],
@@ -134,7 +134,7 @@
             "frhd.co/t/123735/r/hairy.landesburg788"
         ]
     },
-    "Madara": {
+    "madara": {
         "fast": [
             "frhd.co/t/442222/r/madara",
             "frhd.co/t/347736/r/madara",
@@ -175,9 +175,9 @@
             "frhd.co/t/523860/r/madara",
             "frhd.co/t/201964/r/madara"
         ],
-        "alias": "SanninX"
+        "alias": "sanninx"
     },
-    "mR..A": {
+    "mr..a": {
         "fast": [
             "frhd.co/t/451691/r/mr..a",
             "frhd.co/t/462701/r/mr..a",
@@ -214,7 +214,7 @@
             "frhd.co/t/715818/r/mr..a",
             "frhd.co/t/715618/r/mr..a"
         ],
-        "alias": "TeamCaesar"
+        "alias": "teamcaesar"
     },
     "mudkip": {
         "fast": [
@@ -222,12 +222,12 @@
             "frhd.co/t/690667/r/mudkip"
         ]
     },
-    "NewGoblin": {
+    "newgoblin": {
         "auto": [
             "frhd.co/t/516985/r/newgoblin"
         ]
     },
-    "Ninjasparkour": {
+    "ninjasparkour": {
         "fast": [
             "frhd.co/t/520372/r/ninjasparkour",
             "frhd.co/t/298213/r/ninjasparkour",
@@ -238,31 +238,31 @@
             "frhd.co/t/2819/r/ninjasparkour"
         ]
     },
-    "Noob": {
+    "noob": {
         "trick": [
             "frhd.co/t/3982/r/noob"
         ]
     },
-    "NotVeryGood": {
+    "notverygood": {
         "fast": [
             "frhd.co/t/1906/r/campaigned"
         ],
         "auto": [
             "frhd.co/t/1051/r/notverygood"
         ],  
-        "alias": "Campaigned"
+        "alias": "campaigned"
     },
-    "Odala": {
+    "odala": {
         "fast": [
             "frhd.co/t/668128/r/odala"
         ]
     },
-    "Pie42": {
+    "pie42": {
         "auto": [
             "frhd.co/t/292666/r/pie42"
         ]
     },
-    "Reborn": {
+    "reborn": {
         "fast": [
             "frhd.co/t/431010/r/reborn",
             "frhd.co/t/1042/r/reborn",
@@ -270,12 +270,12 @@
             "frhd.co/t/468573/r/reborn"
         ]
     },
-    "RedOpBlue": {
+    "redopblue": {
         "fast": [
             "frhd.co/t/1026/r/redopblue"
         ]
     },
-    "RedOrBlue": {
+    "redorblue": {
         "fast": [
             "frhd.co/t/217107/r/redorblue",
             "frhd.co/t/283831/r/redorblue",
@@ -306,9 +306,9 @@
         "auto": [
             "frhd.co/t/721704/r/redorblue"
         ],
-        "alias": "Trickghost"
+        "alias": "trickghost"
     },
-    "Resurrect": {
+    "resurrect": {
         "fast": [
             "frhd.co/t/245063/r/resurrect"
         ],
@@ -316,7 +316,7 @@
             "frhd.co/t/387779/r/resurrect"
         ]
     },
-    "Rhodium": {
+    "rhodium": {
         "fast": [
             "frhd.co/t/336968/r/rhodium",
             "frhd.co/t/1193/r/rhodium"
@@ -325,7 +325,7 @@
             "frhd.co/t/82818/r/rhodium"
         ]
     },
-    "Sidewalk": {
+    "sidewalk": {
         "fast": [
             "frhd.co/t/127222/r/sidewalk",
             "frhd.co/t/201528/r/sidewalk"
@@ -334,12 +334,12 @@
             "frhd.co/t/455779/r/sidewalk"
         ]
     },
-    "Skijumping": {
+    "skijumping": {
         "auto": [
             "frhd.co/t/709759/r/skijumping"
         ]
     },
-    "Slayed": {
+    "slayed": {
         "trick": [
             "frhd.co/t/568797/r/slayed"
         ]
@@ -349,9 +349,9 @@
             "frhd.co/t/443126/r/aiice",
             "frhd.co/t/608398/r/dumptruck"
         ],
-        "alias": "AIice"
+        "alias": "aiice"
     },
-    "Stevie.T": {
+    "stevie.t": {
         "fast": [
             "frhd.co/t/631619/r/stevie.t"
         ],
@@ -359,7 +359,7 @@
             "frhd.co/t/568797/r/stevie.t"
         ]
     },
-    "Synapse": {
+    "synapse": {
         "fast": [
             "frhd.co/t/297463/r/synapse",
             "frhd.co/t/50114/r/synapse",
@@ -367,7 +367,7 @@
             "frhd.co/t/297012/r/synapse",
             "frhd.co/t/411803/r/undertakerwwe"
         ],
-        "alias": "UndertakerWWE"
+        "alias": "undertakerwwe"
     },
     "tetrationiscool": {
         "fast": [
@@ -386,7 +386,7 @@
             "frhd.co/t/106750/r/tetrationiscool"
         ]
     },
-    "Totoca12": {
+    "totoca12": {
         "fast": [
             "frhd.co/t/1031/r/totoca12"
         ],
@@ -396,15 +396,15 @@
         "auto": [
             "frhd.co/t/258545/r/totoca12"
         ],
-        "alias": "LordCarl71"
+        "alias": "lordcarl71"
     },
-    "Alzakhion": {
+    "alzakhion": {
         "fast": [
             "frhd.co/t/384996/r/alzakhion",
             "frhd.co/t/319404/r/alzakhion"
         ]
     },
-    "Trainer_Bob": {
+    "trainer_bob": {
         "fast": [
             "frhd.co/t/8865/r/trainer_bob",
             "frhd.co/t/1554/r/trainer_bob",
@@ -412,7 +412,7 @@
             "frhd.co/t/305440/r/trainer_bob"
         ]
     },
-    "TuttiFruity": {
+    "tuttifruity": {
         "fast": [
             "frhd.co/t/354303/r/tuttifruity",
             "frhd.co/t/295513/r/tuttifruity",
@@ -422,7 +422,7 @@
             "frhd.co/t/166892/r/tuttifruity"
         ]
     },
-    "Ultraviolet": {
+    "ultraviolet": {
         "fast": [
             "frhd.co/t/668267/r/ultraviolet",
             "frhd.co/t/579066/r/ultraviolet",
@@ -435,7 +435,7 @@
             "frhd.co/t/625674/r/ultraviolet"
         ]
     },
-    "Unghosted": {
+    "unghosted": {
         "fast": [
             "frhd.co/t/226644/r/unghosted",
             "frhd.co/t/299698/r/unghosted"
@@ -451,7 +451,7 @@
             "frhd.co/t/1034/r/we_are_number_one"
         ]
     },
-    "Whisk": {
+    "whisk": {
         "fast": [
             "frhd.co/t/282498/r/whisk"
         ],
@@ -468,7 +468,7 @@
             "frhd.co/t/464750/r/xagefimuh"
         ]
     },
-    "Zycerak": {
+    "zycerak": {
         "fast": [
             "frhd.co/t/287310/r/zycerak",
             "frhd.co/t/574346/r/zycerak",
