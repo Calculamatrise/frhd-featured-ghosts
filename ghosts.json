@@ -79,6 +79,9 @@
             "frhd.co/t/713537/r/legendary_authors",
             "frhd.co/t/682672/r/brendanmagill",
             "frhd.co/t/652249/r/brendanmagill"
+        ],
+        "auto": [
+            "frhd.co/t/8998/r/brendanmagill"
         ]
     },
     "calculus": {
@@ -127,6 +130,11 @@
         ],
         "auto": [
             "frhd.co/t/123735/r/hairy.landesburg788"
+        ]
+    },
+    "kazman": {
+        "auto": [
+            "frhd.co/t/292666/r/kazman"
         ]
     },
     "madara": {
@@ -382,8 +390,7 @@
         ],
         "auto": [
             "frhd.co/t/258545/r/totoca12",
-            "frhd.co/t/9007/r/totoca12",
-            "frhd.co/t/8998/r/totoca12"
+            "frhd.co/t/9007/r/totoca12"
         ]
     },
     "trainer_bob": {
