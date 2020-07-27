@@ -58,11 +58,6 @@
             "frhd.co/t/158140/r/anonyymi"
         ]
     },
-    "apocolypse": {
-        "auto": [
-            "frhd.co/t/725337/r/apocolypse"
-        ]
-    },
     "backtwice": {
         "fast": [
             "frhd.co/t/239108/r/backtwice"
@@ -134,7 +129,8 @@
     },
     "kazman": {
         "auto": [
-            "frhd.co/t/292666/r/kazman"
+            "frhd.co/t/292666/r/kazman",
+            "frhd.co/t/725337/r/kazman"
         ]
     },
     "madara": {
