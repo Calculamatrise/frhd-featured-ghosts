@@ -15,12 +15,12 @@
         });
     }
     function getFeaturedGhosts(callback = () => {}){
-        fetch(`https://raw.githubusercontent.com/Calculus0972/Official_Featured_Ghosts/master/ghosts.json`).then((response) => response.json()).then(json => {
+        fetch(`https://raw.githubusercontent.com/calculus-dev/Official_Featured_Ghosts/master/ghosts.json`).then((response) => response.json()).then(json => {
             callback(json);
         });
     }
     function getFeaturedAlias(callback = () => {}){
-        fetch(`https://raw.githubusercontent.com/Calculus0972/Official_Featured_Ghosts/master/alias.json`).then((response) => response.json()).then(json => {
+        fetch(`https://raw.githubusercontent.com/calculus-dev/Official_Featured_Ghosts/master/alias.json`).then((response) => response.json()).then(json => {
             callback(json);
         });
     }
