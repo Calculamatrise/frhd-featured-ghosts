@@ -52,7 +52,9 @@
             "frhd.co/t/230102/r/anonyymi",
             "frhd.co/t/342707/r/anonyymi",
             "frhd.co/t/706438/r/anonyymi",
-            "frhd.co/t/50046/r/anonyymi"
+            "frhd.co/t/50046/r/anonyymi",
+            "frhd.co/t/94801/r/anonyymi",
+            "frhd.co/t/7444/r/anonyymi"
         ],
         "trick": [
             "frhd.co/t/158140/r/anonyymi"
@@ -71,12 +73,11 @@
             "frhd.co/t/680661/r/brendanmagill",
             "frhd.co/t/660509/r/brendanmagill",
             "frhd.co/t/713218/r/brendanmagill",
-            "frhd.co/t/713537/r/legendary_authors",
             "frhd.co/t/682672/r/brendanmagill",
-            "frhd.co/t/652249/r/brendanmagill"
-        ],
-        "auto": [
-            "frhd.co/t/8998/r/brendanmagill"
+            "frhd.co/t/652249/r/brendanmagill",
+            "frhd.co/t/713537/r/legendary_authors",
+            "frhd.co/t/11057/r/brendanmagill",
+            "frhd.co/t/1116/r/brendanmagill"
         ]
     },
     "calculus": {
@@ -103,11 +104,16 @@
     },
     "eryp": {
         "fast": [
-            "frhd.co/t/8875/r/eryp"
+            "frhd.co/t/8875/r/eryp",
+            "frhd.co/t/1184/r/eryp"
         ],
         "auto": [
-            "frhd.co/t/1405/r/eryp",
             "frhd.co/t/3147/r/eryp"
+        ]
+    },
+     "exylies": {
+        "vehicle": [
+            "frhd.co/t/713577/r/exylies",
         ]
     },
     "freelander2": {
@@ -120,17 +126,10 @@
     },
     "hairy.landesburg788": {
         "fast": [
-            "frhd.co/t/72229/r/hairy.landesburg788",
-            "frhd.co/t/7444/r/hairy.landesburg788"
+            "frhd.co/t/72229/r/hairy.landesburg788"
         ],
         "auto": [
             "frhd.co/t/123735/r/hairy.landesburg788"
-        ]
-    },
-    "kazman": {
-        "auto": [
-            "frhd.co/t/292666/r/kazman",
-            "frhd.co/t/725337/r/kazman"
         ]
     },
     "madara": {
@@ -147,7 +146,10 @@
             "frhd.co/t/615261/r/madara",
             "frhd.co/t/232048/r/madara",
             "frhd.co/t/192560/r/madara",
-            "frhd.co/t/487217/r/madara"
+            "frhd.co/t/487217/r/madara",
+            "frhd.co/t/290112/r/madara",
+            "frhd.co/t/713010/r/madara",
+            "frhd.co/t/542537/r/madara"
         ],
         "vehicle": [
             "frhd.co/t/499876/r/madara",
@@ -226,7 +228,6 @@
             "frhd.co/t/7011/r/ninjasparkour"
         ],
         "trick": [
-            "frhd.co/t/314531/r/ninjasparkour",
             "frhd.co/t/2819/r/ninjasparkour"
         ]
     },
@@ -284,14 +285,14 @@
             "frhd.co/t/197596/r/redorblue",
             "frhd.co/t/724312/r/trickghost",
             "frhd.co/t/6745/r/redorblue",
-            "frhd.co/t/196676/r/redorblue"
+            "frhd.co/t/196676/r/redorblue",
+            "frhd.co/t/678574/r/redorblue"
         ],
         "trick": [
             "frhd.co/t/656352/r/redorblue"
         ],
         "auto": [
-            "frhd.co/t/721704/r/redorblue",
-            "frhd.co/t/516985/r/redorblue"
+            "frhd.co/t/721704/r/redorblue"
         ]
     },
     "resurrect": {
@@ -380,8 +381,7 @@
             "frhd.co/t/435363/r/lordcarl71"
         ],
         "auto": [
-            "frhd.co/t/258545/r/totoca12",
-            "frhd.co/t/9007/r/totoca12"
+            "frhd.co/t/258545/r/totoca12"
         ]
     },
     "trainer_bob": {
@@ -396,7 +396,7 @@
         "fast": [
             "frhd.co/t/354303/r/tuttifruity",
             "frhd.co/t/295513/r/tuttifruity",
-            "frhd.co/t/713010/r/tuttifruity"
+            "frhd.co/t/681049/r/tuttifruity"
         ],
         "trick": [
             "frhd.co/t/166892/r/tuttifruity"
@@ -457,12 +457,7 @@
         "auto": [
             "frhd.co/t/428676/r/zycerak",
             "frhd.co/t/8335/r/zycerak",
-            "frhd.co/t/153371/r/zycerak",
             "frhd.co/t/9245/r/zycerak",
-            "frhd.co/t/628028/r/zycerak",
-            "frhd.co/t/620859/r/zycerak",
-            "frhd.co/t/61987/r/zycerak",
-            "frhd.co/t/706346/r/zycerak",
             "frhd.co/t/710226/r/zycerak",
             "frhd.co/t/712645/r/zycerak"
         ]
