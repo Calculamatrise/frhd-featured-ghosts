@@ -297,7 +297,8 @@
     "resurrect": {
         "fast": [
             "frhd.co/t/245063/r/resurrect",
-            "frhd.co/t/115150/r/resurrect"
+            "frhd.co/t/115150/r/resurrect",
+            "frhd.co/t/51837/r/resurrect"
         ],
         "trick": [
             "frhd.co/t/387779/r/resurrect"
@@ -356,7 +357,6 @@
     },
     "tetrationiscool": {
         "fast": [
-            "frhd.co/t/51837/r/tetrationiscool",
             "frhd.co/t/455576/r/tetrationiscool",
             "frhd.co/t/215664/r/tetrationiscool",
             "frhd.co/t/9292/r/tetrationiscool",
