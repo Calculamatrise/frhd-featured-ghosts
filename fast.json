@@ -108,7 +108,6 @@
         "frhd.co/t/100595/r/madara",
         "frhd.co/t/575831/r/madara",
         "frhd.co/t/176055/r/madara",
-        "frhd.co/t/615261/r/madara",
         "frhd.co/t/232048/r/madara",
         "frhd.co/t/192560/r/madara",
         "frhd.co/t/290112/r/madara",
@@ -247,6 +246,9 @@
     "unghosted": [
         "frhd.co/t/226644/r/unghosted",
         "frhd.co/t/299698/r/unghosted"
+    ],
+    "unknown-rider": [
+        "frhd.co/t/615261/r/unknown-rider"
     ],
     "unspoken": [
         "frhd.co/t/1076/r/unspoken"
