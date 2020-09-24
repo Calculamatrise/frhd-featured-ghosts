@@ -165,7 +165,6 @@
         "vehicle": [
             "frhd.co/t/499876/r/madara",
             "frhd.co/t/557255/r/madara",
-            "frhd.co/t/291527/r/madara",
             "frhd.co/t/295373/r/madara",
             "frhd.co/t/187395/r/madara",
             "frhd.co/t/576233/r/madara",
@@ -326,7 +325,8 @@
     "rippedmagnet": {
         "vehicle": [
             "frhd.co/t/200043/r/rippedmagnet",
-            "frhd.co/t/736055/r/rippedmagnet"
+            "frhd.co/t/736055/r/rippedmagnet",
+            "frhd.co/t/291527/r/rippedmagnet"
         ]
     },
     "sidewalk": {
