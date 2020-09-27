@@ -101,7 +101,8 @@
             "frhd.co/t/660509/r/chaos-fallen",
             "frhd.co/t/1045/r/chaos-fallen",
             "frhd.co/t/420788/r/chaos-fallen",
-            "frhd.co/t/652249/r/chaos-fallen"
+            "frhd.co/t/652249/r/chaos-fallen",
+            "frhd.co/t/347736/r/chaos-fallen"
         ]
     },
     "dblu": {
@@ -149,7 +150,6 @@
     "madara": {
         "fast": [
             "frhd.co/t/442222/r/madara",
-            "frhd.co/t/347736/r/madara",
             "frhd.co/t/404782/r/madara",
             "frhd.co/t/587873/r/sanninx",
             "frhd.co/t/577268/r/madara",
@@ -427,7 +427,6 @@
         "fast": [
             "frhd.co/t/668267/r/ultraviolet",
             "frhd.co/t/579066/r/ultraviolet",
-            "frhd.co/t/714294/r/ultraviolet",
             "frhd.co/t/712894/r/ultraviolet",
             "frhd.co/t/683736/r/ultraviolet"
         ],
@@ -444,7 +443,8 @@
     },
     "unknown-rider": {
         "fast": [
-            "frhd.co/t/615261/r/unknown-rider"
+            "frhd.co/t/615261/r/unknown-rider",
+            "frhd.co/t/714294/r/unknown-rider"
         ]
     },
     "unspoken": {
