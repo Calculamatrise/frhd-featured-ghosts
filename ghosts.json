@@ -53,7 +53,8 @@
             "frhd.co/t/94801/r/anonyymi",
             "frhd.co/t/7444/r/anonyymi",
             "frhd.co/t/678574/r/anonyymi",
-            "frhd.co/t/11100/r/anonyymi"
+            "frhd.co/t/11100/r/anonyymi",
+            "frhd.co/t/95778/r/anonyymi"
         ],
         "trick": [
             "frhd.co/t/158140/r/anonyymi"
@@ -108,7 +109,8 @@
     },
     "charredlizard21": {
         "vehicle": [
-            "frhd.co/t/713577/r/charredlizard21"
+            "frhd.co/t/713577/r/charredlizard21",
+            "frhd.co/t/597025/r/charredlizard21"
         ]
     },
     "dblu": {
@@ -146,6 +148,12 @@
     "isekeb": {
         "fast": [
             "frhd.co/t/575587/r/isekeb"
+        ],    
+        "trick": [
+            "frhd.co/t/195874/r/isekeb"
+        ],    
+        "auto": [
+            "frhd.co/t/742086/r/isekeb"   
         ]
     },
     "madara": {
@@ -299,7 +307,8 @@
             "frhd.co/t/656352/r/redorblue"
         ],
         "auto": [
-            "frhd.co/t/721704/r/redorblue"
+            "frhd.co/t/721704/r/redorblue",
+            "frhd.co/t/737402/r/redorblue"
         ]
     },
     "resurrect": {
@@ -331,7 +340,8 @@
     "sidewalk": {
         "fast": [
             "frhd.co/t/127222/r/sidewalk",
-            "frhd.co/t/201528/r/sidewalk"
+            "frhd.co/t/201528/r/sidewalk",
+            "frhd.co/t/8808/r/sidewalk"
         ],
         "trick": [
             "frhd.co/t/455779/r/sidewalk"
