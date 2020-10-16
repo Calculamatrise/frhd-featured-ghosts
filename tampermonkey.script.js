@@ -8,11 +8,6 @@
 // @run-at       start
 // ==/UserScript==
 (function(){
-    function getTrack(track_id, callback = () => {}){
-        fetch(`https://www.freeriderhd.com/t/${track_id}?ajax`).then((response) => response.json()).then(json => {
-            callback(json);
-        });
-    }
     function getFeaturedGhosts(callback = () => {}){
         fetch(`https://raw.githubusercontent.com/Calculus0972/Official_Featured_Ghosts/master/ghosts.json`).then((response) => response.json()).then(json => {
             callback(json);
@@ -36,9 +31,9 @@
     getFeaturedGhosts(ghosts => {
         for(const a in ghosts){
             Arr[a] = [];
-            var arr = [ghosts[a].fast, ghosts[a].trick, ghosts[a].auto, ghosts[a].vehicle];
+            var arr = [ghosts[a].fast || [], ghosts[a].trick || [], ghosts[a].auto || [], ghosts[a].vehicle || []];
             arr.forEach((e)=>{
-                typeof e != undefined && e.forEach((e1)=>{
+                e.forEach((e1)=>{
                     Arr[a].push(e1);
                 });
             });
