@@ -50,8 +50,7 @@
                     }
                     for(const d in document.getElementsByClassName('track-leaderboard-race')){
                         if(document.getElementsByClassName('track-leaderboard-race')[d].innerText.toLowerCase() == name){
-                            document.querySelectorAll('.track-leaderboard-race')[d].style.color = "#e8a923",
-                            console.log(document.querySelectorAll('.track-leaderboard-race')[d].style.color)
+                            document.querySelectorAll('.track-leaderboard-race')[d].style.color = "#e8a923"
                         }
                     }
                 }
