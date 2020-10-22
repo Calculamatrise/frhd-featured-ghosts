@@ -49,8 +49,10 @@
                         name = name.substring(0, 12) + "..."
                     }
                     for(const d in document.getElementsByClassName('track-leaderboard-race')){
-                        if(document.getElementsByClassName('track-leaderboard-race')[d].innerText.toLowerCase() == name){
-                            document.querySelectorAll('.track-leaderboard-race')[d].style.color = "#e8a923"
+                        if(document.getElementsByClassName('track-leaderboard-race')[d].innerText) {
+                            if(document.getElementsByClassName('track-leaderboard-race')[d].innerText.toLowerCase() == name){
+                                document.querySelectorAll('.track-leaderboard-race')[d].style.color = "#e8a923"
+                            }
                         }
                     }
                 }
