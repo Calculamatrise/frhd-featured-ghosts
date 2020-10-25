@@ -106,7 +106,6 @@
             "frhd.co/t/274894/r/chaos-fallen",
             "frhd.co/t/197596/r/chaos-fallen",
             "frhd.co/t/542537/r/chaos-fallen",
-            "frhd.co/t/201528/r/chaos-fallen",
             "frhd.co/t/655951/r/chaos-fallen",
             "frhd.co/t/455576/r/chaos-fallen"
         ]
@@ -341,9 +340,7 @@
     },
     "sidewalk": {
         "fast": [
-            "frhd.co/t/127222/r/sidewalk",
-            "frhd.co/t/201528/r/sidewalk"
-        ],
+            "frhd.co/t/127222/r/sidewalk"
         "trick": [
             "frhd.co/t/455779/r/sidewalk"
         ]
@@ -452,7 +449,8 @@
             "frhd.co/t/615261/r/unknown-rider",
             "frhd.co/t/714294/r/unknown-rider",
             "frhd.co/t/608398/r/unknown-rider",
-            "frhd.co/t/198432/r/unknown-rider"
+            "frhd.co/t/198432/r/unknown-rider",
+            "frhd.co/t/201528/r/unknown-rider"
         ]
     },
     "unspoken": {
