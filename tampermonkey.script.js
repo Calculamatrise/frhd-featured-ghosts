@@ -3,6 +3,7 @@
 // @version      0.0.5
 // @author       Calculus
 // @match        *://www.freeriderhd.com/*
+// @match        *://frhd.kanoapps.com/*
 // ==/UserScript==
 !function(){
     fetch(`https://raw.githubusercontent.com/Calculus0972/Official_Featured_Ghosts/master/alias.json`).then((response) => response.json()).then(alias => {
