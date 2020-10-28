@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Feat. Ghost System
-// @version      3.0.0
+// @version      0.0.4
 // @author       Calculus
 // @match        *://www.freeriderhd.com/*
 // @grant        unsafeWindow
@@ -21,14 +21,14 @@
     var alias = {};
     getFeaturedAlias(aliases => {
         for(const a in aliases){
-            alias[a] = [];
-            aliases[a].forEach((b)=>{
-                alias[a].push(b)
+            alias[a] = {};
+            aliases[a].forEach((b, i = 0) => {
+                alias[a][b] = i++;
             })
         }
     });
-    var Arr = {};
     getFeaturedGhosts(ghosts => {
+        var Arr = {};
         for(const a in ghosts){
             Arr[a] = [];
             var arr = [ghosts[a].fast || [], ghosts[a].trick || [], ghosts[a].auto || [], ghosts[a].vehicle || []];
@@ -37,7 +37,7 @@
                     Arr[a].push(e1);
                 });
             });
-            for(const c in Arr[a]){
+            for(const c in Arr[a])
                 if(parseInt(location.pathname.split("/t/")[1]) == parseInt(Arr[a][c].substring(10))) {
                     var name = a;
                     for(var e in alias[a]){
@@ -56,7 +56,6 @@
                         }
                     }
                 }
-            }
         }
     })
 })();
