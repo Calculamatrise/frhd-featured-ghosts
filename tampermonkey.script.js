@@ -7,7 +7,7 @@
 // @grant        GM_setClipboard
 // @run-at       start
 // ==/UserScript==
-(function(){
+!function(){
     function getFeaturedGhosts(callback = () => {}){
         fetch(`https://raw.githubusercontent.com/Calculus0972/Official_Featured_Ghosts/master/ghosts.json`).then((response) => response.json()).then(json => {
             callback(json);
@@ -58,4 +58,4 @@
                 }
         }
     })
-})();
+}();
