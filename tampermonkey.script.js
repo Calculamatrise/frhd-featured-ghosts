@@ -40,11 +40,11 @@
             for(const c in Arr[a])
                 if(parseInt(location.pathname.split("/t/")[1]) == parseInt(Arr[a][c].substring(10))) {
                     var name = a;
-                    for(var e in alias[a]){
-                        if(Arr[a][c].slice(-alias[a][e].length) == alias[a][e]){
-                            name = alias[a][e]
+                    Object.keys(alias[a]).forEach(e => {
+                        if(Arr[a][c].slice(-e.length) == e){
+                            name = e
                         }
-                    }
+                    });
                     if(name.length > 15){
                         name = name.substring(0, 12) + "..."
                     }
