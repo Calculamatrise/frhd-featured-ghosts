@@ -38,7 +38,6 @@
         "frhd.co/t/1170/r/anonyymi",
         "frhd.co/t/211233/r/anonyymi",
         "frhd.co/t/678531/r/anonyymi",
-        "frhd.co/t/336160/r/anonyymi",
         "frhd.co/t/72227/r/anonyymi",
         "frhd.co/t/173968/r/anonyymi",
         "frhd.co/t/2995/r/anonyymi",
@@ -47,7 +46,6 @@
         "frhd.co/t/706438/r/anonyymi",
         "frhd.co/t/50046/r/anonyymi",
         "frhd.co/t/94801/r/anonyymi",
-        "frhd.co/t/7444/r/anonyymi",
         "frhd.co/t/678574/r/anonyymi",
         "frhd.co/t/11100/r/anonyymi"
     ],
@@ -146,8 +144,7 @@
     "reborn": [
         "frhd.co/t/431010/r/reborn",
         "frhd.co/t/1042/r/reborn",
-        "frhd.co/t/602609/r/reborn",
-        "frhd.co/t/468573/r/reborn"
+        "frhd.co/t/602609/r/reborn"
     ],
     "redopblue": [
         "frhd.co/t/1026/r/redopblue"
@@ -194,7 +191,8 @@
     ],
     "stevie.t": [
         "frhd.co/t/631619/r/stevie.t",
-        "frhd.co/t/509794/r/stevie.t"
+        "frhd.co/t/509794/r/stevie.t",
+        "frhd.co/t/468573/r/stevie.t"
     ],
     "synapse": [
         "frhd.co/t/297463/r/synapse",
@@ -249,8 +247,11 @@
         "frhd.co/t/608398/r/unknown-rider",
         "frhd.co/t/198432/r/unknown-rider",
         "frhd.co/t/201528/r/unknown-rider",
-        "frhd.co/t/354303/r/unknown-rider"
-        "frhd.co/t/1974/r/unknown-rider"  
+        "frhd.co/t/354303/r/unknown-rider",
+        "frhd.co/t/1974/r/unknown-rider",
+        "frhd.co/t/7444/r/unknown-rider",
+        "frhd.co/t/544020/r/unknown-rider",
+        "frhd.co/t/336160/r/unknown-rider"
     ],
     "unspoken": [
         "frhd.co/t/1076/r/unspoken"
