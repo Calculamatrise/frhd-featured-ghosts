@@ -58,7 +58,8 @@
     },
     "arroww": {
         "fast": [
-            "frhd.co/t/185066/r/arroww"
+            "frhd.co/t/185066/r/arroww",
+            "frhd.co/t/750874/r/arroww"
         ]
     },
     "backtwice": {
@@ -112,7 +113,8 @@
             "frhd.co/t/713577/r/charredlizard21",
             "frhd.co/t/597025/r/deeznutsforprez",
             "frhd.co/t/724857/r/charredlizard21",
-            "frhd.co/t/730968/r/charredlizard21"
+            "frhd.co/t/730968/r/charredlizard21",
+            "frhd.co/t/739180/r/charredlizard21"
         ]
     },
     "dblu": {
@@ -125,7 +127,8 @@
         "fast": [
             "frhd.co/t/8875/r/eryp",
             "frhd.co/t/1184/r/eryp",
-            "frhd.co/t/1728/r/eryp"
+            "frhd.co/t/1728/r/eryp",
+            "frhd.co/t/166501/r/eryp"
         ],
         "auto": [
             "frhd.co/t/3147/r/eryp"
@@ -178,7 +181,6 @@
             "frhd.co/t/499876/r/madara",
             "frhd.co/t/557255/r/madara",
             "frhd.co/t/295373/r/madara",
-            "frhd.co/t/187395/r/madara",
             "frhd.co/t/576233/r/madara",
             "frhd.co/t/527178/r/madara",
             "frhd.co/t/508734/r/madara",
@@ -347,9 +349,9 @@
             "frhd.co/t/455779/r/sidewalk"
         ]
     },
-    "skijumping": {
-        "auto": [
-            "frhd.co/t/709759/r/skijumping"
+    "skatitall: {
+        "fast": [
+            "frhd.co/t/1171/r/skatitall"
         ]
     },
     "slayed": {
@@ -365,7 +367,8 @@
     "stevie.t": {
         "fast": [
             "frhd.co/t/509794/r/stevie.t",
-            "frhd.co/t/468573/r/stevie.t"
+            "frhd.co/t/468573/r/stevie.t",
+            "frhd.co/t/345240/r/stevie.t"
         ],
         "vehicle": [
             "frhd.co/t/250678/r/stevie.t"
@@ -407,6 +410,9 @@
         ],
         "trick": [
             "frhd.co/t/435363/r/lordcarl71"
+        ],
+        "auto": [
+            "frhd.co/t/709759/r/totoca12"
         ]
     },
     "trainer_bob": {
@@ -445,6 +451,11 @@
             "frhd.co/t/299698/r/unghosted"
         ]
     },
+    "uniior": {
+        "vehicle": [
+            "frhd.co/t/187395/r/uniior"
+        ]
+    },    
     "unknown-rider": {
         "fast": [
             "frhd.co/t/615261/r/unknown-rider",
@@ -456,7 +467,9 @@
             "frhd.co/t/1974/r/unknown-rider",
             "frhd.co/t/7444/r/unknown-rider",
             "frhd.co/t/544020/r/unknown-rider",
-            "frhd.co/t/336160/r/unknown-rider"
+            "frhd.co/t/336160/r/unknown-rider",
+            "frhd.co/t/352687/r/unknown-rider",
+            "frhd.co/t/218144/r/unknown-rider"
         ]
     },
     "unspoken": {
