@@ -92,6 +92,11 @@
             "frhd.co/t/10013/r/precalculus"
         ]
     },
+    "cerulean": {
+        "auto": [
+            "frhd.co/t/709759/r/cerulean"
+        ]
+    },
     "chaos-fallen": {
         "fast": [
             "frhd.co/t/556324/r/chaos-fallen",
@@ -103,7 +108,6 @@
             "frhd.co/t/274894/r/chaos-fallen",
             "frhd.co/t/197596/r/chaos-fallen",
             "frhd.co/t/542537/r/chaos-fallen",
-            "frhd.co/t/655951/r/chaos-fallen",
             "frhd.co/t/455576/r/chaos-fallen",
             "frhd.co/t/431010/r/chaos-fallen"
         ]
@@ -121,6 +125,11 @@
         "fast": [
             "frhd.co/t/191253/r/dblu",
             "frhd.co/t/1254/r/dblu"
+        ]
+    },
+    "drchill": {
+        "fast": [
+            "frhd.co/t/655951/r/drchill"
         ]
     },
     "eryp": {
@@ -410,9 +419,6 @@
         ],
         "trick": [
             "frhd.co/t/435363/r/lordcarl71"
-        ],
-        "auto": [
-            "frhd.co/t/709759/r/totoca12"
         ]
     },
     "trainer_bob": {
