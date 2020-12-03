@@ -93,6 +93,10 @@
         ]
     },
     "cerulean": {
+        "fast": [
+            "frhd.co/t/690667/r/cerulean",
+            "frhd.co/t/53133/r/cerulean"
+        ],    
         "auto": [
             "frhd.co/t/709759/r/cerulean"
         ]
@@ -245,12 +249,6 @@
             "frhd.co/t/242211/r/mr..a",
             "frhd.co/t/715818/r/mr..a",
             "frhd.co/t/715618/r/mr..a"
-        ]
-    },
-    "mudkip": {
-        "fast": [
-            "frhd.co/t/53133/r/mudkip",
-            "frhd.co/t/690667/r/mudkip"
         ]
     },
     "ninjasparkour": {
