@@ -255,11 +255,16 @@
         "fast": [
             "frhd.co/t/520372/r/ninjasparkour",
             "frhd.co/t/298213/r/ninjasparkour",
-            "frhd.co/t/7011/r/ninjasparkour"
+            "frhd.co/t/7011/r/ninjasparkour",
+            "frhd.co/t/641550/r/xagefimuh",
+            "frhd.co/t/459503/r/xagefimuh"            
         ],
         "trick": [
             "frhd.co/t/2819/r/ninjasparkour"
-        ]
+        ],
+        "auto": [
+            "frhd.co/t/464750/r/xagefimuh"
+        ]    
     },
     "noob": {
         "trick": [
@@ -489,15 +494,6 @@
     "whisk": {
         "fast": [
             "frhd.co/t/282498/r/whisk"
-        ]
-    },
-    "xagefimuh": {
-        "fast": [
-            "frhd.co/t/641550/r/xagefimuh",
-            "frhd.co/t/459503/r/xagefimuh"
-        ],
-        "auto": [
-            "frhd.co/t/464750/r/xagefimuh"
         ]
     },
     "zycerak": {
