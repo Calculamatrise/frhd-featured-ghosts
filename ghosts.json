@@ -16,7 +16,6 @@
             "frhd.co/t/50145/r/anonyymi",
             "frhd.co/t/51574/r/anonyymi",
             "frhd.co/t/9300/r/anonyymi",
-            "frhd.co/t/215081/r/anonyymi",
             "frhd.co/t/127165/r/anonyymi",
             "frhd.co/t/222275/r/anonyymi",
             "frhd.co/t/9322/r/anonyymi",
@@ -97,7 +96,8 @@
     "cerulean": {
         "fast": [
             "frhd.co/t/579066/r/cerulean",
-            "frhd.co/t/690667/r/cerulean"
+            "frhd.co/t/690667/r/cerulean",
+            "frhd.co/t/215081/r/cerulean"
         ],    
         "auto": [
             "frhd.co/t/709759/r/cerulean"
