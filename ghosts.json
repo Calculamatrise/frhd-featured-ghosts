@@ -66,7 +66,8 @@
             "frhd.co/t/239108/r/backtwice",
             "frhd.co/t/290112/r/backtwice",
             "frhd.co/t/750874/r/backtwice",
-            "frhd.co/t/631619/r/backtwice"
+            "frhd.co/t/631619/r/backtwice",
+            "frhd.co/t/262859/r/backtwice"
         ],
         "auto": [
             "frhd.co/t/1334/r/backtwice"
@@ -98,6 +99,9 @@
             "frhd.co/t/579066/r/cerulean",
             "frhd.co/t/690667/r/cerulean",
             "frhd.co/t/215081/r/cerulean"
+        ],
+        "vehicle": [
+            "frhd.co/t/187395/r/cerulean"
         ],    
         "auto": [
             "frhd.co/t/709759/r/cerulean"
@@ -134,8 +138,7 @@
     },
     "drchill": {
         "fast": [
-            "frhd.co/t/655951/r/drchill",
-            "frhd.co/t/660509/r/drchill"
+            "frhd.co/t/655951/r/drchill"
         ]
     },
     "eryp": {
@@ -317,7 +320,8 @@
             "frhd.co/t/196676/r/redorblue",
             "frhd.co/t/233193/r/redorblue",
             "frhd.co/t/260513/r/redorblue",
-            "frhd.co/t/53133/r/trickghost"
+            "frhd.co/t/53133/r/trickghost",
+            "frhd.co/t/660509/r/redorblue"
         ],
         "trick": [
             "frhd.co/t/656352/r/redorblue"
@@ -378,7 +382,8 @@
         "fast": [
             "frhd.co/t/509794/r/stevie.t",
             "frhd.co/t/468573/r/stevie.t",
-            "frhd.co/t/345240/r/stevie.t"
+            "frhd.co/t/345240/r/stevie.t",
+            "frhd.co/t/608063/r/stevie.t"
         ],
         "vehicle": [
             "frhd.co/t/250678/r/stevie.t"
@@ -392,8 +397,7 @@
             "frhd.co/t/297463/r/synapse",
             "frhd.co/t/50114/r/synapse",
             "frhd.co/t/297012/r/synapse",
-            "frhd.co/t/411803/r/undertakerwwe",
-            "frhd.co/t/262859/r/synapse"
+            "frhd.co/t/411803/r/undertakerwwe"
         ]
     },
     "tetrationiscool": {
