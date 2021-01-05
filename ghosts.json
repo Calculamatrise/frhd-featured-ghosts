@@ -98,10 +98,13 @@
         "fast": [
             "frhd.co/t/579066/r/cerulean",
             "frhd.co/t/690667/r/cerulean",
-            "frhd.co/t/215081/r/cerulean"
+            "frhd.co/t/215081/r/cerulean",
+            "frhd.co/t/404782/r/cerulean",
+            "frhd.co/t/192560/r/cerulean"
         ],
         "vehicle": [
-            "frhd.co/t/187395/r/cerulean"
+            "frhd.co/t/187395/r/cerulean",
+            "frhd.co/t/557255/r/cerulean"
         ],    
         "auto": [
             "frhd.co/t/709759/r/cerulean"
@@ -182,17 +185,14 @@
     "madara": {
         "fast": [
             "frhd.co/t/442222/r/madara",
-            "frhd.co/t/404782/r/madara",
             "frhd.co/t/577268/r/madara",
             "frhd.co/t/100595/r/madara",
             "frhd.co/t/575831/r/madara",
             "frhd.co/t/176055/r/madara",
-            "frhd.co/t/232048/r/madara",
-            "frhd.co/t/192560/r/madara"
+            "frhd.co/t/232048/r/madara"
         ],
         "vehicle": [
             "frhd.co/t/499876/r/madara",
-            "frhd.co/t/557255/r/madara",
             "frhd.co/t/295373/r/madara",
             "frhd.co/t/576233/r/madara",
             "frhd.co/t/527178/r/madara",
@@ -383,7 +383,8 @@
             "frhd.co/t/509794/r/stevie.t",
             "frhd.co/t/468573/r/stevie.t",
             "frhd.co/t/345240/r/stevie.t",
-            "frhd.co/t/608063/r/stevie.t"
+            "frhd.co/t/608063/r/stevie.t",
+            "frhd.co/t/191253/r/stevie.t"
         ],
         "vehicle": [
             "frhd.co/t/250678/r/stevie.t"
