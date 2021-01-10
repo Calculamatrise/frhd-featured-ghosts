@@ -107,7 +107,8 @@
             "frhd.co/t/557255/r/cerulean"
         ],    
         "auto": [
-            "frhd.co/t/709759/r/cerulean"
+            "frhd.co/t/709759/r/cerulean",
+            "frhd.co/t/742086/r/cerulean"
         ]
     },
     "chaos-fallen": {
@@ -177,9 +178,6 @@
         ],    
         "trick": [
             "frhd.co/t/195874/r/isekeb"
-        ],    
-        "auto": [
-            "frhd.co/t/742086/r/isekeb"   
         ]
     },
     "madara": {
