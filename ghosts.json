@@ -51,7 +51,7 @@
             "frhd.co/t/678574/r/anonyymi",
             "frhd.co/t/11100/r/anonyymi"
         ],
-        "trick": [
+        "other": [
             "frhd.co/t/158140/r/anonyymi"
         ]
     },
@@ -66,7 +66,8 @@
             "frhd.co/t/290112/r/backtwice",
             "frhd.co/t/750874/r/backtwice",
             "frhd.co/t/631619/r/backtwice",
-            "frhd.co/t/262859/r/backtwice"
+            "frhd.co/t/262859/r/backtwice",
+            "frhd.co/t/8865/r/backtwice"
         ],
         "auto": [
             "frhd.co/t/1334/r/backtwice"
@@ -95,11 +96,19 @@
     },
     "cerulean": {
         "fast": [
-            "frhd.co/t/579066/r/cerulean",
             "frhd.co/t/690667/r/cerulean",
             "frhd.co/t/215081/r/cerulean",
             "frhd.co/t/404782/r/cerulean",
-            "frhd.co/t/192560/r/cerulean"
+            "frhd.co/t/192560/r/cerulean",
+            "frhd.co/t/594686/r/cerulean",
+            "frhd.co/t/250542/r/cerulean",
+            "frhd.co/t/580446/r/cerulean",
+            "frhd.co/t/546909/r/cerulean",
+            "frhd.co/t/720950/r/cerulean",
+            "frhd.co/t/737615/r/cerulean",
+            "frhd.co/t/773568/r/cerulean",
+            "frhd.co/t/508998/r/cerulean",
+            "frhd.co/t/608398/r/cerulean"
         ],
         "vehicle": [
             "frhd.co/t/187395/r/cerulean",
@@ -136,7 +145,9 @@
     },
     "dblu": {
         "fast": [
-            "frhd.co/t/1254/r/dblu",
+            "frhd.co/t/1254/r/dblu"
+        ],
+        "other": [
             "frhd.co/t/191253/r/dblu"
         ]
     },
@@ -265,7 +276,7 @@
         ]    
     },
     "noob": {
-        "trick": [
+        "other": [
             "frhd.co/t/3982/r/noob"
         ]
     },
@@ -374,6 +385,9 @@
     "spruce": {
         "fast": [
             "frhd.co/t/443126/r/aiice"
+        ],
+        "other": [
+            "frhd.co/t/682672/r/dumptruck"
         ]
     },
     "stevie.t": {
@@ -427,7 +441,6 @@
     },
     "trainer_bob": {
         "fast": [
-            "frhd.co/t/8865/r/trainer_bob",
             "frhd.co/t/1554/r/trainer_bob",
             "frhd.co/t/92960/r/trainer_bob",
             "frhd.co/t/305440/r/trainer_bob"
@@ -469,7 +482,6 @@
         "fast": [
             "frhd.co/t/615261/r/unknown-rider",
             "frhd.co/t/714294/r/unknown-rider",
-            "frhd.co/t/608398/r/unknown-rider",
             "frhd.co/t/198432/r/unknown-rider",
             "frhd.co/t/201528/r/unknown-rider",
             "frhd.co/t/354303/r/unknown-rider",
