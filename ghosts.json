@@ -390,6 +390,9 @@
             "frhd.co/t/388497/r/aiice",
             "frhd.co/t/10280/r/dumptruck"
         ],
+        "trick": [
+            "frhd.co/t/163774/r/dumptruck"
+        ],
         "other": [
             "frhd.co/t/682672/r/dumptruck"
         ]
@@ -407,6 +410,9 @@
         ],  
         "trick": [
             "frhd.co/t/568797/r/stevie.t"
+        ],
+        "auto": [
+            "frhd.co/t/306836/r/stevie.t"
         ]
     },
     "synapse": {
