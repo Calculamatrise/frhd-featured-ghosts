@@ -115,7 +115,8 @@
         ],    
         "auto": [
             "frhd.co/t/709759/r/cerulean",
-            "frhd.co/t/742086/r/cerulean"
+            "frhd.co/t/742086/r/cerulean",
+            "frhd.co/t/3147/r/cerulean"
         ]
     },
     "chaos-fallen": {
@@ -162,9 +163,6 @@
             "frhd.co/t/1184/r/eryp",
             "frhd.co/t/1728/r/eryp",
             "frhd.co/t/166501/r/eryp"
-        ],
-        "auto": [
-            "frhd.co/t/3147/r/eryp"
         ]
     },
     "freelander2": {
