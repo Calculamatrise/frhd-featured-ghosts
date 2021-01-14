@@ -309,10 +309,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/773568/r/cerulean",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/508998/r/cerulean",
             "type": "fast"
         },
@@ -1003,10 +999,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/558197/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/592611/r/tetrationiscool",
             "type": "fast"
         },
@@ -1028,10 +1020,6 @@
         },
         {
             "url": "frhd.co/t/473132/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/106750/r/tetrationiscool",
             "type": "fast"
         },
         {
@@ -1196,6 +1184,22 @@
         },
         {
             "url": "frhd.co/t/179558/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/773568/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/558197/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/395374/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/106750/r/xverse",
             "type": "fast"
         }
     ],
