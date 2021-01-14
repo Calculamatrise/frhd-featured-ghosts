@@ -313,7 +313,11 @@
         {
             "url": "frhd.co/t/185066/r/cerulean",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/773568/r/cerulean",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/709759/r/cerulean",
             "type": "auto"
@@ -1182,10 +1186,6 @@
         },
         {
             "url": "frhd.co/t/179558/r/xverse",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/773568/r/xverse",
             "type": "fast"
         },
         {
