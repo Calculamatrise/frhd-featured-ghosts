@@ -249,10 +249,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/446203/r/precalculus",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/10013/r/precalculus",
             "type": "trick"
         }
@@ -1071,10 +1067,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/681049/r/tuttifruity",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/713010/r/tuttifruity",
             "type": "fast"
         },
@@ -1199,7 +1191,15 @@
         {
             "url": "frhd.co/t/106750/r/xverse",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/681049/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/446203/r/xverse",
+            "type": "fast"
+        }        
     ],
     "zycerak": [
         {
