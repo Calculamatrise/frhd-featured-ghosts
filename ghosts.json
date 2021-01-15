@@ -241,10 +241,6 @@
     ],
     "calculus": [
         {
-            "url": "frhd.co/t/170958/r/calculus",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/10013/r/precalculus",
             "type": "trick"
         }
@@ -1238,6 +1234,10 @@
         },
         {
             "url": "frhd.co/t/627153/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/170958/r/xverse",
             "type": "fast"
         }          
     ],
