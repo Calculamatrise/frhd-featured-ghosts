@@ -245,10 +245,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/627153/r/precalculus",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/10013/r/precalculus",
             "type": "trick"
         }
@@ -381,6 +377,28 @@
             "type": "fast"
         }
     ],
+    "charredlizard21": [
+        {
+            "url": "frhd.co/t/713577/r/charredlizard21",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/597025/r/deeznutsforprez",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/724857/r/charredlizard21",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/730968/r/charredlizard21",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/739180/r/charredlizard21",
+            "type": "vehicle"
+        }
+    ],    
     "dblu": [
         {
             "url": "frhd.co/t/1254/r/dblu",
@@ -711,6 +729,12 @@
             "type": "auto"
         }
     ],
+    "noob": [
+        {
+            "url": "frhd.co/t/3982/r/noob",
+            "type": "other"
+        }
+    ],    
     "notverygood": [
         {
             "url": "frhd.co/t/1906/r/campaigned",
@@ -897,6 +921,12 @@
             "type": "trick"
         }
     ],
+    "rippedmagnet": [
+        {
+            "url": "frhd.co/t/291527/r/rippedmagnet",
+            "type": "vehicle"
+        }
+    ],    
     "sidewalk": [
         {
             "url": "frhd.co/t/127222/r/sidewalk",
@@ -913,6 +943,12 @@
             "type": "fast"
         }
     ],
+    "slayed": [
+        {
+            "url": "frhd.co/t/568797/r/slayed",
+            "type": "trick"
+        }
+    ],    
     "spruce": [
         {
             "url": "frhd.co/t/443126/r/aiice",
@@ -1199,7 +1235,11 @@
         {
             "url": "frhd.co/t/446203/r/xverse",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/627153/r/xverse",
+            "type": "fast"
+        }          
     ],
     "zycerak": [
         {
@@ -1245,46 +1285,6 @@
         {
             "url": "frhd.co/t/712645/r/zycerak",
             "type": "auto"
-        }
-    ],
-    "slayed": [
-        {
-            "url": "frhd.co/t/568797/r/slayed",
-            "type": "trick"
-        }
-    ],
-    "charredlizard21": [
-        {
-            "url": "frhd.co/t/713577/r/charredlizard21",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/597025/r/deeznutsforprez",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/724857/r/charredlizard21",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/730968/r/charredlizard21",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/739180/r/charredlizard21",
-            "type": "vehicle"
-        }
-    ],
-    "rippedmagnet": [
-        {
-            "url": "frhd.co/t/291527/r/rippedmagnet",
-            "type": "vehicle"
-        }
-    ],
-    "noob": [
-        {
-            "url": "frhd.co/t/3982/r/noob",
-            "type": "other"
         }
     ]
 }
