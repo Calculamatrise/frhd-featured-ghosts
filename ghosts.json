@@ -349,10 +349,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/274894/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/197596/r/chaos-fallen",
             "type": "fast"
         },
@@ -958,6 +954,10 @@
             "url": "frhd.co/t/10280/r/dumptruck",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/274894/r/dumptruck",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/163774/r/dumptruck",
             "type": "trick"
