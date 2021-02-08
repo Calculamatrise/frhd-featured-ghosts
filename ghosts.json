@@ -325,6 +325,10 @@
         {
             "url": "frhd.co/t/557255/r/cerulean",
             "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/724857/r/cerulean",
+            "type": "vehicle"
         }
     ],
     "chaos-fallen": [
@@ -376,10 +380,6 @@
         },
         {
             "url": "frhd.co/t/597025/r/deeznutsforprez",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/724857/r/charredlizard21",
             "type": "vehicle"
         },
         {
