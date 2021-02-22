@@ -311,6 +311,18 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/779494/r/cerulean",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/671692/r/cerulean",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/763401/r/cerulean",
+            "type": "fast"
+        },
+        {
             "url": "frhd.co/t/709759/r/cerulean",
             "type": "auto"
         },
@@ -333,7 +345,11 @@
         {
             "url": "frhd.co/t/724857/r/cerulean",
             "type": "vehicle"
-        }
+        },
+        {
+            "url": "frhd.co/t/743264/r/cerulean",
+            "type": "vehicle"
+        }        
     ],
     "chaos-fallen": [
         {
@@ -375,7 +391,11 @@
         {
             "url": "frhd.co/t/544020/r/chaos-fallen",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/784525/r/chaos-fallen",
+            "type": "fast"
+        }        
     ],
     "charredlizard21": [
         {
@@ -394,7 +414,25 @@
             "url": "frhd.co/t/739180/r/charredlizard21",
             "type": "vehicle"
         }
-    ],    
+    ],
+    "cork": [
+        {
+            "url": "frhd.co/t/257665/r/cork",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/224456/r/cork",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/220374/r/cork",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/236046/r/cork",
+            "type": "fast"
+        }
+    ],      
     "dblu": [
         {
             "url": "frhd.co/t/1254/r/dblu",
@@ -413,7 +451,11 @@
         {
             "url": "frhd.co/t/768770/r/drchill",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/766541/r/drchill",
+            "type": "fast"
+        }        
     ],
     "eryp": [
         {
@@ -459,10 +501,20 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/733399/r/isekeb",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/195874/r/isekeb",
             "type": "trick"
         }
     ],
+    "lax66lax": [     
+        {
+            "url": "frhd.co/t/61055/r/lax66lax",
+            "type": "auto"
+        }
+    ],    
     "madara": [
         {
             "url": "frhd.co/t/442222/r/madara",
@@ -488,6 +540,10 @@
             "url": "frhd.co/t/232048/r/madara",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/709238/r/madara",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
@@ -723,7 +779,11 @@
         {
             "url": "frhd.co/t/464750/r/xagefimuh",
             "type": "auto"
-        }
+        },
+        {
+            "url": "frhd.co/t/62033/r/xagefimuh",
+            "type": "auto"
+        }        
     ],
     "noob": [
         {
@@ -873,6 +933,10 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/776922/r/redorblue",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
         },
@@ -921,7 +985,11 @@
         {
             "url": "frhd.co/t/291527/r/rippedmagnet",
             "type": "vehicle"
-        }
+        },
+        {
+            "url": "frhd.co/t/746191/r/rippedmagnet",
+            "type": "vehicle"
+        }        
     ],    
     "sidewalk": [
         {
@@ -937,7 +1005,11 @@
         {
             "url": "frhd.co/t/1171/r/skatitall",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/781113/r/skatitall",
+            "type": "fast"
+        }        
     ],
     "slayed": [
         {
@@ -961,7 +1033,15 @@
         {
             "url": "frhd.co/t/274894/r/dumptruck",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/533484/r/dumptruck",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/781335/r/dumptruck",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/163774/r/dumptruck",
             "type": "trick"
@@ -992,6 +1072,10 @@
             "url": "frhd.co/t/191253/r/stevie.t",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/778969/r/stevie.t",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/568797/r/stevie.t",
             "type": "trick"
@@ -1239,7 +1323,27 @@
         {
             "url": "frhd.co/t/354303/r/xverse",
             "type": "fast"
-        }        
+        }
+        {
+            "url": "frhd.co/t/671625/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/483251/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/677071/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/781696/r/xverse",
+            "type": "fast"
+        },   
+        {
+            "url": "frhd.co/t/785392/r/xverse",
+            "type": "fast"
+        }           
     ],
     "zycerak": [
         {
