@@ -183,10 +183,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/290112/r/backtwice",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/750874/r/backtwice",
             "type": "fast"
         },
@@ -320,6 +316,10 @@
             "url": "frhd.co/t/763401/r/cerulean",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/290112/r/cerulean",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/709759/r/cerulean",
             "type": "auto"
