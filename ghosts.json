@@ -1,10 +1,4 @@
 {
-    "adversitas": [
-        {
-            "url": "frhd.co/t/3982/r/adversitas",
-            "type": "fast"
-        }
-    ],
     "anonyymi": [
         {
             "url": "frhd.co/t/243884/r/anonyymi",
@@ -318,6 +312,10 @@
             "url": "frhd.co/t/671692/r/cerulean",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/3982/r/cerulean",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/763401/r/cerulean",
             "type": "fast"
