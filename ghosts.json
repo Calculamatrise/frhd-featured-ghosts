@@ -425,10 +425,6 @@
         {
             "url": "frhd.co/t/220374/r/cork",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/236046/r/cork",
-            "type": "fast"
         }
     ],      
     "dblu": [
@@ -1340,6 +1336,10 @@
         },
         {
             "url": "frhd.co/t/594686/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/236046/r/xverse",
             "type": "fast"
         }        
     ],
