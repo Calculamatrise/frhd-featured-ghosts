@@ -249,10 +249,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/594686/r/cerulean",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/250542/r/cerulean",
             "type": "fast"
         },
@@ -1341,7 +1337,11 @@
         {
             "url": "frhd.co/t/785392/r/xverse",
             "type": "fast"
-        }           
+        },
+        {
+            "url": "frhd.co/t/594686/r/xverse",
+            "type": "fast"
+        }        
     ],
     "zycerak": [
         {
