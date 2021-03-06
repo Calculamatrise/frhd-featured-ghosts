@@ -315,7 +315,11 @@
         {
             "url": "frhd.co/t/548098/r/cerulean",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/226644/r/cerulean",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/709759/r/cerulean",
             "type": "auto"
@@ -1208,10 +1212,6 @@
         }
     ],
     "unghosted": [
-        {
-            "url": "frhd.co/t/226644/r/unghosted",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/299698/r/unghosted",
             "type": "fast"
