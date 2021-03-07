@@ -319,6 +319,10 @@
         {
             "url": "frhd.co/t/226644/r/cerulean",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/8875/r/cerulean",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/709759/r/cerulean",
@@ -456,10 +460,6 @@
         }        
     ],
     "eryp": [
-        {
-            "url": "frhd.co/t/8875/r/eryp",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/1184/r/eryp",
             "type": "fast"
