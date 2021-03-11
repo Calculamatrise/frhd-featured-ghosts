@@ -195,6 +195,10 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/52773/r/backtwice",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/1334/r/backtwice",
             "type": "auto"
         }
@@ -466,10 +470,6 @@
         }
     ],
     "freelander2": [
-        {
-            "url": "frhd.co/t/52773/r/freelander2",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/52341/r/freelander2",
             "type": "auto"
