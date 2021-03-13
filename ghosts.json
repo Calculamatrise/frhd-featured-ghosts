@@ -625,10 +625,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/53080/r/mr..a",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/680654/r/mr..a",
             "type": "fast"
         },
@@ -917,6 +913,10 @@
         {
             "url": "frhd.co/t/776922/r/redorblue",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/53080/r/redorblue",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/656352/r/redorblue",
@@ -1125,10 +1125,6 @@
         {
             "url": "frhd.co/t/217107/r/tetrationiscool",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/487217/r/tetrationiscool",
-            "type": "fast"
         }
     ],
     "totoca12": [
@@ -1332,6 +1328,10 @@
         },
         {
             "url": "frhd.co/t/100595/r/xverse",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/487217/r/xverse",
             "type": "fast"
         }        
     ],
