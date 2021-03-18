@@ -1119,10 +1119,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/473132/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/217107/r/tetrationiscool",
             "type": "fast"
         }
@@ -1333,7 +1329,12 @@
         {
             "url": "frhd.co/t/487217/r/xverse",
             "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/473132/r/xverse",
+            "type": "fast"
         }        
+        
     ],
     "zycerak": [
         {
