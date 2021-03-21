@@ -197,11 +197,7 @@
         {
             "url": "frhd.co/t/52773/r/backtwice",
             "type": "fast"
-        },        
-        {
-            "url": "frhd.co/t/1334/r/backtwice",
-            "type": "auto"
-        }
+        }        
     ],
     "brendanmagill": [
         {
@@ -1139,7 +1135,11 @@
         {
             "url": "frhd.co/t/435363/r/lordcarl71",
             "type": "trick"
-        }
+        },
+        {
+            "url": "frhd.co/t/1334/r/totoca12",
+            "type": "auto"
+        }        
     ],
     "trainer_bob": [
         {
