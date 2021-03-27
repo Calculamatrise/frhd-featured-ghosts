@@ -461,12 +461,6 @@
             "type": "fast"
         }
     ],
-    "freelander2": [
-        {
-            "url": "frhd.co/t/52341/r/freelander2",
-            "type": "auto"
-        }
-    ],
     "hairy.landesburg788": [
         {
             "url": "frhd.co/t/72229/r/hairy.landesburg788",
@@ -964,6 +958,12 @@
             "url": "frhd.co/t/746191/r/rippedmagnet",
             "type": "vehicle"
         }        
+    ],    
+    "shamatoz": [
+        {
+            "url": "frhd.co/t/52341/r/shamatoz",
+            "type": "auto"
+        }
     ],    
     "sidewalk": [
         {
