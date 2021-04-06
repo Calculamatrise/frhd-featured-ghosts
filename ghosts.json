@@ -1,10 +1,4 @@
 {
-    "adrenalize": [
-        {
-            "url": "frhd.co/t/52341/r/adrenalize",
-            "type": "auto"
-        }
-    ],
     "anonyymi": [
         {
             "url": "frhd.co/t/243884/r/anonyymi",
@@ -174,13 +168,7 @@
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
         }
-    ],
-    "arroww": [
-        {
-            "url": "frhd.co/t/750575/r/arroww",
-            "type": "fast"
-        }
-    ],        
+    ],       
     "backtwice": [
         {
             "url": "frhd.co/t/239108/r/backtwice",
@@ -239,6 +227,12 @@
             "type": "trick"
         }
     ],
+    "cerasium": [
+        {
+            "url": "frhd.co/t/52341/r/cerasium",
+            "type": "auto"
+        }
+    ],       
     "cerulean": [
         {
             "url": "frhd.co/t/690667/r/cerulean",
@@ -357,13 +351,33 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/201857/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/750575/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/220374/r/cerulean",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/273315/r/cerulean",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/257665/r/cerulean",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/796822/r/cerulean",
             "type": "trick"
         },
         {
             "url": "frhd.co/t/801452/r/cerulean",
             "type": "trick"
-        },        
+        },       
         {
             "url": "frhd.co/t/709759/r/cerulean",
             "type": "auto"
@@ -459,21 +473,9 @@
     ],
     "cork": [
         {
-            "url": "frhd.co/t/257665/r/cork",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/224456/r/cork",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/220374/r/cork",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/273315/r/cork",
-            "type": "fast"
-        }        
+        }       
     ],      
     "dblu": [
         {
@@ -1432,10 +1434,6 @@
         },
         {
             "url": "frhd.co/t/421663/r/zycerak",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/201857/r/zycerak",
             "type": "fast"
         },
         {
