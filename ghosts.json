@@ -1173,10 +1173,6 @@
     ],
     "totoca12": [
         {
-            "url": "frhd.co/t/384996/r/alzakhion",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/319404/r/alzakhion",
             "type": "fast"
         },
@@ -1401,7 +1397,11 @@
         {
             "url": "frhd.co/t/795679/r/xverse",
             "type": "fast"
-        }            
+        },
+        {
+            "url": "frhd.co/t/384996/r/xverse",
+            "type": "fast"
+        }        
     ],
     "zycerak": [
         {
