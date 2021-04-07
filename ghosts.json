@@ -365,9 +365,17 @@
         {
             "url": "frhd.co/t/273315/r/cerulean",
             "type": "fast"
-        },
+        },     
         {
             "url": "frhd.co/t/257665/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/668128/r/cerulean",
+            "type": "fast"
+        },           
+        {
+            "url": "frhd.co/t/575587/r/cerulean",
             "type": "fast"
         },        
         {
@@ -500,6 +508,10 @@
             "url": "frhd.co/t/766541/r/drchill",
             "type": "fast"
         },
+         {
+            "url": "frhd.co/t/451691/r/drchill",
+            "type": "fast"
+        },       
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
@@ -530,10 +542,6 @@
         }
     ],
     "isekeb": [
-        {
-            "url": "frhd.co/t/575587/r/isekeb",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/733399/r/isekeb",
             "type": "fast"
@@ -653,10 +661,6 @@
     ],
     "mr..a": [
         {
-            "url": "frhd.co/t/451691/r/mr..a",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/462701/r/mr..a",
             "type": "fast"
         },
@@ -682,10 +686,6 @@
         },
         {
             "url": "frhd.co/t/710486/r/mr..a",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/274437/r/mr..a",
             "type": "fast"
         },
         {
@@ -821,12 +821,6 @@
         {
             "url": "frhd.co/t/1051/r/notverygood",
             "type": "auto"
-        }
-    ],
-    "odala": [
-        {
-            "url": "frhd.co/t/668128/r/odala",
-            "type": "fast"
         }
     ],
     "reborn": [
