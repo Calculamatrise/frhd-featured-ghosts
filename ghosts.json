@@ -511,7 +511,11 @@
          {
             "url": "frhd.co/t/451691/r/drchill",
             "type": "fast"
-        },       
+        },    
+        {
+            "url": "frhd.co/t/578350/r/drchill",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
@@ -662,10 +666,6 @@
     "mr..a": [
         {
             "url": "frhd.co/t/462701/r/mr..a",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/578350/r/mr..a",
             "type": "fast"
         },
         {
