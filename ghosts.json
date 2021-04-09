@@ -459,11 +459,7 @@
         {
             "url": "frhd.co/t/784525/r/chaos-fallen",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/352687/r/chaos-fallenr",
-            "type": "fast"
-        }        
+        }      
     ],
     "charredlizard21": [
         {
@@ -585,7 +581,11 @@
         {
             "url": "frhd.co/t/709238/r/madara",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/352687/r/madara",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
