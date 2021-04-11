@@ -37,10 +37,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/9300/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/127165/r/anonyymi",
             "type": "fast"
         },
@@ -376,6 +372,10 @@
         },           
         {
             "url": "frhd.co/t/575587/r/cerulean",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/9300/r/cerulean",
             "type": "fast"
         },        
         {
