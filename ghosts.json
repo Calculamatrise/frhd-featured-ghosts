@@ -161,10 +161,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/167075/r/anonyymi",
-            "type": "fast"
-        },        
-        {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
         }
@@ -959,7 +955,11 @@
         {
             "url": "frhd.co/t/799917/r/redorblue",
             "type": "fast"
-        },          
+        },   
+        {
+            "url": "frhd.co/t/167075/r/redorblue",
+            "type": "fast"
+        },                
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
