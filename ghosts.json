@@ -45,10 +45,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/9322/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/57539/r/anonyymi",
             "type": "fast"
         },
@@ -227,7 +223,11 @@
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
-        }
+        },
+        {
+            "url": "frhd.co/t/155806/r/cerasium",
+            "type": "auto"
+        }        
     ],       
     "cerulean": [
         {
@@ -236,14 +236,6 @@
         },
         {
             "url": "frhd.co/t/215081/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/404782/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/192560/r/cerulean",
             "type": "fast"
         },
         {
@@ -267,15 +259,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/508998/r/cerulean",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/608398/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/342707/r/cerulean",
             "type": "fast"
         },
         {
@@ -375,7 +359,31 @@
             "type": "fast"
         }, 
         {
+            "url": "frhd.co/t/759205/r/cerulean",
+            "type": "fast"
+        },         
+        {
             "url": "frhd.co/t/9300/r/cerulean",
+            "type": "fast"
+        },        
+        {
+            "url": "frhd.co/t/808554/r/cerulean",
+            "type": "fast"
+        },      
+        {
+            "url": "frhd.co/t/808681/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/668267/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/578350/r/cerulean",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/9322/r/cerulean",
             "type": "fast"
         },        
         {
@@ -507,11 +515,11 @@
          {
             "url": "frhd.co/t/451691/r/drchill",
             "type": "fast"
-        },    
+        },     
         {
-            "url": "frhd.co/t/578350/r/drchill",
+            "url": "frhd.co/t/291322/r/drchill",
             "type": "fast"
-        },        
+        },          
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
@@ -582,6 +590,14 @@
             "url": "frhd.co/t/709238/r/madara",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/803992/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/225125/r/madara",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/352687/r/madara",
             "type": "fast"
@@ -669,10 +685,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/651059/r/mr..a",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/680654/r/mr..a",
             "type": "fast"
         },
@@ -682,10 +694,6 @@
         },
         {
             "url": "frhd.co/t/708087/r/mr..a",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/710486/r/mr..a",
             "type": "fast"
         },
         {
@@ -959,7 +967,39 @@
         {
             "url": "frhd.co/t/167075/r/redorblue",
             "type": "fast"
-        },                
+        },    
+        {
+            "url": "frhd.co/t/771504/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/318674/r/redorblue",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/710486/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/651059/r/redorblue",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/404782/r/redorblue",
+            "type": "fast"
+        },    
+        {
+            "url": "frhd.co/t/342707/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/508998/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/192560/r/redorblue",
+            "type": "fast"
+        },       
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1213,10 +1253,6 @@
     ],
     "ultraviolet": [
         {
-            "url": "frhd.co/t/668267/r/ultraviolet",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/683736/r/ultraviolet",
             "type": "fast"
         },
@@ -1395,7 +1431,11 @@
         {
             "url": "frhd.co/t/384996/r/xverse",
             "type": "fast"
-        }        
+        }, 
+        {
+            "url": "frhd.co/t/467979/r/xverse",
+            "type": "fast"
+        }          
     ],
     "zycerak": [
         {
