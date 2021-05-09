@@ -429,10 +429,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/1045/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/420788/r/chaos-fallen",
             "type": "fast"
         },
@@ -1443,7 +1439,11 @@
         {
             "url": "frhd.co/t/467979/r/xverse",
             "type": "fast"
-        }          
+        },  
+        {
+            "url": "frhd.co/t/1045/r/xverse",
+            "type": "fast"
+        }        
     ],
     "zycerak": [
         {
