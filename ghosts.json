@@ -467,7 +467,11 @@
         {
             "url": "frhd.co/t/421663/r/chaos-fallen",
             "type": "fast"
-        }        
+        },  
+        {
+            "url": "frhd.co/t/291322/r/chaos-fallen",
+            "type": "fast"
+        }               
     ],
     "charredlizard21": [
         {
@@ -519,11 +523,7 @@
          {
             "url": "frhd.co/t/451691/r/drchill",
             "type": "fast"
-        },     
-        {
-            "url": "frhd.co/t/291322/r/drchill",
-            "type": "fast"
-        },          
+        },        
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
