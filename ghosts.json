@@ -441,10 +441,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/9351/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/197596/r/chaos-fallen",
             "type": "fast"
         },
@@ -612,6 +608,10 @@
         },          
         {
             "url": "frhd.co/t/336160/r/madara",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/9351/r/madara",
             "type": "fast"
         },        
         {
