@@ -1281,10 +1281,6 @@
     ],
     "unknown-rider": [
         {
-            "url": "frhd.co/t/615261/r/unknown-rider",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/714294/r/unknown-rider",
             "type": "fast"
         },
@@ -1443,7 +1439,11 @@
         {
             "url": "frhd.co/t/1045/r/xverse",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/615261/r/xverse",
+            "type": "fast"
+        }       
     ],
     "zycerak": [
         {
