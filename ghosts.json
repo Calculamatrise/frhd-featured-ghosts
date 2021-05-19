@@ -233,6 +233,10 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/396742/r/cerasium",
+            "type": "fast"
+        },            
+        {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
         },
@@ -435,10 +439,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/724857/r/cerulean",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/743264/r/cerulean",
             "type": "vehicle"
         }      
@@ -504,6 +504,10 @@
         },
         {
             "url": "frhd.co/t/730968/r/charredlizard21",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/724857/r/charredlizard21",
             "type": "vehicle"
         }        
     ],
@@ -1491,11 +1495,7 @@
         {
             "url": "frhd.co/t/615261/r/xverse",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/396742/r/xverse",
-            "type": "fast"
-        },           
+        },       
         {
             "url": "frhd.co/t/813657/r/xverse",
             "type": "fast"
