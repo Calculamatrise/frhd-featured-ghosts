@@ -235,7 +235,15 @@
         {
             "url": "frhd.co/t/396742/r/cerasium",
             "type": "fast"
-        },            
+        },    
+        {
+            "url": "frhd.co/t/282498/r/cerasium",
+            "type": "fast"
+        },   
+        {
+            "url": "frhd.co/t/708087/r/cerasium",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -730,10 +738,6 @@
         },
         {
             "url": "frhd.co/t/492949/r/mr..a",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/708087/r/mr..a",
             "type": "fast"
         },
         {
@@ -1374,12 +1378,6 @@
         },
         {
             "url": "frhd.co/t/9331/r/we_are_number_one",
-            "type": "fast"
-        }
-    ],
-    "whisk": [
-        {
-            "url": "frhd.co/t/282498/r/whisk",
             "type": "fast"
         }
     ],
