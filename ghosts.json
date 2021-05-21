@@ -267,7 +267,11 @@
         {
             "url": "frhd.co/t/196564/r/cerasium",
             "type": "auto"
-        }         
+        },
+        {
+            "url": "frhd.co/t/737402/r/cerasium",
+            "type": "auto"
+        }            
     ],       
     "cerulean": [
         {
@@ -1066,10 +1070,6 @@
         },
         {
             "url": "frhd.co/t/721704/r/redorblue",
-            "type": "auto"
-        },
-        {
-            "url": "frhd.co/t/737402/r/redorblue",
             "type": "auto"
         }
     ],
