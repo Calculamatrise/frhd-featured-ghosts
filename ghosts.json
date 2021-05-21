@@ -21,10 +21,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/5337/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/11092/r/anonyymi",
             "type": "fast"
         },
@@ -251,7 +247,15 @@
         {
             "url": "frhd.co/t/708087/r/cerasium",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/5337/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/10280/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -1156,10 +1160,6 @@
         },
         {
             "url": "frhd.co/t/388497/r/aiice",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/10280/r/dumptruck",
             "type": "fast"
         },
         {
