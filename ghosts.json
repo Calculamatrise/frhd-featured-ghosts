@@ -275,6 +275,10 @@
         {
             "url": "frhd.co/t/737402/r/cerasium",
             "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/1334/r/cerasium",
+            "type": "auto"
         }            
     ],       
     "cerulean": [
@@ -1285,11 +1289,7 @@
         {
             "url": "frhd.co/t/435363/r/lordcarl71",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/1334/r/totoca12",
-            "type": "auto"
-        }        
+        }    
     ],
     "trainer_bob": [
         {
