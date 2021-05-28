@@ -1071,6 +1071,10 @@
         {
             "url": "frhd.co/t/232048/r/redorblue",
             "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/9331/r/redorblue",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/656352/r/redorblue",
@@ -1357,10 +1361,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/7444/r/unknown-rider",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/218144/r/unknown-rider",
             "type": "fast"
         }
@@ -1374,10 +1374,6 @@
     "we_are_number_one": [
         {
             "url": "frhd.co/t/1034/r/we_are_number_one",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/9331/r/we_are_number_one",
             "type": "fast"
         }
     ],
@@ -1501,7 +1497,11 @@
         {
             "url": "frhd.co/t/713010/r/xverse",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/7444/r/xverse",
+            "type": "fast"
+        }       
     ],
     "zycerak": [
         {
