@@ -539,10 +539,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/597025/r/typicaleshay",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/739180/r/charredlizard21",
             "type": "vehicle"
         },
@@ -1333,6 +1329,12 @@
             "type": "vehicle"
         }
     ],
+    "uniior": [
+        {
+            "url": "frhd.co/t/597025/r/uniior",
+            "type": "vehicle"
+        }
+    ],     
     "unghosted": [
         {
             "url": "frhd.co/t/299698/r/unghosted",
