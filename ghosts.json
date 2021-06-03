@@ -263,7 +263,11 @@
         {
             "url": "frhd.co/t/750874/r/cerasium",
             "type": "fast"
-        },        
+        },  
+        {
+            "url": "frhd.co/t/3306/r/cerasium",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -523,11 +527,7 @@
         {
             "url": "frhd.co/t/291322/r/chaos-fallen",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/3306/r/chaos-fallen",
-            "type": "fast"
-        }        
+        }     
     ],
     "charredlizard21": [
         {
