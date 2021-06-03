@@ -1039,11 +1039,7 @@
         {
             "url": "frhd.co/t/651059/r/redorblue",
             "type": "fast"
-        },  
-        {
-            "url": "frhd.co/t/404782/r/redorblue",
-            "type": "fast"
-        },    
+        },     
         {
             "url": "frhd.co/t/342707/r/redorblue",
             "type": "fast"
@@ -1503,7 +1499,11 @@
         {
             "url": "frhd.co/t/443126/r/xverse",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/404782/r/xverse",
+            "type": "fast"
+        }         
     ],
     "zycerak": [
         {
