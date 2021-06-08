@@ -279,11 +279,7 @@
         {
             "url": "frhd.co/t/778969/r/cerasium",
             "type": "fast"
-        },  
-        {
-            "url": "frhd.co/t/671625/r/cerasium",
-            "type": "fast"
-        },        
+        },       
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -303,7 +299,11 @@
         {
             "url": "frhd.co/t/1334/r/cerasium",
             "type": "auto"
-        }            
+        },
+        {
+            "url": "frhd.co/t/709759/r/cerasium",
+            "type": "auto"
+        }        
     ],       
     "cerulean": [
         {
@@ -474,10 +474,6 @@
             "url": "frhd.co/t/801452/r/cerulean",
             "type": "trick"
         },       
-        {
-            "url": "frhd.co/t/709759/r/cerulean",
-            "type": "auto"
-        },
         {
             "url": "frhd.co/t/742086/r/cerulean",
             "type": "auto"
@@ -1499,7 +1495,11 @@
         {
             "url": "frhd.co/t/404782/r/xverse",
             "type": "fast"
-        }         
+        },
+        {
+            "url": "frhd.co/t/671625/r/xverse",
+            "type": "fast"
+        }          
     ],
     "zycerak": [
         {
