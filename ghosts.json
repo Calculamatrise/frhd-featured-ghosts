@@ -89,10 +89,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/57072/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/405476/r/anonyymi",
             "type": "fast"
         },
@@ -282,6 +278,14 @@
         },   
         {
             "url": "frhd.co/t/92960/r/cerasium",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/508998/r/cerasium",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/218144/r/cerasium",
             "type": "fast"
         },        
         {
@@ -863,10 +867,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/7011/r/ninjasparkour",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/641550/r/xagefimuh",
             "type": "fast"
         },
@@ -1046,10 +1046,6 @@
         },     
         {
             "url": "frhd.co/t/342707/r/redorblue",
-            "type": "fast"
-        }, 
-        {
-            "url": "frhd.co/t/508998/r/redorblue",
             "type": "fast"
         }, 
         {
@@ -1271,6 +1267,14 @@
         {
             "url": "frhd.co/t/443126/r/tetrationiscool",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/57072/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/7011/r/tetrationiscool",
+            "type": "fast"
         }        
     ],
     "totoca12": [
@@ -1352,10 +1356,6 @@
         },
         {
             "url": "frhd.co/t/1974/r/unknown-rider",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/218144/r/unknown-rider",
             "type": "fast"
         }
     ],
