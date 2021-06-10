@@ -311,6 +311,10 @@
         {
             "url": "frhd.co/t/709759/r/cerasium",
             "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/721704/r/cerasium",
+            "type": "auto"
         }        
     ],       
     "cerulean": [
@@ -1067,10 +1071,6 @@
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/721704/r/redorblue",
-            "type": "auto"
         }
     ],
     "resurrect": [
@@ -1254,10 +1254,6 @@
         },
         {
             "url": "frhd.co/t/8857/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/395374/r/tetrationiscool",
             "type": "fast"
         },
         {
