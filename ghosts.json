@@ -45,10 +45,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/354096/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/164323/r/anonyymi",
             "type": "fast"
         },
@@ -183,10 +179,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/8865/r/backtwice",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/52773/r/backtwice",
             "type": "fast"
         }        
@@ -282,6 +274,10 @@
         },  
         {
             "url": "frhd.co/t/218144/r/cerasium",
+            "type": "fast"
+        },   
+        {
+            "url": "frhd.co/t/354096/r/cerasium",
             "type": "fast"
         },        
         {
@@ -1291,7 +1287,11 @@
         {
             "url": "frhd.co/t/305440/r/trainer_bob",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/8865/r/trainer_bob",
+            "type": "fast"
+        }         
     ],
     "tuttifruity": [
         {
