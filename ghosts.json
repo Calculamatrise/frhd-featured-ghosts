@@ -175,10 +175,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/262859/r/backtwice",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/52773/r/backtwice",
             "type": "fast"
         }        
@@ -278,6 +274,14 @@
         },   
         {
             "url": "frhd.co/t/354096/r/cerasium",
+            "type": "fast"
+        },      
+        {
+            "url": "frhd.co/t/262859/r/cerasium",
+            "type": "fast"
+        },        
+        {
+            "url": "frhd.co/t/297012/r/cerasium",
             "type": "fast"
         },        
         {
@@ -1212,10 +1216,6 @@
         },
         {
             "url": "frhd.co/t/50114/r/synapse",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/297012/r/synapse",
             "type": "fast"
         },
         {
