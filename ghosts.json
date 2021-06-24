@@ -153,10 +153,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/590774/r/anonyymi",
-            "type": "fast"
-        },        
-        {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
         }
@@ -267,11 +263,7 @@
         {
             "url": "frhd.co/t/354096/r/cerasium",
             "type": "fast"
-        },      
-        {
-            "url": "frhd.co/t/262859/r/cerasium",
-            "type": "fast"
-        },        
+        },            
         {
             "url": "frhd.co/t/297012/r/cerasium",
             "type": "fast"
@@ -1063,7 +1055,15 @@
         {
             "url": "frhd.co/t/9331/r/redorblue",
             "type": "fast"
-        },        
+        },      
+        {
+            "url": "frhd.co/t/590774/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/262859/r/redorblue",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
