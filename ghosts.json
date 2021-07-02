@@ -279,7 +279,11 @@
         {
             "url": "frhd.co/t/336160/r/cerasium",
             "type": "fast"
-        },         
+        },    
+        {
+            "url": "frhd.co/t/533484/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -1156,10 +1160,6 @@
         },
         {
             "url": "frhd.co/t/274894/r/dumptruck",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/533484/r/dumptruck",
             "type": "fast"
         },
         {
