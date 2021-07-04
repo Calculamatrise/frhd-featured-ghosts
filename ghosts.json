@@ -283,6 +283,22 @@
         {
             "url": "frhd.co/t/57539/r/cerasium",
             "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/388497/r/cerasium",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/781113/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/396742/r/cerasium",
+            "type": "fast"
+        },   
+        {
+            "url": "frhd.co/t/319500/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -560,6 +576,10 @@
         },
         {
             "url": "frhd.co/t/724857/r/charredlizard21",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/597025/r/charredlizard21",
             "type": "vehicle"
         }        
     ],
@@ -937,10 +957,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/319500/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/658640/r/redorblue",
             "type": "fast"
         },
@@ -1141,11 +1157,7 @@
         {
             "url": "frhd.co/t/1171/r/skatitall",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/781113/r/skatitall",
-            "type": "fast"
-        }        
+        }       
     ],
     "slayed": [
         {
@@ -1154,10 +1166,6 @@
         }
     ],    
     "spruce": [
-        {
-            "url": "frhd.co/t/388497/r/aiice",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/274894/r/dumptruck",
             "type": "fast"
@@ -1317,12 +1325,6 @@
             "type": "vehicle"
         }
     ],
-    "uniior": [
-        {
-            "url": "frhd.co/t/597025/r/uniior",
-            "type": "vehicle"
-        }
-    ],     
     "unghosted": [
         {
             "url": "frhd.co/t/299698/r/unghosted",
@@ -1491,11 +1493,7 @@
         {
             "url": "frhd.co/t/671625/r/xverse",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/396742/r/xverse",
-            "type": "fast"
-        }            
+        }       
     ],
     "zycerak": [
         {
