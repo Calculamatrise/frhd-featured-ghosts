@@ -295,6 +295,10 @@
         {
             "url": "frhd.co/t/682672/r/cerasium",
             "type": "fast"
+        },     
+        {
+            "url": "frhd.co/t/420788/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -518,10 +522,6 @@
     "chaos-fallen": [
         {
             "url": "frhd.co/t/556324/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/420788/r/chaos-fallen",
             "type": "fast"
         },
         {
