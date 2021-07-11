@@ -299,6 +299,10 @@
         {
             "url": "frhd.co/t/420788/r/cerasium",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1974/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -1342,10 +1346,6 @@
         },
         {
             "url": "frhd.co/t/354303/r/unknown-rider",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1974/r/unknown-rider",
             "type": "fast"
         }
     ],
