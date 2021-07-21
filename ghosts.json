@@ -201,10 +201,6 @@
             "type": "fast"
         },        
         {
-            "url": "frhd.co/t/442222/r/cerasium",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/750874/r/cerasium",
             "type": "fast"
         },  
@@ -254,10 +250,6 @@
         },       
         {
             "url": "frhd.co/t/53393/r/cerasium",
-            "type": "fast"
-        },    
-        {
-            "url": "frhd.co/t/336160/r/cerasium",
             "type": "fast"
         },    
         {
@@ -709,7 +701,15 @@
         {
             "url": "frhd.co/t/294635/r/madara",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/336160/r/madara,
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/442222/r/madara",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
