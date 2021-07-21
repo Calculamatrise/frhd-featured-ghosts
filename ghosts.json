@@ -627,10 +627,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/1728/r/eryp",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/166501/r/eryp",
             "type": "fast"
         }
@@ -713,7 +709,11 @@
         {
             "url": "frhd.co/t/677071/r/madara",
             "type": "fast"
-        },              
+        }, 
+        {
+            "url": "frhd.co/t/1728/r/madara",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
