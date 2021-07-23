@@ -93,10 +93,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/2995/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/230102/r/anonyymi",
             "type": "fast"
         },
@@ -323,6 +319,10 @@
         {
             "url": "frhd.co/t/50046/r/cerasium",
             "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/2995/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -418,10 +418,6 @@
             "url": "frhd.co/t/226644/r/cerulean",
             "type": "fast"
         },
-        {
-            "url": "frhd.co/t/8875/r/cerulean",
-            "type": "fast"
-        }, 
         {
             "url": "frhd.co/t/789399/r/cerulean",
             "type": "fast"
@@ -546,10 +542,6 @@
         },
         {
             "url": "frhd.co/t/431010/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/544020/r/chaos-fallen",
             "type": "fast"
         },
         {
@@ -712,6 +704,14 @@
         }, 
         {
             "url": "frhd.co/t/1728/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/544020/r/madara,
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/274894/r/madara",
             "type": "fast"
         },        
         {
@@ -1103,7 +1103,11 @@
         {
             "url": "frhd.co/t/262859/r/redorblue",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/8875/r/redorblue",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1186,10 +1190,6 @@
         }
     ],    
     "spruce": [
-        {
-            "url": "frhd.co/t/274894/r/dumptruck",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/781335/r/dumptruck",
             "type": "fast"
