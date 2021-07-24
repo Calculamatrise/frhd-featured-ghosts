@@ -121,6 +121,10 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/290712/r/anonyymi",
+            "type": "fast"
+        },
+        {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
         }
@@ -351,7 +355,11 @@
         {
             "url": "frhd.co/t/721704/r/cerasium",
             "type": "auto"
-        }        
+        },
+        {
+            "url": "frhd.co/t/805856/r/cerasium",
+            "type": "auto"
+        }            
     ],       
     "cerulean": [
         {
@@ -555,7 +563,11 @@
         {
             "url": "frhd.co/t/291322/r/chaos-fallen",
             "type": "fast"
-        }     
+        },
+        {
+            "url": "frhd.co/t/413315/r/chaos-fallen",
+            "type": "fast"
+        }   
     ],
     "charredlizard21": [
         {
@@ -717,7 +729,15 @@
         {
             "url": "frhd.co/t/274894/r/madara",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/354178/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/295513/r/madara",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
@@ -801,7 +821,11 @@
         {
             "url": "frhd.co/t/250678/r/madara",
             "type": "vehicle"
-        }        
+        },     
+        {
+            "url": "frhd.co/t/513974/r/madara",
+            "type": "vehicle"
+        }          
     ],
     "mr..a": [
         {
@@ -1111,7 +1135,19 @@
         {
             "url": "frhd.co/t/8875/r/redorblue",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/1119/r/redorblue",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/754786/r/redorblue",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/824784/r/redorblue",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1163,7 +1199,11 @@
         {
             "url": "frhd.co/t/677731/r/shamatoz",
             "type": "vehicle"
-        }
+        },
+        {
+            "url": "frhd.co/t/818570/r/shamatoz",
+            "type": "vehicle"
+        }        
     ],     
     "sidewalk": [
         {
@@ -1310,10 +1350,6 @@
         }         
     ],
     "tuttifruity": [
-        {
-            "url": "frhd.co/t/295513/r/tuttifruity",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/166892/r/tuttifruity",
             "type": "trick"
