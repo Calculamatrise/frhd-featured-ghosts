@@ -331,7 +331,11 @@
         {
             "url": "frhd.co/t/641387/r/cerasium",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/413315/r/cerasium",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -567,11 +571,7 @@
         {
             "url": "frhd.co/t/291322/r/chaos-fallen",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/413315/r/chaos-fallen",
-            "type": "fast"
-        }   
+        }
     ],
     "charredlizard21": [
         {
@@ -740,6 +740,18 @@
         },
         {
             "url": "frhd.co/t/295513/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/683255/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/354303/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/198432/r/madara",
             "type": "fast"
         },        
         {
@@ -1301,10 +1313,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/683255/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/217107/r/tetrationiscool",
             "type": "fast"
         },
@@ -1381,15 +1389,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/198432/r/unknown-rider",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/201528/r/unknown-rider",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/354303/r/unknown-rider",
             "type": "fast"
         }
     ],
@@ -1434,10 +1434,6 @@
             "url": "frhd.co/t/170958/r/xverse",
             "type": "fast"
         },   
-        {
-            "url": "frhd.co/t/354303/r/xverse",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/483251/r/xverse",
             "type": "fast"
