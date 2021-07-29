@@ -339,11 +339,7 @@
         {
             "url": "frhd.co/t/257665/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/785392/r/cerasium",
-            "type": "fast"
-        },        
+        },       
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -1521,7 +1517,11 @@
         {
             "url": "frhd.co/t/671625/r/xverse",
             "type": "fast"
-        }       
+        },
+        {
+            "url": "frhd.co/t/785392/r/xverse",
+            "type": "fast"
+        }         
     ],
     "zycerak": [
         {
