@@ -121,6 +121,10 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/641387/r/anonyymi",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
         }
@@ -316,10 +320,6 @@
             "url": "frhd.co/t/2995/r/cerasium",
             "type": "fast"
         },        
-        {
-            "url": "frhd.co/t/641387/r/cerasium",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/413315/r/cerasium",
             "type": "fast"
@@ -1521,15 +1521,15 @@
         {
             "url": "frhd.co/t/785392/r/xverse",
             "type": "fast"
-        }         
+        },
+        {
+            "url": "frhd.co/t/1641/r/xverse",
+            "type": "fast"
+        }        
     ],
     "zycerak": [
         {
             "url": "frhd.co/t/574346/r/zycerak",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1641/r/zycerak",
             "type": "fast"
         },
         {
