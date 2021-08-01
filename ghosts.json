@@ -61,10 +61,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/250403/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/1003/r/anonyymi",
             "type": "fast"
         },
@@ -82,10 +78,6 @@
         },
         {
             "url": "frhd.co/t/72227/r/anonyymi",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/173968/r/anonyymi",
             "type": "fast"
         },
         {
@@ -355,7 +347,11 @@
         {
             "url": "frhd.co/t/651765/r/cerasium",
             "type": "fast"
-        },            
+        },
+        {
+            "url": "frhd.co/t/250403/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
