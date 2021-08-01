@@ -769,11 +769,7 @@
         {
             "url": "frhd.co/t/778969/r/madara",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/789399/r/madara",
-            "type": "fast"
-        },        
+        },     
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
@@ -1537,7 +1533,11 @@
         {
             "url": "frhd.co/t/1641/r/xverse",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/789399/r/xverse",
+            "type": "fast"
+        }           
     ],
     "zycerak": [
         {
