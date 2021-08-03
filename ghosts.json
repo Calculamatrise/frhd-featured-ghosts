@@ -375,7 +375,11 @@
         {
             "url": "frhd.co/t/805856/r/cerasium",
             "type": "auto"
-        }            
+        },
+        {
+            "url": "frhd.co/t/123735/r/cerasium",
+            "type": "auto"
+        }        
     ],       
     "cerulean": [
         {
@@ -639,10 +643,6 @@
         {
             "url": "frhd.co/t/72229/r/hairy.landesburg788",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/123735/r/hairy.landesburg788",
-            "type": "auto"
         }
     ],
     "isekeb": [
