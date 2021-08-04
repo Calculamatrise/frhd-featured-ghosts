@@ -339,11 +339,7 @@
         {
             "url": "frhd.co/t/250403/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/127222/r/cerasium",
-            "type": "fast"
-        },        
+        },       
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -761,7 +757,11 @@
         {
             "url": "frhd.co/t/542537/r/madara",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/127222/r/madara",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
