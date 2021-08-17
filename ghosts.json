@@ -111,7 +111,11 @@
         {
             "url": "frhd.co/t/396742/r/anonyymi",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/8808/r/anonyymi",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
@@ -1225,11 +1229,7 @@
             "type": "vehicle"
         }        
     ],     
-    "sidewalk": [
-        {
-            "url": "frhd.co/t/8808/r/sidetracked",
-            "type": "fast"
-        },           
+    "sidewalk": [           
         {
             "url": "frhd.co/t/455779/r/sidewalk",
             "type": "trick"
