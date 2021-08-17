@@ -307,11 +307,7 @@
         {
             "url": "frhd.co/t/413315/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/8808/r/cerasium",
-            "type": "fast"
-        },         
+        },     
         {
             "url": "frhd.co/t/678531/r/cerasium",
             "type": "fast"
@@ -1230,6 +1226,10 @@
         }        
     ],     
     "sidewalk": [
+        {
+            "url": "frhd.co/t/8808/r/sidetracked",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/455779/r/sidewalk",
             "type": "trick"
