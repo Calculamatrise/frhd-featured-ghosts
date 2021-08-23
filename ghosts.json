@@ -37,10 +37,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/4515/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/329452/r/anonyymi",
             "type": "fast"
         },
@@ -1326,6 +1322,10 @@
         },
         {
             "url": "frhd.co/t/9351/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/4515/r/tetrationiscool",
             "type": "fast"
         }        
     ],
