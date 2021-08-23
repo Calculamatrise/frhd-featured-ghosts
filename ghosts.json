@@ -675,10 +675,6 @@
             "type": "fast"
         },          
         {
-            "url": "frhd.co/t/9351/r/madara",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/294635/r/madara",
             "type": "fast"
         },      
@@ -1326,6 +1322,10 @@
         },
         {
             "url": "frhd.co/t/708087/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/9351/r/tetrationiscool",
             "type": "fast"
         }        
     ],
