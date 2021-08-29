@@ -547,7 +547,11 @@
         {
             "url": "frhd.co/t/676042/r/chaos-fallen",
             "type": "fast"
-        }          
+        },
+        {
+            "url": "frhd.co/t/197596/r/chaos-fallen",
+            "type": "fast"
+        }        
     ],
     "charredlizard21": [
         {
@@ -724,10 +728,6 @@
         },
         {
             "url": "frhd.co/t/216027/r/madara",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/197596/r/madara",
             "type": "fast"
         },
         {
