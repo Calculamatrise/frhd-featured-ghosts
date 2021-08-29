@@ -203,11 +203,7 @@
         {
             "url": "frhd.co/t/11100/r/cerasium",
             "type": "fast"
-        },   
-        {
-            "url": "frhd.co/t/287310/r/cerasium",
-            "type": "fast"
-        },       
+        },          
         {
             "url": "frhd.co/t/53393/r/cerasium",
             "type": "fast"
@@ -550,6 +546,10 @@
         },
         {
             "url": "frhd.co/t/197596/r/chaos-fallen",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/602609/r/chaos-fallen",
             "type": "fast"
         }        
     ],
@@ -970,10 +970,6 @@
     "reborn": [
         {
             "url": "frhd.co/t/1042/r/reborn",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/602609/r/reborn",
             "type": "fast"
         }
     ],
@@ -1523,10 +1519,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/1641/r/xverse",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/789399/r/xverse",
             "type": "fast"
         }           
@@ -1543,7 +1535,15 @@
         {
             "url": "frhd.co/t/221171/r/zycerak",
             "type": "fast"
-        },    
+        },
+        {
+            "url": "frhd.co/t/1641/r/zycerak",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/287310/r/zycerak",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/428676/r/zycerak",
             "type": "auto"
