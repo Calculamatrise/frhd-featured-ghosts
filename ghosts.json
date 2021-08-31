@@ -551,6 +551,10 @@
         {
             "url": "frhd.co/t/602609/r/chaos-fallen",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/655951/r/chaos-fallen",
+            "type": "fast"
         }        
     ],
     "charredlizard21": [
@@ -588,10 +592,6 @@
         }
     ],
     "drchill": [
-        {
-            "url": "frhd.co/t/655951/r/drchill",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/768770/r/drchill",
             "type": "fast"
@@ -813,11 +813,7 @@
         {
             "url": "frhd.co/t/200043/r/madara",
             "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/557255/r/madara",
-            "type": "vehicle"
-        },     
+        },    
         {
             "url": "frhd.co/t/250678/r/madara",
             "type": "vehicle"
@@ -1379,6 +1375,12 @@
             "type": "fast"
         }
     ],
+    "uniior": [
+        {
+            "url": "frhd.co/t/557255/r/uniior",
+            "type": "vehicle"
+        } 
+    ],    
     "unknown-rider": [
         {
             "url": "frhd.co/t/714294/r/unknown-rider",
