@@ -563,7 +563,15 @@
         {
             "url": "frhd.co/t/754786/r/chaos-fallen",
             "type": "fast"
-        }           
+        },
+        {
+            "url": "frhd.co/t/336968/r/chaos-fallen",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1193/r/chaos-fallen",
+            "type": "fast"
+        }         
     ],
     "charredlizard21": [
         {
@@ -1164,14 +1172,6 @@
         }
     ],
     "rhodium": [
-        {
-            "url": "frhd.co/t/336968/r/rhodium",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1193/r/rhodium",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/82818/r/rhodium",
             "type": "trick"
