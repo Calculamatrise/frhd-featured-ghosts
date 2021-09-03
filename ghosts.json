@@ -555,7 +555,15 @@
         {
             "url": "frhd.co/t/655951/r/chaos-fallen",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/318674/r/chaos-fallen",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/754786/r/chaos-fallen",
+            "type": "fast"
+        }           
     ],
     "charredlizard21": [
         {
@@ -1075,11 +1083,7 @@
         {
             "url": "frhd.co/t/799917/r/redorblue",
             "type": "fast"
-        },    
-        {
-            "url": "frhd.co/t/318674/r/redorblue",
-            "type": "fast"
-        },  
+        },         
         {
             "url": "frhd.co/t/710486/r/redorblue",
             "type": "fast"
@@ -1118,10 +1122,6 @@
         },
         {
             "url": "frhd.co/t/8875/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/754786/r/redorblue",
             "type": "fast"
         },
         {
