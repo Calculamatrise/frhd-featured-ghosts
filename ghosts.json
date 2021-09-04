@@ -571,6 +571,10 @@
         {
             "url": "frhd.co/t/1184/r/chaos-fallen",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1042/r/cheesecake23",
+            "type": "fast"
         }        
     ],
     "charredlizard21": [
@@ -973,12 +977,6 @@
         {
             "url": "frhd.co/t/1051/r/notverygood",
             "type": "auto"
-        }
-    ],
-    "reborn": [
-        {
-            "url": "frhd.co/t/1042/r/reborn",
-            "type": "fast"
         }
     ],
     "redopblue": [
