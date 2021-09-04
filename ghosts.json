@@ -65,10 +65,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/211233/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/72227/r/anonyymi",
             "type": "fast"
         },
@@ -571,7 +567,15 @@
         {
             "url": "frhd.co/t/1193/r/chaos-fallen",
             "type": "fast"
-        }         
+        },
+        {
+            "url": "frhd.co/t/211233/r/chaos-fallen",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1184/r/chaos-fallen",
+            "type": "fast"
+        }        
     ],
     "charredlizard21": [
         {
@@ -626,10 +630,6 @@
         }          
     ],
     "eryp": [
-        {
-            "url": "frhd.co/t/1184/r/eryp",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/166501/r/eryp",
             "type": "fast"
