@@ -403,10 +403,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/226644/r/cerulean",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/272071/r/cerulean",
             "type": "fast"
         },        
@@ -1321,7 +1317,11 @@
         {
             "url": "frhd.co/t/388497/r/tetrationiscool",
             "type": "fast"
-        }          
+        },
+        {
+            "url": "frhd.co/t/226644/r/tetrationiscool,
+            "type": "fast"
+        }        
     ],
     "totoca12": [
         {
