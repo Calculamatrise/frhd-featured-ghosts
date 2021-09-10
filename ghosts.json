@@ -121,10 +121,6 @@
     ],
     "brendanmagill": [
         {
-            "url": "frhd.co/t/713218/r/brendanmagill",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/11057/r/brendanmagill",
             "type": "fast"
         },
@@ -461,11 +457,7 @@
         {
             "url": "frhd.co/t/578350/r/cerulean",
             "type": "fast"
-        }, 
-        {
-            "url": "frhd.co/t/9322/r/cerulean",
-            "type": "fast"
-        },           
+        },         
         {
             "url": "frhd.co/t/796822/r/cerulean",
             "type": "trick"
@@ -624,12 +616,6 @@
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
         }          
-    ],
-    "eryp": [
-        {
-            "url": "frhd.co/t/166501/r/eryp",
-            "type": "fast"
-        }
     ],
     "hairy.landesburg788": [
         {
@@ -953,10 +939,6 @@
         {
             "url": "frhd.co/t/2819/r/ninjasparkour",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/464750/r/xagefimuh",
-            "type": "auto"
         },
         {
             "url": "frhd.co/t/62033/r/xagefimuh",
@@ -1323,7 +1305,23 @@
             "type": "fast"
         },
         {
+            "url": "frhd.co/t/166501/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/9322/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/713218/r/tetrationiscool",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/428676/r/tetrationiscool",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/464750/r/tetrationiscool",
             "type": "auto"
         }        
     ],
