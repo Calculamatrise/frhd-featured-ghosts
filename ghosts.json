@@ -57,10 +57,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/141352/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/72227/r/anonyymi",
             "type": "fast"
         },
@@ -563,7 +559,11 @@
         {
             "url": "frhd.co/t/347736/r/chaos-fallen",
             "type": "fast"
-        }           
+        },
+        {
+            "url": "frhd.co/t/141352/r/chaos-fallen",
+            "type": "fast"
+        }        
     ],
     "charredlizard21": [
         {
