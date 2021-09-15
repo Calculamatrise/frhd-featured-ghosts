@@ -291,7 +291,11 @@
         {
             "url": "frhd.co/t/250403/r/cerasium",
             "type": "fast"
-        },       
+        },
+        {
+            "url": "frhd.co/t/1042/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -546,10 +550,6 @@
         },
         {
             "url": "frhd.co/t/1184/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1042/r/cheesecake23",
             "type": "fast"
         },
         {
@@ -1243,10 +1243,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/50114/r/synapse",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/411803/r/undertakerwwe",
             "type": "fast"
         }
@@ -1310,6 +1306,10 @@
         },
         {
             "url": "frhd.co/t/713218/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/50114/r/tetrationiscool",
             "type": "fast"
         },        
         {
