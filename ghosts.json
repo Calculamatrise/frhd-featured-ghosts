@@ -279,6 +279,10 @@
         {
             "url": "frhd.co/t/1042/r/cerasium",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/305440/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -1346,10 +1350,6 @@
     "trainer_bob": [
         {
             "url": "frhd.co/t/1554/r/trainer_bob",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/305440/r/trainer_bob",
             "type": "fast"
         },
         {
