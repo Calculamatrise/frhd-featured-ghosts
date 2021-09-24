@@ -247,11 +247,7 @@
         {
             "url": "frhd.co/t/50046/r/cerasium",
             "type": "fast"
-        }, 
-        {
-            "url": "frhd.co/t/2995/r/cerasium",
-            "type": "fast"
-        },        
+        },      
         {
             "url": "frhd.co/t/413315/r/cerasium",
             "type": "fast"
@@ -306,14 +302,6 @@
         },
         {
             "url": "frhd.co/t/709759/r/cerasium",
-            "type": "auto"
-        },
-        {
-            "url": "frhd.co/t/721704/r/cerasium",
-            "type": "auto"
-        },
-        {
-            "url": "frhd.co/t/805856/r/cerasium",
             "type": "auto"
         },
         {
@@ -1319,13 +1307,25 @@
         {
             "url": "frhd.co/t/574346/r/tetrationiscool",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/2995/r/tetrationiscool",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/428676/r/tetrationiscool",
             "type": "auto"
         },
         {
             "url": "frhd.co/t/464750/r/tetrationiscool",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/721704/r/tetrationiscool,
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/805856/r/tetrationiscool",
             "type": "auto"
         }        
     ],
