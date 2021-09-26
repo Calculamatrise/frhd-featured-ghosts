@@ -203,11 +203,7 @@
         {
             "url": "frhd.co/t/682672/r/cerasium",
             "type": "fast"
-        },     
-        {
-            "url": "frhd.co/t/446203/r/cerasium",
-            "type": "fast"
-        },        
+        },          
         {
             "url": "frhd.co/t/1974/r/cerasium",
             "type": "fast"
@@ -282,6 +278,18 @@
         },
         {
             "url": "frhd.co/t/305440/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1728/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/655951/r/cerasium",
+            "type": "fast"
+        },        
+        {
+            "url": "frhd.co/t/680661/r/cerasium",
             "type": "fast"
         },        
         {
@@ -497,10 +505,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/680661/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/676042/r/chaos-fallen",
             "type": "fast"
         },
@@ -510,10 +514,6 @@
         },
         {
             "url": "frhd.co/t/602609/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/655951/r/chaos-fallen",
             "type": "fast"
         },
         {
@@ -667,10 +667,6 @@
         {
             "url": "frhd.co/t/677071/r/madara",
             "type": "fast"
-        }, 
-        {
-            "url": "frhd.co/t/1728/r/madara",
-            "type": "fast"
         },  
         {
             "url": "frhd.co/t/544020/r/madara",
@@ -714,10 +710,6 @@
         },
         {
             "url": "frhd.co/t/542537/r/madara",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/127222/r/madara",
             "type": "fast"
         },
         {
@@ -1319,7 +1311,15 @@
         {
             "url": "frhd.co/t/2995/r/tetrationiscool",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/446203/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/127222/r/tetrationiscool",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/428676/r/tetrationiscool",
             "type": "auto"
