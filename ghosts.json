@@ -67,11 +67,7 @@
         {
             "url": "frhd.co/t/396742/r/anonyymi",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/8808/r/anonyymi",
-            "type": "fast"
-        },        
+        },     
         {
             "url": "frhd.co/t/158140/r/anonyymi",
             "type": "other"
@@ -295,7 +291,11 @@
         {
             "url": "frhd.co/t/164323/r/cerasium",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/8808/r/cerasium",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
