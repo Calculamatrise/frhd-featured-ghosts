@@ -339,7 +339,11 @@
         {
             "url": "frhd.co/t/805856/r/cerasium",
             "type": "auto"
-        }           
+        },
+        {
+            "url": "frhd.co/t/306836/r/cerasium",
+            "type": "auto"
+        }        
     ],       
     "cerulean": [
         {
@@ -1199,10 +1203,6 @@
         {
             "url": "frhd.co/t/568797/r/stevie.t",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/306836/r/stevie.t",
-            "type": "auto"
         }
     ],
     "synapse": [
