@@ -311,7 +311,11 @@
         {
             "url": "frhd.co/t/185066/r/cerasium",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/287310/r/cerasium",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -384,10 +388,6 @@
         },
         {
             "url": "frhd.co/t/737615/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/608398/r/cerulean",
             "type": "fast"
         },
         {
@@ -1099,7 +1099,11 @@
         {
             "url": "frhd.co/t/776828/r/redorblue",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/608398/r/redorblue",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1150,6 +1154,10 @@
         }        
     ],     
     "sidewalk": [           
+        {
+            "url": "frhd.co/t/492949/r/sidewalk",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1549,11 +1557,7 @@
         {
             "url": "frhd.co/t/1641/r/zycerak",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/287310/r/zycerak",
-            "type": "fast"
-        },        
+        },     
         {
             "url": "frhd.co/t/8335/r/zycerak",
             "type": "auto"
