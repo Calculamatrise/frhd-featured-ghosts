@@ -319,7 +319,11 @@
         {
             "url": "frhd.co/t/608398/r/cerasium",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/680654/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -824,10 +828,6 @@
     "mr..a": [
         {
             "url": "frhd.co/t/462701/r/mr..a",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/680654/r/mr..a",
             "type": "fast"
         },
         {
