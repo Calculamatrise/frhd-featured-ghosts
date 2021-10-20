@@ -335,7 +335,11 @@
         {
             "url": "frhd.co/t/3982/r/cerasium",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/837125/r/cerasium",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -383,7 +387,11 @@
         {
             "url": "frhd.co/t/3147/r/cerasium",
             "type": "auto"
-        }        
+        },
+        {
+            "url": "frhd.co/t/1405/r/cerasium",
+            "type": "auto"
+        }             
     ],       
     "cerulean": [
         {
@@ -481,7 +489,23 @@
         {
             "url": "frhd.co/t/578350/r/cerulean",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/824395/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/825384/r/cerulean",
+            "type": "fast"
+        }, 
+        {
+            "url": "frhd.co/t/838707/r/cerulean",
+            "type": "fast"
+        },  
+        {
+            "url": "frhd.co/t/211233/r/cerulean",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/796822/r/cerulean",
             "type": "trick"
@@ -571,7 +595,11 @@
         {
             "url": "frhd.co/t/141352/r/chaos-fallen",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/732812/r/chaos-fallen",
+            "type": "fast"
+        }          
     ],
     "charredlizard21": [
         {
@@ -593,7 +621,11 @@
         {
             "url": "frhd.co/t/713577/r/typicaleshay",
             "type": "vehicle"
-        }           
+        },
+        {
+            "url": "frhd.co/t/838936/r/charredlizard21",
+            "type": "vehicle"
+        }         
     ],
     "cork": [
         {
@@ -743,7 +775,15 @@
         {
             "url": "frhd.co/t/201528/r/madara",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/836399/r/madara",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/837530/r/madara",
+            "type": "fast"
+        },             
         {
             "url": "frhd.co/t/499876/r/madara",
             "type": "vehicle"
@@ -1107,7 +1147,23 @@
         {
             "url": "frhd.co/t/776828/r/redorblue",
             "type": "fast"
-        },      
+        },
+        {
+            "url": "frhd.co/t/835176/r/redorblue",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/837797/r/redorblue",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/267197/r/redorblue",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/836752/r/redorblue",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1161,12 +1217,26 @@
         {
             "url": "frhd.co/t/492949/r/sidewalk",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/259615/r/sidewalk",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/285906/r/sidewalk",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
         }
     ],
+    "sidewalk2": [                
+        {
+            "url": "frhd.co/t/711385/r/sidewalk2",
+            "type": "fast"
+        }
+    ],    
     "silver_bird7": [
         {
             "url": "frhd.co/t/9457/r/silver_bird7",
@@ -1338,6 +1408,14 @@
         },
         {
             "url": "frhd.co/t/6745/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/842887/r/tetrationiscool",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1024/r/tetrationiscool",
             "type": "fast"
         },        
         {
