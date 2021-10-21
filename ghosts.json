@@ -615,10 +615,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/597025/r/charredlizard21",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/713577/r/typicaleshay",
             "type": "vehicle"
         },
@@ -1485,7 +1481,11 @@
         {
             "url": "frhd.co/t/557255/r/uniior",
             "type": "vehicle"
-        } 
+        },
+        {
+            "url": "frhd.co/t/597025/r/uniior",
+            "type": "vehicle"
+        }        
     ],    
     "unknown-rider": [
         {
