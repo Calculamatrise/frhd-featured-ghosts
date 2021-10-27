@@ -351,6 +351,10 @@
         {
             "url": "frhd.co/t/720950/r/cerasium",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/768770/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -644,10 +648,6 @@
         }
     ],
     "drchill": [
-        {
-            "url": "frhd.co/t/768770/r/drchill",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/766541/r/drchill",
             "type": "fast"
