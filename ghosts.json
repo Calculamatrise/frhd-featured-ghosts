@@ -363,7 +363,11 @@
         {
             "url": "frhd.co/t/421663/r/cerasium",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/690667/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -418,10 +422,6 @@
         }             
     ],       
     "cerulean": [
-        {
-            "url": "frhd.co/t/690667/r/cerulean",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/215081/r/cerulean",
             "type": "fast"
