@@ -729,10 +729,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/677071/r/madara",
-            "type": "fast"
-        },  
-        {
             "url": "frhd.co/t/544020/r/madara",
             "type": "fast"
         }, 
@@ -742,10 +738,6 @@
         },             
         {
             "url": "frhd.co/t/274894/r/madara",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/354178/r/madara",
             "type": "fast"
         },
         {
@@ -1244,7 +1236,17 @@
             "url": "frhd.co/t/711385/r/sidewalk2",
             "type": "fast"
         }
-    ],    
+    ],
+    "silent-rider": [                
+        {
+            "url": "frhd.co/t/677071/r/silent-rider",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/354178/r/silent-rider",
+            "type": "fast"
+        }        
+    ],        
     "silver_bird7": [
         {
             "url": "frhd.co/t/9457/r/silver_bird7",
