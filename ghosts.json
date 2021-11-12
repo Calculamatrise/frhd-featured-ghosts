@@ -373,7 +373,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/483251/r/cerasium",
+            "url": "frhd.co/t/556324/r/cerasium",
             "type": "fast"
         },        
         {
@@ -548,10 +548,6 @@
         }      
     ],
     "chaos-fallen": [
-        {
-            "url": "frhd.co/t/556324/r/chaos-fallen",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/652249/r/chaos-fallen",
             "type": "fast"
@@ -1249,7 +1245,11 @@
         {
             "url": "frhd.co/t/683255/r/silent-rider",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/483251/r/silent-rider,
+            "type": "fast"
+        }         
     ],        
     "silver_bird7": [
         {
