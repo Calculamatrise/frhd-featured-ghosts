@@ -127,10 +127,6 @@
         {
             "url": "frhd.co/t/508998/r/cerasium",
             "type": "fast"
-        },  
-        {
-            "url": "frhd.co/t/218144/r/cerasium",
-            "type": "fast"
         },   
         {
             "url": "frhd.co/t/354096/r/cerasium",
@@ -1209,7 +1205,11 @@
         {
             "url": "frhd.co/t/842887/r/sidewalk",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/218144/r/sidewalk",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
