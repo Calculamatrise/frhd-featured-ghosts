@@ -371,6 +371,10 @@
         {
             "url": "frhd.co/t/243884/r/cerasium",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/332790/r/cerasium",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/52341/r/cerasium",
@@ -979,17 +983,29 @@
         {
             "url": "frhd.co/t/1906/r/campaigned",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1051/r/notverygood",
-            "type": "auto"
         }
     ],
     "radiumrc": [
         {
             "url": "frhd.co/t/155806/r/radium_rc",
             "type": "auto"
-        }      
+        },
+        {
+            "url": "frhd.co/t/8335/r/radium_rc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/9245/r/radium_rc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/712645/r/radium_rc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/1051/r/radium_rc",
+            "type": "auto"
+        }        
     ],         
     "redopblue": [
         {
@@ -1637,24 +1653,8 @@
     ],
     "zycerak": [
         {
-            "url": "frhd.co/t/332790/r/zycerak",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/1641/r/zycerak",
             "type": "fast"
-        },     
-        {
-            "url": "frhd.co/t/8335/r/zycerak",
-            "type": "auto"
-        },
-        {
-            "url": "frhd.co/t/9245/r/zycerak",
-            "type": "auto"
-        },
-        {
-            "url": "frhd.co/t/712645/r/zycerak",
-            "type": "auto"
-        }            
+        }           
     ]
 }
