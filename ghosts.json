@@ -841,10 +841,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/736055/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/200043/r/madara",
             "type": "vehicle"
         },    
@@ -986,6 +982,10 @@
         }
     ],
     "radiumrc": [
+        {
+            "url": "frhd.co/t/736055/r/radium_rc",
+            "type": "vehicle"
+        },        
         {
             "url": "frhd.co/t/155806/r/radium_rc",
             "type": "auto"
