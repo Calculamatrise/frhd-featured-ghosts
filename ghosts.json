@@ -375,11 +375,7 @@
         {
             "url": "frhd.co/t/332790/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/72229/r/cerasium",
-            "type": "fast"
-        },        
+        },      
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -980,6 +976,10 @@
         }
     ],
     "radiumrc": [
+        {
+            "url": "frhd.co/t/72229/r/radium_rc",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
