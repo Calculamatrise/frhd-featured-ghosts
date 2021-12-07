@@ -353,10 +353,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/690667/r/cerasium",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/342707/r/cerasium",
             "type": "fast"
         },
@@ -979,7 +975,11 @@
         {
             "url": "frhd.co/t/72229/r/radium_rc",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/245063/r/radium_rc",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
@@ -1171,10 +1171,6 @@
     ],
     "resurrect": [
         {
-            "url": "frhd.co/t/245063/r/resurrect",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/115150/r/resurrect",
             "type": "fast"
         },
@@ -1319,6 +1315,12 @@
             "type": "trick"
         }
     ],
+    "symantec": [
+        {
+            "url": "frhd.co/t/690667/r/symantec",
+            "type": "fast"
+        }
+    ],    
     "synapse": [
         {
             "url": "frhd.co/t/297463/r/synapse",
