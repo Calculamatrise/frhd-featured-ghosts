@@ -985,7 +985,11 @@
         {
             "url": "frhd.co/t/1051/r/radium_rc",
             "type": "auto"
-        }        
+        },
+        {
+            "url": "frhd.co/t/61055/r/radium_rc",
+            "type": "auto"
+        }             
     ],         
     "redopblue": [
         {
@@ -1189,11 +1193,7 @@
         {
             "url": "frhd.co/t/818570/r/shamatoz",
             "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/61055/r/shamatoz",
-            "type": "auto"
-        }        
+        }   
     ],     
     "sidewalk": [           
         {
