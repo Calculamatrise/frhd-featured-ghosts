@@ -367,7 +367,15 @@
         {
             "url": "frhd.co/t/11092/r/cerasium",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/431010/r/cerasium",
+            "type": "fast"
         },        
+        {
+            "url": "frhd.co/t/724857/r/cerasium",
+            "type": "vehicle"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
@@ -507,10 +515,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/824395/r/cerulean",
-            "type": "fast"
-        },  
-        {
             "url": "frhd.co/t/825384/r/cerulean",
             "type": "fast"
         }, 
@@ -546,10 +550,6 @@
         },
         {
             "url": "frhd.co/t/455576/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/431010/r/chaos-fallen",
             "type": "fast"
         },
         {
@@ -1309,7 +1309,11 @@
         {
             "url": "frhd.co/t/690667/r/symantec",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/824395/r/symantec",
+            "type": "fast"
+        }          
     ],    
     "synapse": [
         {
@@ -1505,11 +1509,7 @@
         {
             "url": "frhd.co/t/489424/r/uniior",
             "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/724857/r/uniior",
-            "type": "vehicle"
-        }        
+        }     
     ],    
     "unknown-rider": [
         {
