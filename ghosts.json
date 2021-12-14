@@ -979,10 +979,6 @@
             "type": "auto"
         },
         {
-            "url": "frhd.co/t/712645/r/radium_rc",
-            "type": "auto"
-        },
-        {
             "url": "frhd.co/t/1051/r/radium_rc",
             "type": "auto"
         },
@@ -1317,7 +1313,11 @@
         {
             "url": "frhd.co/t/825384/r/symantec",
             "type": "fast"
-        }         
+        },
+        {
+            "url": "frhd.co/t/712645/r/symantec",
+            "type": "auto"
+        }        
     ],    
     "synapse": [
         {
