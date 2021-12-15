@@ -1141,10 +1141,6 @@
     ],
     "resurrect": [
         {
-            "url": "frhd.co/t/115150/r/resurrect",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/51837/r/resurrect",
             "type": "fast"
         },
@@ -1310,6 +1306,10 @@
             "url": "frhd.co/t/825384/r/symantec",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/115150/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/712645/r/symantec",
             "type": "auto"
