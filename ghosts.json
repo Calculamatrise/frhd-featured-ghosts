@@ -1123,10 +1123,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/267197/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/836752/r/redorblue",
             "type": "fast"
         },           
@@ -1191,7 +1187,11 @@
         {
             "url": "frhd.co/t/218144/r/sidewalk",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/267197/r/sidewalk",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
