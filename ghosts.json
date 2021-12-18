@@ -811,10 +811,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/492949/r/mr..a",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/725866/r/mr..a",
             "type": "fast"
         },
@@ -952,6 +948,10 @@
         },
         {
             "url": "frhd.co/t/72227/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/492949/r/radium_rc",
             "type": "fast"
         },        
         {
@@ -1168,10 +1168,6 @@
         }   
     ],     
     "sidewalk": [           
-        {
-            "url": "frhd.co/t/492949/r/sidewalk",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/259615/r/sidewalk",
             "type": "fast"
