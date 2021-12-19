@@ -953,6 +953,10 @@
         {
             "url": "frhd.co/t/492949/r/radium_rc",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/233193/r/radium_rc",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/736055/r/radium_rc",
@@ -1040,10 +1044,6 @@
         },
         {
             "url": "frhd.co/t/196676/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/233193/r/redorblue",
             "type": "fast"
         },
         {
@@ -1221,10 +1221,6 @@
     ],        
     "silver_bird7": [
         {
-            "url": "frhd.co/t/9457/r/silver_bird7",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/11057/r/derivative",
             "type": "fast"
         }        
@@ -1304,6 +1300,14 @@
         },
         {
             "url": "frhd.co/t/51574/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/9457/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1034/r/symantec",
             "type": "fast"
         },        
         {
@@ -1520,12 +1524,6 @@
     "unspoken": [
         {
             "url": "frhd.co/t/1076/r/unspoken",
-            "type": "fast"
-        }
-    ],
-    "we_are_number_one": [
-        {
-            "url": "frhd.co/t/1034/r/we_are_number_one",
             "type": "fast"
         }
     ],
