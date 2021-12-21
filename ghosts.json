@@ -45,10 +45,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/217480/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/173968/r/anonyymi",
             "type": "fast"
         },           
@@ -461,15 +457,7 @@
         {
             "url": "frhd.co/t/779494/r/cerulean",
             "type": "fast"
-        },      
-        {
-            "url": "frhd.co/t/763401/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/290112/r/cerulean",
-            "type": "fast"
-        },       
+        },        
         {
             "url": "frhd.co/t/510963/r/cerulean",
             "type": "fast"
@@ -480,10 +468,6 @@
         },
         {
             "url": "frhd.co/t/801731/r/cerulean",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/804304/r/cerulean",
             "type": "fast"
         },
         {
@@ -761,10 +745,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/467459/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/653451/r/madara",
             "type": "vehicle"
         },
@@ -939,12 +919,6 @@
             "type": "other"
         }
     ],    
-    "notverygood": [
-        {
-            "url": "frhd.co/t/1906/r/campaigned",
-            "type": "fast"
-        }
-    ],
     "radiumrc": [
         {
             "url": "frhd.co/t/72229/r/radium_rc",
@@ -972,6 +946,14 @@
         },
         {
             "url": "frhd.co/t/233193/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/763401/r/radium_rc,
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1906/r/radium_rc",
             "type": "fast"
         },        
         {
@@ -1329,7 +1311,15 @@
         {
             "url": "frhd.co/t/273315/r/symantec",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/290112/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/804304/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/712645/r/symantec",
             "type": "auto"
@@ -1462,7 +1452,13 @@
             "url": "frhd.co/t/721704/r/tetrationiscool",
             "type": "auto"
         }         
-    ],   
+    ],
+    "theft": [
+        {
+            "url": "frhd.co/t/217480/r/theft",
+            "type": "fast"
+        }
+    ],    
     "totoca12": [
         {
             "url": "frhd.co/t/319404/r/alzakhion",
@@ -1532,6 +1528,10 @@
         },
         {
             "url": "frhd.co/t/724857/r/uniior",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/467459/r/uniior",
             "type": "vehicle"
         }        
     ],    
