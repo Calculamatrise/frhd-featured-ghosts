@@ -503,11 +503,7 @@
             "type": "vehicle"
         }      
     ],
-    "chaos-fallen": [
-        {
-            "url": "frhd.co/t/652249/r/chaos-fallen",
-            "type": "fast"
-        },
+    "chaos-fallen": [      
         {
             "url": "frhd.co/t/455576/r/chaos-fallen",
             "type": "fast"
@@ -542,10 +538,6 @@
         },
         {
             "url": "frhd.co/t/336968/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1193/r/chaos-fallen",
             "type": "fast"
         },
         {
@@ -946,6 +938,18 @@
         },
         {
             "url": "frhd.co/t/297463/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/652249/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1193/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/9498/r/radium_rc",
             "type": "fast"
         },        
         {
@@ -1408,10 +1412,6 @@
         },        
         {
             "url": "frhd.co/t/3306/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/9498/r/tetrationiscool",
             "type": "fast"
         },
         {
