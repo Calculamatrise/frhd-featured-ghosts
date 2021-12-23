@@ -943,6 +943,10 @@
         {
             "url": "frhd.co/t/411803/r/radium_rc",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/297463/r/radium_rc",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/736055/r/radium_rc",
@@ -1332,10 +1336,6 @@
         }        
     ],    
     "synapse": [
-        {
-            "url": "frhd.co/t/297463/r/synapse",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/179558/r/sarcast",
             "type": "fast"
