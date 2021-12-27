@@ -975,7 +975,11 @@
         {
             "url": "frhd.co/t/61055/r/radium_rc",
             "type": "auto"
-        }             
+        },
+        {
+            "url": "frhd.co/t/428676/r/radium_rc",
+            "type": "auto"
+        }        
     ],         
     "redopblue": [
         {
@@ -1155,7 +1159,19 @@
         {
             "url": "frhd.co/t/818570/r/shamatoz",
             "type": "vehicle"
-        }   
+        },
+        {
+            "url": "frhd.co/t/828818/r/rustyciarkson",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/557948/r/shamatoz",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/435363/r/shamatoz",
+            "type": "trick"
+        }          
     ],     
     "sidewalk": [           
         {
@@ -1442,10 +1458,6 @@
             "url": "frhd.co/t/1024/r/tetrationiscool",
             "type": "fast"
         },        
-        {
-            "url": "frhd.co/t/428676/r/tetrationiscool",
-            "type": "auto"
-        },
         {
             "url": "frhd.co/t/464750/r/tetrationiscool",
             "type": "auto"
