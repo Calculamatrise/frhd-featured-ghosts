@@ -967,7 +967,23 @@
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
-        },        
+        },
+        {
+            "url": "frhd.co/t/530828/r/radium_rc",
+            "type": "trick"
+        },
+        {
+            "url": "frhd.co/t/859689/r/radium_rc",
+            "type": "trick"
+        },
+        {
+            "url": "frhd.co/t/860325/r/radium_rc",
+            "type": "trick"
+        },
+        {
+            "url": "frhd.co/t/282981/r/radium_rc",
+            "type": "trick"
+        },          
         {
             "url": "frhd.co/t/155806/r/radium_rc",
             "type": "auto"
@@ -1416,23 +1432,23 @@
         },
         {
             "url": "frhd.co/t/435363/r/symantec",
-            "type": "fast"
+            "type": "trick"
         },
         {
             "url": "frhd.co/t/770660/r/symantec",
-            "type": "fast"
+            "type": "trick"
         },
         {
             "url": "frhd.co/t/865002/r/symantec",
-            "type": "fast"
+            "type": "trick"
         },
         {
             "url": "frhd.co/t/715818/r/glab",
-            "type": "fast"
+            "type": "trick"
         },
         {
             "url": "frhd.co/t/627181/r/symantec",
-            "type": "fast"
+            "type": "trick"
         },            
         {
             "url": "frhd.co/t/712645/r/symantec",
