@@ -371,11 +371,19 @@
         {
             "url": "frhd.co/t/608919/r/cerasium",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/105754/r/cerasium",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
-        },      
+        },
+        {
+            "url": "frhd.co/t/823601/r/cerasium",
+            "type": "vehicle"
+        },           
         {
             "url": "frhd.co/t/52341/r/cerasium",
             "type": "auto"
