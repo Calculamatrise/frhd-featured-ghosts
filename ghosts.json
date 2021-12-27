@@ -1205,7 +1205,11 @@
         {
             "url": "frhd.co/t/267197/r/sidewalk",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/461867/r/sidewalk",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1279,7 +1283,11 @@
         {
             "url": "frhd.co/t/191253/r/stevie.t",
             "type": "fast"
-        },       
+        },
+        {
+            "url": "frhd.co/t/1010/r/stevie.t",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/568797/r/stevie.t",
             "type": "trick"
