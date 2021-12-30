@@ -1191,10 +1191,6 @@
     ],
     "rippedmagnet": [
         {
-            "url": "frhd.co/t/291527/r/rippedmagnet",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/746191/r/rippedmagnet",
             "type": "vehicle"
         }        
@@ -1301,7 +1297,11 @@
         {
             "url": "frhd.co/t/1010/r/stevie.t",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/291527/r/stevie.t",
+            "type": "vehicle"
+        },        
         {
             "url": "frhd.co/t/568797/r/stevie.t",
             "type": "trick"
