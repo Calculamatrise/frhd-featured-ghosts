@@ -705,10 +705,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/653451/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/653478/r/sanninx",
             "type": "vehicle"
         },
@@ -1249,7 +1245,11 @@
         {
             "url": "frhd.co/t/461867/r/sidewalk",
             "type": "fast"
-        },            
+        },
+        {
+            "url": "frhd.co/t/677071/r/sidewalk",
+            "type": "fast"
+        },                 
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1400,6 +1400,10 @@
             "url": "frhd.co/t/484421/r/symantec",
             "type": "fast"
         },
+        {
+            "url": "frhd.co/t/653451/r/symantec",
+            "type": "vehicle"
+        },        
         {
             "url": "frhd.co/t/435363/r/symantec",
             "type": "trick"
