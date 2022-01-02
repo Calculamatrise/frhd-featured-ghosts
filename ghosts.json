@@ -405,7 +405,11 @@
         {
             "url": "frhd.co/t/1554/r/theft",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/217220/r/cerasium",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
@@ -633,11 +637,7 @@
         {
             "url": "frhd.co/t/766541/r/drchill",
             "type": "fast"
-        },   
-        {
-            "url": "frhd.co/t/217220/r/drchill",
-            "type": "fast"
-        },                  
+        },                 
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
@@ -655,29 +655,13 @@
     ],  
     "madara": [
         {
-            "url": "frhd.co/t/577268/r/madara",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/709238/r/madara",
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/803992/r/madara",
-            "type": "fast"
-        },  
-        {
             "url": "frhd.co/t/352687/r/madara",
             "type": "fast"
         },          
-        {
-            "url": "frhd.co/t/294635/r/madara",
-            "type": "fast"
-        },      
-        {
-            "url": "frhd.co/t/442222/r/madara",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/544020/r/madara",
             "type": "fast"
@@ -1480,6 +1464,10 @@
         },
         {
             "url": "frhd.co/t/759205/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/577268/r/symantec",
             "type": "fast"
         },        
         {
