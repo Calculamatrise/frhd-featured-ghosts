@@ -1,4 +1,14 @@
 {
+    "andrewvaughn3": [
+        {
+            "url": "frhd.co/t/179558/r/sarcast",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/575831/r/andrewvaughn3",
+            "type": "fast"
+        }  
+    ],
     "anonyymi": [
         {
             "url": "frhd.co/t/50145/r/anonyymi",
@@ -363,7 +373,39 @@
         {
             "url": "frhd.co/t/105754/r/cerasium",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/217480/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/724312/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/781696/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/222413/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/283831/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/571055/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/225125/r/cerasium",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1554/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
@@ -1433,12 +1475,6 @@
             "type": "auto"
         }        
     ],    
-    "synapse": [
-        {
-            "url": "frhd.co/t/179558/r/sarcast",
-            "type": "fast"
-        }        
-    ],
     "tetrationiscool": [
         {
             "url": "frhd.co/t/215664/r/tetrationiscool",
