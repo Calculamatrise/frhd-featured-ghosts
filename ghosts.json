@@ -1465,7 +1465,11 @@
         {
             "url": "frhd.co/t/781335/r/symantec",
             "type": "fast"
-        },            
+        },
+        {
+            "url": "frhd.co/t/8865/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
