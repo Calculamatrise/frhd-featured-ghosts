@@ -405,11 +405,7 @@
         {
             "url": "frhd.co/t/217220/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/259615/r/cerasium",
-            "type": "fast"
-        },        
+        },      
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
@@ -1275,7 +1271,11 @@
         {
             "url": "frhd.co/t/837328/r/sidewalk",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/259615/r/sidewalk",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1314,10 +1314,6 @@
         },
         {
             "url": "frhd.co/t/345240/r/stevie.t",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/608063/r/stevie.t",
             "type": "fast"
         },
         {
@@ -1464,6 +1460,10 @@
         },
         {
             "url": "frhd.co/t/801731/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/608063/r/symantec",
             "type": "fast"
         },        
         {
