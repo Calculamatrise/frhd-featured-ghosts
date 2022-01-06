@@ -1293,11 +1293,7 @@
             "type": "trick"
         }
     ],    
-    "spruce": [
-        {
-            "url": "frhd.co/t/781335/r/dumptruck",
-            "type": "fast"
-        },       
+    "spruce": [   
         {
             "url": "frhd.co/t/163774/r/dumptruck",
             "type": "trick"
@@ -1465,7 +1461,11 @@
         {
             "url": "frhd.co/t/608063/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/781335/r/symantec",
+            "type": "fast"
+        },            
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
