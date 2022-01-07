@@ -1175,10 +1175,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/824784/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/1119/r/redorblue",
             "type": "fast"
         },
@@ -1472,6 +1468,10 @@
         },
         {
             "url": "frhd.co/t/629722/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/824784/r/symantec",
             "type": "fast"
         },        
         {
