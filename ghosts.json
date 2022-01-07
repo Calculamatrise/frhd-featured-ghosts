@@ -409,7 +409,11 @@
         {
             "url": "frhd.co/t/442222/r/cerasium",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/766541/r/cerasium",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
@@ -625,11 +629,7 @@
             "type": "other"
         }
     ],
-    "drchill": [
-        {
-            "url": "frhd.co/t/766541/r/drchill",
-            "type": "fast"
-        },                 
+    "drchill": [                 
         {
             "url": "frhd.co/t/796822/r/drchill",
             "type": "trick"
