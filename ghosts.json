@@ -1241,10 +1241,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/345240/r/stevie.t",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/191253/r/stevie.t",
             "type": "fast"
         },
@@ -1473,6 +1469,14 @@
         {
             "url": "frhd.co/t/260513/r/symantec",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/3306/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/345240/r/glab",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/653451/r/symantec",
@@ -1564,10 +1568,6 @@
             "url": "frhd.co/t/297012/r/tetrationiscool",
             "type": "fast"
         },        
-        {
-            "url": "frhd.co/t/3306/r/tetrationiscool",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/574346/r/tetrationiscool",
             "type": "fast"
