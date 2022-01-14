@@ -147,10 +147,6 @@
             "type": "fast"
         }, 
         {
-            "url": "frhd.co/t/1170/r/cerasium",
-            "type": "fast"
-        },  
-        {
             "url": "frhd.co/t/575587/r/cerasium",
             "type": "fast"
         },  
@@ -1477,7 +1473,11 @@
         {
             "url": "frhd.co/t/771504/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/1170/r/symantec",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
