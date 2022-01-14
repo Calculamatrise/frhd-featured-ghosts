@@ -171,10 +171,6 @@
             "type": "fast"
         },        
         {
-            "url": "frhd.co/t/771504/r/cerasium",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/677761/r/cerasium",
             "type": "fast"
         },
@@ -1476,6 +1472,10 @@
         },
         {
             "url": "frhd.co/t/651765/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/771504/r/symantec",
             "type": "fast"
         },        
         {
