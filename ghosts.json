@@ -417,10 +417,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/417479/r/cerulean",
-            "type": "fast"
-        }, 
-        {
             "url": "frhd.co/t/220374/r/cerulean",
             "type": "fast"
         },                              
@@ -1473,7 +1469,11 @@
         {
             "url": "frhd.co/t/779494/r/symantec",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/417479/r/symantec",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
