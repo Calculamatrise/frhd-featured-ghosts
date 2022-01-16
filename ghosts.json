@@ -603,10 +603,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/201528/r/madara",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/836399/r/madara",
             "type": "fast"
         },
@@ -1187,7 +1183,11 @@
         {
             "url": "frhd.co/t/259615/r/sidewalk",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/201528/r/sidewalk",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
