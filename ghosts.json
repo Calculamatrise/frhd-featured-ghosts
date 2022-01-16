@@ -515,10 +515,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/141352/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/732812/r/chaos-fallen",
             "type": "fast"
         }          
@@ -1635,7 +1631,11 @@
         {
             "url": "frhd.co/t/299698/r/ogunghosted",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/141352/r/unghosted",
+            "type": "fast"
+        }        
     ],
     "uniior": [
         {
