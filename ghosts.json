@@ -545,10 +545,6 @@
     ],      
     "dblu": [
         {
-            "url": "frhd.co/t/1254/r/dblu",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/191253/r/dblu",
             "type": "other"
         }
@@ -1611,6 +1607,12 @@
             "type": "trick"
         }    
     ],
+    "trikflip": [
+        {
+            "url": "frhd.co/t/1254/r/trikflip",
+            "type": "fast"
+        }
+    ],    
     "tuttifruity": [
         {
             "url": "frhd.co/t/166892/r/tuttifruity",
