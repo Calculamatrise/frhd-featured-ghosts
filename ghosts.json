@@ -533,6 +533,10 @@
     ],      
     "dblu": [
         {
+            "url": "frhd.co/t/1254/r/dblu",
+            "type": "fast"
+        },        
+        {
             "url": "frhd.co/t/191253/r/dblu",
             "type": "other"
         }
@@ -1481,6 +1485,10 @@
         {
             "url": "frhd.co/t/785392/r/gonb",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/764795/r/symantec",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/653451/r/symantec",
@@ -1614,13 +1622,7 @@
             "url": "frhd.co/t/435363/r/lordcarl71",
             "type": "trick"
         }    
-    ],
-    "trikflip": [
-        {
-            "url": "frhd.co/t/1254/r/trikflip",
-            "type": "fast"
-        }
-    ],    
+    ],  
     "tuttifruity": [
         {
             "url": "frhd.co/t/166892/r/tuttifruity",
@@ -1690,10 +1692,6 @@
         }
     ],
     "xverse": [
-        {
-            "url": "frhd.co/t/764795/r/xverse",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/558197/r/xverse",
             "type": "fast"
