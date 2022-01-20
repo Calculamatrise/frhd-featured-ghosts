@@ -553,15 +553,7 @@
         {
             "url": "frhd.co/t/781041/r/madara",
             "type": "fast"
-        },             
-        {
-            "url": "frhd.co/t/295513/r/madara",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/198432/r/madara",
-            "type": "fast"
-        },        
+        },                   
         {
             "url": "frhd.co/t/778969/r/madara",
             "type": "fast"
@@ -1163,7 +1155,15 @@
         {
             "url": "frhd.co/t/305440/r/sidewalk",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/295513/r/sidewalk",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/198432/r/sidewalk",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
