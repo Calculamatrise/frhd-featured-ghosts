@@ -329,11 +329,7 @@
         {
             "url": "frhd.co/t/442222/r/cerasium",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/766541/r/cerasium",
-            "type": "fast"
-        },        
+        },     
         {
             "url": "frhd.co/t/724857/r/cerasium",
             "type": "vehicle"
@@ -1477,7 +1473,15 @@
         {
             "url": "frhd.co/t/776828/r/symantec",
             "type": "fast"
-        },     
+        },
+        {
+            "url": "frhd.co/t/766541/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/813657/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1750,10 +1754,6 @@
             "url": "frhd.co/t/615261/r/xverse",
             "type": "fast"
         },       
-        {
-            "url": "frhd.co/t/813657/r/xverse",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/713010/r/xverse",
             "type": "fast"
