@@ -105,11 +105,7 @@
         {
             "url": "frhd.co/t/533484/r/cerasium",
             "type": "fast"
-        }, 
-        {
-            "url": "frhd.co/t/127165/r/cerasium",
-            "type": "fast"
-        },        
+        },      
         {
             "url": "frhd.co/t/57539/r/cerasium",
             "type": "fast"
@@ -383,11 +379,7 @@
         {
             "url": "frhd.co/t/215081/r/cerulean",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/546909/r/cerulean",
-            "type": "fast"
-        },      
+        },     
         {
             "url": "frhd.co/t/510963/r/cerulean",
             "type": "fast"
@@ -1045,15 +1037,7 @@
         {
             "url": "frhd.co/t/835176/r/redorblue",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/837797/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/836752/r/redorblue",
-            "type": "fast"
-        },           
+        },        
         {
             "url": "frhd.co/t/656352/r/redorblue",
             "type": "trick"
@@ -1147,7 +1131,11 @@
         {
             "url": "frhd.co/t/198432/r/sidewalk",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/127165/r/sidewalk",
+            "type": "fast"
+        },           
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1473,7 +1461,19 @@
         {
             "url": "frhd.co/t/813657/r/gonb",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/837797/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/836752/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/546909/r/symantec",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
