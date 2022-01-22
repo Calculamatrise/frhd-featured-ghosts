@@ -559,10 +559,6 @@
             "type": "fast"
         },          
         {
-            "url": "frhd.co/t/295373/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/527178/r/madara",
             "type": "vehicle"
         },
@@ -855,7 +851,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/446203/r/theft",
+            "url": "frhd.co/t/446203/r/radiumrc",
             "type": "fast"
         },
         {
@@ -1473,7 +1469,7 @@
         {
             "url": "frhd.co/t/546909/r/symantec",
             "type": "fast"
-        },         
+        },    
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1489,7 +1485,11 @@
         {
             "url": "frhd.co/t/489424/r/symantec",
             "type": "vehicle"
-        },        
+        },
+        {
+            "url": "frhd.co/t/295373/r/symantec",
+            "type": "vehicle"
+        },            
         {
             "url": "frhd.co/t/435363/r/symantec",
             "type": "trick"
