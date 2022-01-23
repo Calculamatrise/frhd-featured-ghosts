@@ -511,11 +511,7 @@
             "type": "trick"
         }          
     ],
-    "isekeb": [
-        {
-            "url": "frhd.co/t/733399/r/isekeb",
-            "type": "fast"
-        },        
+    "isekeb": [     
         {
             "url": "frhd.co/t/195874/r/isekeb",
             "type": "trick"
@@ -1183,7 +1179,7 @@
     ],
     "symantec": [
         {
-            "url": "frhd.co/t/690667/r/glab",
+            "url": "frhd.co/t/690667/r/gonb",
             "type": "fast"
         },
         {
@@ -1271,7 +1267,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/484421/r/symantec",
+            "url": "frhd.co/t/484421/r/gonb",
             "type": "fast"
         },
         {
@@ -1665,7 +1661,11 @@
         {
             "url": "frhd.co/t/141352/r/unghosted",
             "type": "fast"
-        }        
+        },
+        {
+            "url": "frhd.co/t/733399/r/unghosted",
+            "type": "fast"
+        }           
     ],
     "uniior": [
         {
