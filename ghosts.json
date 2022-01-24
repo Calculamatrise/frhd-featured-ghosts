@@ -587,10 +587,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/194022/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/624596/r/madara",
             "type": "vehicle"
         },
@@ -1485,7 +1481,11 @@
         {
             "url": "frhd.co/t/295373/r/symantec",
             "type": "vehicle"
-        },            
+        },
+        {
+            "url": "frhd.co/t/194022/r/symantec",
+            "type": "vehicle"
+        },        
         {
             "url": "frhd.co/t/435363/r/symantec",
             "type": "trick"
