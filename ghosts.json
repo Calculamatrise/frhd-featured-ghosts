@@ -139,10 +139,6 @@
             "type": "fast"
         }, 
         {
-            "url": "frhd.co/t/575587/r/cerasium",
-            "type": "fast"
-        },  
-        {
             "url": "frhd.co/t/336160/r/cerasium",
             "type": "fast"
         },
@@ -544,10 +540,6 @@
         },
         {
             "url": "frhd.co/t/653884/r/madara",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/654163/r/madara",
             "type": "vehicle"
         },
         {
@@ -1445,7 +1437,11 @@
         {
             "url": "frhd.co/t/510963/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/575587/r/symantec",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1472,6 +1468,10 @@
         },
         {
             "url": "frhd.co/t/838936/r/symantec",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/654163/r/symantec",
             "type": "vehicle"
         },        
         {
