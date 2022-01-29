@@ -891,12 +891,6 @@
             "type": "auto"
         }                
     ],         
-    "redopblue": [
-        {
-            "url": "frhd.co/t/1026/r/redopblue",
-            "type": "fast"
-        }
-    ],
     "redorblue": [
         {
             "url": "frhd.co/t/611918/r/redorblue",
@@ -908,10 +902,6 @@
         },
         {
             "url": "frhd.co/t/649135/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1026/r/redorblue",
             "type": "fast"
         },
         {
@@ -1440,6 +1430,10 @@
         },
         {
             "url": "frhd.co/t/735075/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1026/r/symantec",
             "type": "fast"
         },        
         {
