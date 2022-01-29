@@ -655,10 +655,6 @@
     ],
     "ninjasparkour": [
         {
-            "url": "frhd.co/t/520372/r/ninjasparkour",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/298213/r/ninjasparkour",
             "type": "fast"
         },
@@ -1442,6 +1438,10 @@
         },
         {
             "url": "frhd.co/t/668267/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/520372/r/symantec",
             "type": "fast"
         },        
         {
