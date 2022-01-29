@@ -931,10 +931,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/735075/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/95778/r/redorblue",
             "type": "fast"
         },
@@ -973,17 +969,9 @@
         {
             "url": "frhd.co/t/9331/r/redorblue",
             "type": "fast"
-        },      
-        {
-            "url": "frhd.co/t/590774/r/redorblue",
-            "type": "fast"
-        }, 
+        },              
         {
             "url": "frhd.co/t/8875/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/1119/r/redorblue",
             "type": "fast"
         },
         {
@@ -1441,7 +1429,19 @@
         {
             "url": "frhd.co/t/575587/r/symantec",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/590774/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1119/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/735075/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
