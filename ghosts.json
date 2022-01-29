@@ -347,10 +347,6 @@
             "type": "auto"
         },
         {
-            "url": "frhd.co/t/123735/r/cerasium",
-            "type": "auto"
-        },
-        {
             "url": "frhd.co/t/805856/r/cerasium",
             "type": "auto"
         }    
@@ -823,6 +819,10 @@
             "type": "vehicle"
         },
         {
+            "url": "frhd.co/t/654163/r/radiumrc",
+            "type": "vehicle"
+        },            
+        {
             "url": "frhd.co/t/530828/r/radium_rc",
             "type": "trick"
         },
@@ -889,7 +889,11 @@
         {
             "url": "frhd.co/t/86369/r/radium_rc",
             "type": "auto"
-        }                
+        },
+        {
+            "url": "frhd.co/t/123735/r/radiumrc",
+            "type": "auto"
+        }        
     ],         
     "redorblue": [
         {
@@ -1434,6 +1438,10 @@
         },
         {
             "url": "frhd.co/t/1026/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/1010/r/symantec",
             "type": "fast"
         },        
         {
