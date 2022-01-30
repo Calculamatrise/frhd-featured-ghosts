@@ -885,7 +885,15 @@
         {
             "url": "frhd.co/t/123735/r/radiumrc",
             "type": "auto"
-        }        
+        },
+        {
+            "url": "frhd.co/t/721704/r/radiumrc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/464750/r/radiumrc",
+            "type": "auto"
+        }         
     ],         
     "redorblue": [
         {
@@ -1011,11 +1019,7 @@
         {
             "url": "frhd.co/t/435363/r/shamatoz",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/721704/r/shamatoz",
-            "type": "auto"
-        }            
+        }       
     ],     
     "sidewalk": [           
         {
@@ -1609,11 +1613,7 @@
         {
             "url": "frhd.co/t/1038/r/tetrationiscool",
             "type": "fast"
-        },    
-        {
-            "url": "frhd.co/t/464750/r/tetrationiscool",
-            "type": "auto"
-        }     
+        }    
     ],    
     "totoca12": [
         {
