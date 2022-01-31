@@ -657,11 +657,7 @@
         {
             "url": "frhd.co/t/2819/r/ninjasparkour",
             "type": "trick"
-        },
-        {
-            "url": "frhd.co/t/62033/r/xagefimuh",
-            "type": "auto"
-        }        
+        }     
     ],
     "noob": [
         {
@@ -1531,7 +1527,11 @@
         {
             "url": "frhd.co/t/1334/r/symantec",
             "type": "auto"
-        }            
+        },
+        {
+            "url": "frhd.co/t/62033/r/symantec",
+            "type": "auto"
+        }           
     ],    
     "tetrationiscool": [
         {
