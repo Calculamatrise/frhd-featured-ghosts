@@ -539,10 +539,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/271369/r/madara",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/292062/r/madara",
             "type": "vehicle"
         },
@@ -1061,7 +1057,11 @@
         {
             "url": "frhd.co/t/127165/r/sidewalk",
             "type": "fast"
-        },           
+        },
+        {
+            "url": "frhd.co/t/352687/r/sidewalk",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
             "type": "trick"
@@ -1474,6 +1474,10 @@
         },
         {
             "url": "frhd.co/t/654163/r/symantec",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/271369/r/symantec",
             "type": "vehicle"
         },        
         {
