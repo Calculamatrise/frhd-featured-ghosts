@@ -15,10 +15,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/222275/r/anonyymi",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/1003/r/anonyymi",
             "type": "fast"
         },
@@ -456,13 +452,7 @@
             "url": "frhd.co/t/730968/r/charredlizard21",
             "type": "vehicle"
         }          
-    ],
-    "cork": [
-        {
-            "url": "frhd.co/t/224456/r/cork",
-            "type": "fast"
-        }       
-    ],      
+    ],     
     "dblu": [     
         {
             "url": "frhd.co/t/191253/r/dblu",
@@ -1443,7 +1433,11 @@
         {
             "url": "frhd.co/t/298213/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/224456/r/symantec",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1674,6 +1668,10 @@
         }           
     ],
     "uniior": [
+        {
+            "url": "frhd.co/t/222275/r/uniior",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/557255/r/uniior",
             "type": "vehicle"
