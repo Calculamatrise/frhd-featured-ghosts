@@ -1047,6 +1047,10 @@
         {
             "url": "frhd.co/t/352687/r/sidewalk",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/733399/r/sidewalk",
+            "type": "fast"
         },         
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
@@ -1661,11 +1665,7 @@
         {
             "url": "frhd.co/t/141352/r/unghosted",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/733399/r/unghosted",
-            "type": "fast"
-        }           
+        }          
     ],
     "uniior": [
         {
