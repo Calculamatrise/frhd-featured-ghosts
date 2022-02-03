@@ -1441,7 +1441,11 @@
         {
             "url": "frhd.co/t/677761/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/714294/r/symantec",
+            "type": "fast"
+        }        
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1689,12 +1693,6 @@
             "type": "vehicle"
         }        
     ],    
-    "unknown-rider": [
-        {
-            "url": "frhd.co/t/714294/r/unknown-rider",
-            "type": "fast"
-        }
-    ],
     "unspoken": [
         {
             "url": "frhd.co/t/1076/r/unspoken",
