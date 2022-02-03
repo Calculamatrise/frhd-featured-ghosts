@@ -1445,6 +1445,10 @@
         {
             "url": "frhd.co/t/714294/r/symantec",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/226644/r/symantec",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/653451/r/symantec",
@@ -1570,10 +1574,6 @@
         },
         {
             "url": "frhd.co/t/388497/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/226644/r/tetrationiscool",
             "type": "fast"
         },
         {
