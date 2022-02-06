@@ -771,6 +771,14 @@
         {
             "url": "frhd.co/t/1024/r/theft",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/7011/r/radiumrc",
+            "type": "fast"
+        },        
+        {
+            "url": "frhd.co/t/443126/r/radiumrc",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/736055/r/radium_rc",
@@ -862,10 +870,6 @@
         }         
     ],         
     "redorblue": [
-        {
-            "url": "frhd.co/t/611918/r/redorblue",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/646153/r/redorblue",
             "type": "fast"
@@ -1453,6 +1457,10 @@
         {
             "url": "frhd.co/t/836399/r/symantec",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/611918/r/symantec",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/653451/r/symantec",
@@ -1561,15 +1569,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/443126/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/57072/r/tetrationiscool",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/7011/r/tetrationiscool",
             "type": "fast"
         },
         {
