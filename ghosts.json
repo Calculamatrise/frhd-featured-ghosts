@@ -343,21 +343,9 @@
             "type": "auto"
         }    
     ],       
-    "cerulean": [
-        {
-            "url": "frhd.co/t/215081/r/cerulean",
-            "type": "fast"
-        },     
-        {
-            "url": "frhd.co/t/220374/r/cerulean",
-            "type": "fast"
-        },                                
+    "cerulean": [         
         {
             "url": "frhd.co/t/838707/r/cerulean",
-            "type": "fast"
-        },  
-        {
-            "url": "frhd.co/t/211233/r/cerulean",
             "type": "fast"
         },           
         {
@@ -779,7 +767,23 @@
         {
             "url": "frhd.co/t/443126/r/radiumrc",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/780688/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/211233/r/radiumrc",
+            "type": "fast"
+        },          
+        {
+            "url": "frhd.co/t/220374/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/215081/r/radiumrc",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
@@ -922,10 +926,6 @@
             "url": "frhd.co/t/651059/r/redorblue",
             "type": "fast"
         },         
-        {
-            "url": "frhd.co/t/780688/r/redorblue",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/232048/r/redorblue",
             "type": "fast"
