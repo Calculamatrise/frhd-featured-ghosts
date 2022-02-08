@@ -39,16 +39,6 @@
             "type": "other"
         }
     ],       
-    "backtwice": [
-        {
-            "url": "frhd.co/t/239108/r/backtwice",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/52773/r/backtwice",
-            "type": "fast"
-        }        
-    ],
     "brendanmagill": [
         {
             "url": "frhd.co/t/1116/r/brendanmagill",
@@ -783,7 +773,15 @@
         {
             "url": "frhd.co/t/215081/r/radiumrc",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/239108/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/52773/r/radiumrc",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
