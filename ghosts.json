@@ -919,11 +919,7 @@
         {
             "url": "frhd.co/t/799917/r/redorblue",
             "type": "fast"
-        },         
-        {
-            "url": "frhd.co/t/651059/r/redorblue",
-            "type": "fast"
-        },         
+        },                
         {
             "url": "frhd.co/t/232048/r/redorblue",
             "type": "fast"
@@ -1463,7 +1459,11 @@
         {
             "url": "frhd.co/t/574346/r/symantec",
             "type": "fast"
-        },        
+        },
+        {
+            "url": "frhd.co/t/651059/r/symantec",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
