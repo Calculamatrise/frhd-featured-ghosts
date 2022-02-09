@@ -775,7 +775,31 @@
         {
             "url": "frhd.co/t/52773/r/radiumrc",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/10280/r/radiumrc",
+            "type": "fast"
+        },        
+        {
+            "url": "frhd.co/t/8875/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/772571/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/95778/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/196676/r/radiumrc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/576498/r/radiumrc",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
@@ -875,10 +899,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/576498/r/trickghost",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/590812/r/trickghost",
             "type": "fast"
         },
@@ -887,19 +907,7 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/95778/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/196676/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/660509/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/772571/r/redorblue",
             "type": "fast"
         },
         {
@@ -917,15 +925,7 @@
         {
             "url": "frhd.co/t/9331/r/redorblue",
             "type": "fast"
-        },              
-        {
-            "url": "frhd.co/t/8875/r/redorblue",
-            "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/10280/r/redorblue",
-            "type": "fast"
-        },
+        },       
         {
             "url": "frhd.co/t/835176/r/redorblue",
             "type": "fast"
