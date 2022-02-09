@@ -39,12 +39,6 @@
             "type": "other"
         }
     ],       
-    "brendanmagill": [
-        {
-            "url": "frhd.co/t/1116/r/brendanmagill",
-            "type": "fast"
-        }      
-    ],
     "calculus": [
         {
             "url": "frhd.co/t/10013/r/precalculus",
@@ -881,10 +875,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/658640/r/redorblue",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/576498/r/trickghost",
             "type": "fast"
         },
@@ -973,10 +963,6 @@
             "type": "vehicle"
         },
         {
-            "url": "frhd.co/t/828818/r/rustyciarkson",
-            "type": "vehicle"
-        },
-        {
             "url": "frhd.co/t/557948/r/shamatoz",
             "type": "vehicle"
         },
@@ -1048,6 +1034,10 @@
         },
         {
             "url": "frhd.co/t/1045/r/sidewalk",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/658640/r/sidewalk",
             "type": "fast"
         },        
         {
@@ -1463,7 +1453,11 @@
         {
             "url": "frhd.co/t/651059/r/symantec",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/170958/r/symantec",
+            "type": "fast"
+        },        
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
@@ -1641,7 +1635,11 @@
         {
             "url": "frhd.co/t/1254/r/trikflip",
             "type": "fast"
-        }
+        },
+        {
+            "url": "frhd.co/t/1116/r/trikflip",
+            "type": "fast"
+        }           
     ],    
     "tuttifruity": [
         {
@@ -1692,6 +1690,10 @@
         },
         {
             "url": "frhd.co/t/467459/r/uniior",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/828818/r/uniior",
             "type": "vehicle"
         }        
     ],    
