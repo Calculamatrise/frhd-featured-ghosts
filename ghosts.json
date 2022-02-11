@@ -1039,6 +1039,10 @@
         {
             "url": "frhd.co/t/658640/r/sidewalk",
             "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/509794/r/sidewalk",
+            "type": "fast"
         },        
         {
             "url": "frhd.co/t/455779/r/sidewalk_og",
@@ -1068,10 +1072,6 @@
         }
     ],
     "stevie.t": [
-        {
-            "url": "frhd.co/t/509794/r/stevie.t",
-            "type": "fast"
-        },
         {
             "url": "frhd.co/t/191253/r/stevie.t",
             "type": "fast"
