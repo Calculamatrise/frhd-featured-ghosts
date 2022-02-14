@@ -949,17 +949,9 @@
             "type": "vehicle"
         }        
     ], 
-    "shamatoz": [
-        {
-            "url": "frhd.co/t/677731/r/shamatoz",
-            "type": "vehicle"
-        },
+    "shamatoz": [       
         {
             "url": "frhd.co/t/818570/r/shamatoz",
-            "type": "vehicle"
-        },
-        {
-            "url": "frhd.co/t/557948/r/shamatoz",
             "type": "vehicle"
         },
         {
@@ -1653,10 +1645,6 @@
     ],
     "ultraviolet": [
         {
-            "url": "frhd.co/t/683736/r/ultraviolet",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/577101/r/ultraviolet",
             "type": "vehicle"
         },
@@ -1699,7 +1687,15 @@
         {
             "url": "frhd.co/t/828818/r/uniior",
             "type": "vehicle"
-        }        
+        },
+        {
+            "url": "frhd.co/t/677731/r/uniior",
+            "type": "vehicle"
+        },
+        {
+            "url": "frhd.co/t/557948/r/uniior",
+            "type": "vehicle"
+        }         
     ],    
     "unspoken": [
         {
