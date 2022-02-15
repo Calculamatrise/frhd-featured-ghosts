@@ -379,10 +379,6 @@
             "type": "fast"
         },
         {
-            "url": "frhd.co/t/336968/r/chaos-fallen",
-            "type": "fast"
-        },
-        {
             "url": "frhd.co/t/1184/r/chaos-fallen",
             "type": "fast"
         },
@@ -1453,7 +1449,15 @@
         {
             "url": "frhd.co/t/354178/r/symantec",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/336968/r/symantec",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/483251/r/symantec",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/653451/r/symantec",
             "type": "vehicle"
