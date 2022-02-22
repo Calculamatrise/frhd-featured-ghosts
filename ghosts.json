@@ -323,11 +323,7 @@
         {
             "url": "frhd.co/t/838707/r/cerulean",
             "type": "fast"
-        },
-        {
-            "url": "frhd.co/t/646557/r/cerulean",
-            "type": "fast"
-        },        
+        },      
         {
             "url": "frhd.co/t/796822/r/cerulean",
             "type": "trick"
@@ -787,7 +783,11 @@
         {
             "url": "frhd.co/t/576498/r/radiumrc",
             "type": "fast"
-        },         
+        },
+        {
+            "url": "frhd.co/t/646557/r/radiumrc",
+            "type": "fast"
+        },          
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
