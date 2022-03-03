@@ -755,7 +755,19 @@
         {
             "url": "frhd.co/t/646557/r/radiumrc",
             "type": "fast"
-        },          
+        },
+        {
+            "url": "frhd.co/t/863874/r/theft",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/862338/r/radium_rc",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/874138/r/radiumrc",
+            "type": "fast"
+        },         
         {
             "url": "frhd.co/t/736055/r/radium_rc",
             "type": "vehicle"
@@ -779,7 +791,11 @@
         {
             "url": "frhd.co/t/282981/r/radium_rc",
             "type": "trick"
-        },          
+        },
+        {
+            "url": "frhd.co/t/862906/r/radium_rc",
+            "type": "trick"
+        },        
         {
             "url": "frhd.co/t/155806/r/radium_rc",
             "type": "auto"
@@ -834,6 +850,14 @@
         },
         {
             "url": "frhd.co/t/464750/r/radiumrc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/2282/r/radiumrc",
+            "type": "auto"
+        },
+        {
+            "url": "frhd.co/t/863005/r/radium_rc",
             "type": "auto"
         }         
     ],         
@@ -986,6 +1010,10 @@
         },
         {
             "url": "frhd.co/t/291322/r/sidewalk",
+            "type": "fast"
+        },
+        {
+            "url": "frhd.co/t/870890/r/sidewalk_2",
             "type": "fast"
         },        
         {
