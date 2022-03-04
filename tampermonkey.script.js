@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/alias.json").then(r => r.json()).then(function(alias) {
-    fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/ghosts.json").then(r => r.json()).then(function(players) {
+    fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/data.json").then(r => r.json()).then(function(players) {
         for (let player in players) {
             for (const ghost in players[player]) {
                 if (parseInt(location.pathname.split("/t/")[1]) !== parseInt(ghost.split("/t/")[1])) {

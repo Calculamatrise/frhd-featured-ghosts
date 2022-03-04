@@ -89,7 +89,7 @@
     </style>
     <script>
         function refresh() {
-            fetch("https://raw.githubusercontent.com/Calculamatrise/official_featured_ghosts/master/ghosts.json").then(response => response.json()).then(function(response) {
+            fetch("https://raw.githubusercontent.com/Calculamatrise/frhd_featured_ghosts/master/data.json").then(response => response.json()).then(function(response) {
                 const container = document.querySelector("#response");
                 container.innerHTML = "";
                 for (const player in response) {
