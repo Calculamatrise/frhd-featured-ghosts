@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Featured Ghosts - Free Rider HD | Calculamatrise</title>
+    <style>
+        table thead tr:before {
+            content: "";
+        }
+
+        table thead tr th  {
+            border-bottom: 1px solid #1b1b1b;
+        }
+
+        table thead tr th {
+            text-align: left;
+            padding-right: 16px;
+            user-select: none;
+        }
+
+        table thead tr th:hover {
+            cursor: pointer;
+        }
+
+        table thead tr th:after {
+            content: "";
+            width: 12px;
+            height: 12px;
+            float: right;
+            margin: 2px;
+            margin-left: 16px;
+            display: inline-block;
+            background-color: black;
+            clip-path: polygon(
+                10% 40%,
+                90% 40%,
+                50% 0,
+                10% 40%,
+                10% 60%,
+                90% 60%,
+                50% 100%,
+                10% 60%
+            );
+        }
+
+        table thead tr th.asc:after {
+            clip-path: polygon(
+                10% 70%,
+                90% 70%,
+                50% 30%,
+                10% 70%
+            );
+        }
+
+        table thead tr th.desc:after {
+            clip-path: polygon(
+                10% 30%,
+                90% 30%,
+                50% 70%,
+                10% 30%
+            );
+        }
+
+        table tbody tr {
+            line-height: 32px;
+            counter-increment: line;
+        }
+
+        table tbody tr:before {
+            vertical-align: middle;
+            content: counter(line) ".";
+        }
+
+        table tbody tr td {
+            border-bottom: 1px solid #1b1b1b;
+        }
+
+        table tbody tr td:first-child {
+            padding-right: 40px;
+        }
+
+        /*
+        table tbody tr td:not(:first-child) {
+            text-align: center;
+        }
+        */
+    </style>
+    <script>
+        function refresh() {
+            fetch("https://raw.githubusercontent.com/Calculamatrise/official_featured_ghosts/master/ghosts.json").then(response => response.json()).then(function(response) {
+                const container = document.querySelector("#response");
+                container.innerHTML = "";
+                for (const player in response) {
+                    const element = document.createElement("tr");
+                    element.append(Object.assign(document.createElement("td"), {
+                        innerText: player
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: response[player].length
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: Object.values(response[player]).filter((type) => type === "fast").length
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: Object.values(response[player]).filter((type) => type === "vehicle").length
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: Object.values(response[player]).filter((type) => type === "trick").length
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: Object.values(response[player]).filter((type) => type === "auto").length
+                    }), Object.assign(document.createElement("td"), {
+                        innerText: Object.values(response[player]).filter((type) => type === "other").length
+                    }));
+                    container.appendChild(element);
+                }
+            });
+        }
+
+        window.addEventListener("load", function() {
+            refresh();
+
+            document.querySelectorAll("table thead tr th").forEach(function(element) {
+                element.addEventListener("click", function(event) {
+                    const rows = document.querySelector("#response");
+                    document.querySelectorAll("table thead tr th:not(:last-child)").forEach((element) => element.dataset.direction && element.classList.remove(element.dataset.direction));
+                    
+                    this.dataset.direction = this.dataset.direction !== "asc" ? "asc" : "desc";
+                    const sorted = [...rows.children].sort((a, b, c) => {
+                        if (this.dataset.direction !== "asc") c = a, a = b, b = c;
+                        if (isFinite(a.children[this.cellIndex].innerText) && isFinite(b.children[this.cellIndex].innerText)) {
+                            return a.children[this.cellIndex].innerText - b.children[this.cellIndex].innerText;
+                        }
+                        
+                        return a.children[this.cellIndex].innerText.localeCompare(b.children[this.cellIndex].innerText);
+                    });
+
+                    for (const row in sorted) {
+                        try {
+                            rows.replaceChild(sorted[row], rows.children[row]);
+                        } catch(e) {
+                            rows.appendChild(sorted[row]);
+                        }
+                    }
+
+                    this.classList.add(this.dataset.direction);
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <table>
+        <caption>Official Featured Ghosts Statistics <button onclick="refresh()">Refresh</button></caption>
+        <thead>
+            <tr>
+                <th>User</th>
+                <th>Overall</th>
+                <th>Fast</th>
+                <th>Vehicle</th>
+                <th>Trick</th>
+                <th>Auto</th>
+                <th>Other</th>
+            </tr>
+        </thead>
+        <tbody id="response">
+            
+        </tbody>
+    </table>
+</body>
+</html>
