@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Statistics - Official Featured Ghosts">
+    <meta property="og:description" content="A table containing the statistics for the most legendary ghosts submitted by the community.">
+    <meta property="og:image" content="/images/favicon.png">
+    <meta property="og:url" content="https://calculamatrise.github.io/frhd_featured_ghosts/">
     <title>Featured Ghosts - Free Rider HD | Calculamatrise</title>
     <style>
         table thead tr:before {
@@ -97,7 +101,7 @@
                     element.append(Object.assign(document.createElement("td"), {
                         innerText: player
                     }), Object.assign(document.createElement("td"), {
-                        innerText: response[player].length
+                        innerText: Object.values(response[player]).length
                     }), Object.assign(document.createElement("td"), {
                         innerText: Object.values(response[player]).filter((type) => type === "fast").length
                     }), Object.assign(document.createElement("td"), {
