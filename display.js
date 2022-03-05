@@ -25,7 +25,7 @@ fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/mas
                     }
 
                     if (element.innerText.toLowerCase() !== name) {
-                        return;
+                        continue;
                     }
 
                     let color = "rgba(232, 169, 35, 0.4)";
