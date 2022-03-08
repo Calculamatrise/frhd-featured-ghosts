@@ -112,6 +112,11 @@
     "drchill": {
         "frhd.co/t/796822/r/drchill": "trick"
     },
+    "egway": {
+        "frhd.co/t/1254/r/egway": "fast",
+        "frhd.co/t/1116/r/egway": "fast",
+        "frhd.co/t/597025/r/egway": "vehicle"
+    },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
     },
@@ -324,11 +329,6 @@
         "frhd.co/t/319404/r/alzakhion": "fast",
         "frhd.co/t/1031/r/totoca12": "fast",
         "frhd.co/t/435363/r/lordcarl71": "trick"
-    },
-    "trikflip": {
-        "frhd.co/t/1254/r/trikflip": "fast",
-        "frhd.co/t/1116/r/trikflip": "fast",
-        "frhd.co/t/597025/r/trikflip": "vehicle"
     },
     "tuttifruity": {
         "frhd.co/t/166892/r/tuttifruity": "trick"
