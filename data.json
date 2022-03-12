@@ -287,7 +287,6 @@
         "frhd.co/t/733399/r/sidewalk": "fast",
         "frhd.co/t/1045/r/sidewalk": "fast",
         "frhd.co/t/658640/r/sidewalk": "fast",
-        "frhd.co/t/509794/r/sidewalk": "fast",
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/455779/r/sidewalk_og": "trick"
@@ -305,6 +304,7 @@
     "stevie.t": {
         "frhd.co/t/191253/r/stevie.t": "fast",
         "frhd.co/t/1010/r/stevie.t": "fast",
+        "frhd.co/t/509794/r/stevie.t": "fast",        
         "frhd.co/t/291527/r/stevie.t": "vehicle",
         "frhd.co/t/568797/r/stevie.t": "trick"
     },
