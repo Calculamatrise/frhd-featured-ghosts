@@ -114,6 +114,7 @@
     "egway": {
         "frhd.co/t/1254/r/egway": "fast",
         "frhd.co/t/1116/r/egway": "fast",
+        "frhd.co/t/1076/r/egway": "fast",        
         "frhd.co/t/597025/r/egway": "vehicle"
     },    
     "isekeb": {
@@ -351,9 +352,6 @@
         "frhd.co/t/828818/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle"
-    },
-    "unspoken": {
-        "frhd.co/t/1076/r/unspoken": "fast"
     },
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
