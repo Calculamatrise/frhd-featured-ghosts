@@ -75,7 +75,6 @@
         "frhd.co/t/442222/r/cerasium": "fast",      
         "frhd.co/t/724857/r/cerasium": "vehicle",
         "frhd.co/t/823601/r/cerasium": "vehicle",
-        "frhd.co/t/52341/r/cerasium": "auto",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
         "frhd.co/t/805856/r/cerasium": "auto"
@@ -268,7 +267,8 @@
     },
     "shamatoz": {
         "frhd.co/t/818570/r/shamatoz": "vehicle",
-        "frhd.co/t/435363/r/shamatoz": "trick"
+        "frhd.co/t/435363/r/shamatoz": "trick",
+        "frhd.co/t/52341/r/shamatoz": "auto"        
     },
     "sidewalk": {
         "frhd.co/t/285906/r/sidewalk": "fast",
@@ -331,10 +331,7 @@
         "frhd.co/t/319404/r/alzakhion": "fast",
         "frhd.co/t/1031/r/totoca12": "fast",
         "frhd.co/t/435363/r/lordcarl71": "trick"
-    },
-    "tubiek": {
-        "frhd.co/t/52341/r/tubiek": "auto"
-    },    
+    },  
     "tuttifruity": {
         "frhd.co/t/166892/r/tuttifruity": "trick"
     },
