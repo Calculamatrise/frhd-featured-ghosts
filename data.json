@@ -120,7 +120,6 @@
         "frhd.co/t/195874/r/isekeb": "trick"
     },
     "madara": {
-        "frhd.co/t/352687/r/madara": "fast",
         "frhd.co/t/544020/r/madara": "fast",
         "frhd.co/t/778969/r/madara": "fast",
         "frhd.co/t/216027/r/madara": "fast",
@@ -266,6 +265,7 @@
         "frhd.co/t/746191/r/rippedmagnet": "vehicle"
     },
     "shamatoz": {
+        "frhd.co/t/352687/r/shamatoz": "fast",        
         "frhd.co/t/818570/r/shamatoz": "vehicle",
         "frhd.co/t/435363/r/shamatoz": "trick",
         "frhd.co/t/52341/r/shamatoz": "auto"        
@@ -284,7 +284,6 @@
         "frhd.co/t/295513/r/sidewalk": "fast",
         "frhd.co/t/198432/r/sidewalk": "fast",
         "frhd.co/t/127165/r/sidewalk": "fast",
-        "frhd.co/t/352687/r/sidewalk": "fast",
         "frhd.co/t/733399/r/sidewalk": "fast",
         "frhd.co/t/1045/r/sidewalk": "fast",
         "frhd.co/t/658640/r/sidewalk": "fast",
