@@ -40,7 +40,6 @@
         "frhd.co/t/1042/r/cerasium": "fast",
         "frhd.co/t/1728/r/cerasium": "fast",
         "frhd.co/t/655951/r/cerasium": "fast",
-        "frhd.co/t/671692/r/cerasium": "fast",
         "frhd.co/t/230102/r/cerasium": "fast",
         "frhd.co/t/405476/r/cerasium": "fast",
         "frhd.co/t/262859/r/cerasium": "fast",
@@ -113,7 +112,8 @@
     "egway": {
         "frhd.co/t/1254/r/egway": "fast",
         "frhd.co/t/1116/r/egway": "fast",
-        "frhd.co/t/1076/r/egway": "fast",        
+        "frhd.co/t/1076/r/egway": "fast",
+        "frhd.co/t/671692/r/tricycle": "fast",        
         "frhd.co/t/597025/r/egway": "vehicle"
     },    
     "isekeb": {
