@@ -266,7 +266,6 @@
     },
     "shamatoz": {
         "frhd.co/t/352687/r/legendary_rider": "fast",        
-        "frhd.co/t/818570/r/shamatoz": "vehicle",
         "frhd.co/t/435363/r/shamatoz": "trick",
         "frhd.co/t/52341/r/shamatoz": "auto"        
     },
@@ -352,6 +351,9 @@
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle"
     },
+    "xenom": {
+        "frhd.co/t/818570/r/xenom": "vehicle"
+    },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
         "frhd.co/t/106750/r/xverse": "fast",
