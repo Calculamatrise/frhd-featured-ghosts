@@ -10,7 +10,8 @@
         "frhd.co/t/167075/r/anonyymi": "fast",
         "frhd.co/t/290712/r/anonyymi": "fast",
         "frhd.co/t/781041/r/anonyymi": "fast",
-        "frhd.co/t/243884/r/army_man": "fast",        
+        "frhd.co/t/243884/r/army_man": "fast",
+        "frhd.co/t/724857/r/anonyymi": "vehicle",        
         "frhd.co/t/158140/r/anonyymi": "other"
     },
     "calculus": {
@@ -72,7 +73,6 @@
         "frhd.co/t/1554/r/theft": "fast",
         "frhd.co/t/217220/r/cerasium": "fast",
         "frhd.co/t/442222/r/cerasium": "fast",      
-        "frhd.co/t/724857/r/cerasium": "vehicle",
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
@@ -82,8 +82,7 @@
         "frhd.co/t/838707/r/cerulean": "fast",
         "frhd.co/t/796822/r/cerulean": "trick",
         "frhd.co/t/801452/r/cerulean": "trick",
-        "frhd.co/t/187395/r/cerulean": "vehicle",
-        "frhd.co/t/743264/r/cerulean": "vehicle"
+        "frhd.co/t/187395/r/cerulean": "vehicle"
     },
     "chaos-fallen": {
         "frhd.co/t/455576/r/chaos-fallen": "fast",
@@ -114,7 +113,8 @@
         "frhd.co/t/1116/r/egway": "fast",
         "frhd.co/t/1076/r/egway": "fast",
         "frhd.co/t/671692/r/tricycle": "fast",        
-        "frhd.co/t/597025/r/egway": "vehicle"
+        "frhd.co/t/597025/r/egway": "vehicle",
+        "frhd.co/t/743264/r/egway": "vehicle"        
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
@@ -346,7 +346,6 @@
         "frhd.co/t/222275/r/uniior": "fast",
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
-        "frhd.co/t/724857/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/828818/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
