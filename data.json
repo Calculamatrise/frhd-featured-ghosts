@@ -135,13 +135,18 @@
         "frhd.co/t/1184/r/chaos-fallen": "fast",
         "frhd.co/t/420788/r/chaos-fallen": "fast",
         "frhd.co/t/347736/r/chaos-fallen": "fast",
-        "frhd.co/t/732812/r/chaos-fallen": "fast"
+        "frhd.co/t/732812/r/chaos-fallen": "fast",
+        "frhd.co/t/577268/r/chaos-fallen": "fast",
+        "frhd.co/t/336968/r/chaos-fallen": "vehicle"        
     },
     "charredlizard21": {
         "frhd.co/t/713577/r/typicaleshay": "vehicle",
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
         "frhd.co/t/730968/r/charredlizard21": "vehicle"
     },
+    "cork": {
+        "frhd.co/t/224456/r/cork": "fast"
+    },    
     "dblu": {
         "frhd.co/t/191253/r/dblu": "other"
     },
@@ -154,7 +159,8 @@
         "frhd.co/t/1076/r/egway": "fast",
         "frhd.co/t/671692/r/tricycle": "fast",        
         "frhd.co/t/597025/r/egway": "vehicle",
-        "frhd.co/t/743264/r/egway": "vehicle"        
+        "frhd.co/t/743264/r/egway": "vehicle",
+        "frhd.co/t/881908/r/egway": "vehicle"         
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
