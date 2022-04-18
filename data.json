@@ -106,10 +106,23 @@
         "frhd.co/t/225125/r/theft": "other"         
     },
     "cerulean": {
-        "frhd.co/t/838707/r/cerulean": "fast",
+        "frhd.co/t/838707/r/cerulean": "fast",     
+        "frhd.co/t/824395/r/cerulean": "fast",
+        "frhd.co/t/808681/r/cerulean": "fast",
+        "frhd.co/t/825384/r/cerulean": "fast",        
+        "frhd.co/t/273315/r/cerulean": "fast",
+        "frhd.co/t/290112/r/cerulean": "fast",
+        "frhd.co/t/804304/r/cerulean": "fast",
+        "frhd.co/t/773568/r/cerulean": "fast",
+        "frhd.co/t/439820/r/cerulean": "fast",
+        "frhd.co/t/801731/r/cerulean": "fast",        
+        "frhd.co/t/201857/r/cerulean": "fast",
+        "frhd.co/t/546909/r/cerulean": "fast",
+        "frhd.co/t/510963/r/cerulean": "fast",
+        "frhd.co/t/769414/r/cerulean": "fast",
+        "frhd.co/t/187395/r/cerulean": "vehicle",        
         "frhd.co/t/796822/r/cerulean": "trick",
-        "frhd.co/t/801452/r/cerulean": "trick",
-        "frhd.co/t/187395/r/cerulean": "vehicle"
+        "frhd.co/t/801452/r/cerulean": "trick"
     },
     "chaos-fallen": {
         "frhd.co/t/455576/r/chaos-fallen": "fast",
