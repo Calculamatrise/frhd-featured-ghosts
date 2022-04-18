@@ -333,6 +333,7 @@
         "frhd.co/t/387779/r/resurrect": "trick"
     },
     "rhodium": {
+        "frhd.co/t/115150/r/rhodium": "fast",        
         "frhd.co/t/82818/r/rhodium": "trick"
     },
     "rippedmagnet": {
@@ -363,11 +364,15 @@
         "frhd.co/t/658640/r/sidewalk": "fast",
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
+        "frhd.co/t/267197/r/sidewalk": "fast",        
         "frhd.co/t/455779/r/sidewalk_og": "trick"
     },
     "silver_bird7": {
         "frhd.co/t/11057/r/derivative": "fast"
     },
+    "skatitall": {
+        "frhd.co/t/1171/r/skatitall": "fast"
+    },    
     "slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
     },
@@ -378,7 +383,9 @@
     "stevie.t": {
         "frhd.co/t/191253/r/stevie.t": "fast",
         "frhd.co/t/1010/r/stevie.t": "fast",
-        "frhd.co/t/509794/r/stevie.t": "fast",        
+        "frhd.co/t/509794/r/stevie.t": "fast",
+        "frhd.co/t/608063/r/stevie.t": "fast",
+        "frhd.co/t/345240/r/stevie.t": "fast",            
         "frhd.co/t/291527/r/stevie.t": "vehicle",
         "frhd.co/t/568797/r/stevie.t": "trick"
     },
