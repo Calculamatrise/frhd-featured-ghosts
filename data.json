@@ -191,7 +191,6 @@
     },
     "mr..a": {
         "frhd.co/t/462701/r/mr..a": "fast",
-        "frhd.co/t/725866/r/mr..a": "fast",
         "frhd.co/t/211082/r/mr..a": "trick",
         "frhd.co/t/435363/r/mr..a": "trick",
         "frhd.co/t/1728/r/mr..a": "trick",
@@ -405,7 +404,11 @@
         "frhd.co/t/2995/r/tetrationiscool": "fast",
         "frhd.co/t/127222/r/tetrationiscool": "fast",
         "frhd.co/t/641387/r/tetrationiscool": "fast",
-        "frhd.co/t/1038/r/tetrationiscool": "fast"
+        "frhd.co/t/1038/r/tetrationiscool": "fast",
+        "frhd.co/t/9351/r/tetrationiscool": "fast",
+        "frhd.co/t/3306/r/tetrationiscool": "fast",
+        "frhd.co/t/226644/r/tetrationiscool": "fast",
+        "frhd.co/t/574346/r/tetrationiscool": "fast"        
     },
     "totoca12": {
         "frhd.co/t/319404/r/alzakhion": "fast",
@@ -425,13 +428,19 @@
     },
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
+        "frhd.co/t/725866/r/uniior": "fast",        
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/828818/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
-        "frhd.co/t/557948/r/uniior": "vehicle"
-    },   
+        "frhd.co/t/557948/r/uniior": "vehicle",
+        "frhd.co/t/200043/r/uniior": "vehicle",
+        "frhd.co/t/489424/r/uniior": "vehicle"        
+    },
+    "we_are_number_one": {
+        "frhd.co/t/1034/r/we_are_number_one": "fast"
+    },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
         "frhd.co/t/106750/r/xverse": "fast",
