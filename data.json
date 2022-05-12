@@ -17,8 +17,7 @@
         "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/871696/r/anonyymi": "fast",
-        "frhd.co/t/53393/r/anonyymi": "fast",        
-        "frhd.co/t/724857/r/anonyymi": "vehicle",        
+        "frhd.co/t/53393/r/anonyymi": "fast",                
         "frhd.co/t/158140/r/anonyymi": "other"
     },
     "calculus": {
@@ -154,10 +153,12 @@
         "frhd.co/t/1116/r/egway": "fast",
         "frhd.co/t/1076/r/egway": "fast",
         "frhd.co/t/671692/r/tricycle": "fast",
-        "frhd.co/t/1184/r/egway": "fast",        
+        "frhd.co/t/1184/r/egway": "fast",
+        "frhd.co/t/459503/r/egway": "fast",        
         "frhd.co/t/597025/r/egway": "vehicle",
         "frhd.co/t/743264/r/egway": "vehicle",
-        "frhd.co/t/881908/r/egway": "vehicle"         
+        "frhd.co/t/881908/r/egway": "vehicle",
+        "frhd.co/t/724857/r/tricycle": "vehicle"        
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
@@ -208,8 +209,7 @@
         "frhd.co/t/715818/r/mr..a": "trick"
     },
     "ninjasparkour": {      
-        "frhd.co/t/520372/r/ninjasparkour": "fast",
-        "frhd.co/t/459503/r/ninjasparkour": "fast",        
+        "frhd.co/t/520372/r/ninjasparkour": "fast",        
         "frhd.co/t/298213/r/ninjasparkour": "fast",        
         "frhd.co/t/2819/r/ninjasparkour": "trick",
         "frhd.co/t/62033/r/xagefimuh": "auto"        
