@@ -124,7 +124,6 @@
     "chaos-fallen": {
         "frhd.co/t/455576/r/chaos-fallen": "fast",
         "frhd.co/t/784525/r/chaos-fallen": "fast",
-        "frhd.co/t/676042/r/chaos-fallen": "fast",
         "frhd.co/t/197596/r/chaos-fallen": "fast",
         "frhd.co/t/602609/r/chaos-fallen": "fast",
         "frhd.co/t/318674/r/chaos-fallen": "fast",
@@ -427,7 +426,8 @@
     },
     "unghosted": {
         "frhd.co/t/299698/r/ogunghosted": "fast",
-        "frhd.co/t/141352/r/unghosted": "fast"
+        "frhd.co/t/141352/r/unghosted": "fast",
+        "frhd.co/t/676042/r/unghosted": "fast"        
     },
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
