@@ -91,7 +91,6 @@
         "frhd.co/t/272071/r/cerasium": "fast",
         "frhd.co/t/771504/r/cerasium": "fast",
         "frhd.co/t/1170/r/cerasium": "fast",
-        "frhd.co/t/9300/r/cerasium": "fast",
         "frhd.co/t/766541/r/cerasium": "fast",
         "frhd.co/t/575587/r/cerasium": "fast",
         "frhd.co/t/677761/r/cerasium": "fast",             
@@ -427,7 +426,8 @@
     "unghosted": {
         "frhd.co/t/299698/r/ogunghosted": "fast",
         "frhd.co/t/141352/r/unghosted": "fast",
-        "frhd.co/t/676042/r/unghosted": "fast"        
+        "frhd.co/t/676042/r/unghosted": "fast",
+        "frhd.co/t/9300/r/switchback": "fast"        
     },
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
