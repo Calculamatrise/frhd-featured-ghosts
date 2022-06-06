@@ -351,7 +351,6 @@
         "frhd.co/t/285906/r/sidewalk": "fast",
         "frhd.co/t/842887/r/sidewalk": "fast",
         "frhd.co/t/218144/r/sidewalk": "fast",
-        "frhd.co/t/461867/r/sidewalk": "fast",
         "frhd.co/t/677071/r/sidewalk": "fast",
         "frhd.co/t/837328/r/sidewalk": "fast",
         "frhd.co/t/259615/r/sidewalk": "fast",
@@ -433,7 +432,8 @@
     },
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
-        "frhd.co/t/725866/r/uniior": "fast",        
+        "frhd.co/t/725866/r/uniior": "fast",
+        "frhd.co/t/461867/r/uniior": "fast",        
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
