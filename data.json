@@ -366,8 +366,7 @@
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/267197/r/sidewalk": "fast", 
-        "frhd.co/t/676042/r/sidewalk": "fast",
-        "frhd.co/t/461867/r/sidewalk": "fast",        
+        "frhd.co/t/676042/r/sidewalk": "fast",        
         "frhd.co/t/455779/r/sidewalk_og": "trick"
     },
     "silver_bird7": {
@@ -433,7 +432,8 @@
     },
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
-        "frhd.co/t/725866/r/uniior": "fast",        
+        "frhd.co/t/725866/r/uniior": "fast",
+        "frhd.co/t/461867/r/uniior": "fast",        
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
