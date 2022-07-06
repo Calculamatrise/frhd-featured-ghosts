@@ -351,6 +351,7 @@
         "frhd.co/t/484421/r/delay": "fast",             
         "frhd.co/t/818570/r/earthshine": "vehicle",        
         "frhd.co/t/435363/r/shamatoz": "trick",
+        "frhd.co/t/542830/r/earthshine": "trick",        
         "frhd.co/t/52341/r/shamatoz": "auto"        
     },
     "sidewalk": {
@@ -372,7 +373,9 @@
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/267197/r/sidewalk": "fast", 
-        "frhd.co/t/676042/r/sidewalk": "fast",        
+        "frhd.co/t/676042/r/sidewalk": "fast",       
+        "frhd.co/t/793962/r/sidewalk": "fast", 
+        "frhd.co/t/475991/r/sidewalk": "fast",        
         "frhd.co/t/455779/r/sidewalk_og": "trick"
     },
     "silver_bird7": {
@@ -395,6 +398,7 @@
         "frhd.co/t/608063/r/stevie.t": "fast",
         "frhd.co/t/345240/r/stevie.t": "fast",            
         "frhd.co/t/291527/r/stevie.t": "vehicle",
+        "frhd.co/t/649203/r/stevie.t": "vehicle",        
         "frhd.co/t/568797/r/stevie.t": "trick"
     },
     "tetrationiscool": {
