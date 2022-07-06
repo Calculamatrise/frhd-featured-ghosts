@@ -157,7 +157,8 @@
         "frhd.co/t/597025/r/egway": "vehicle",
         "frhd.co/t/743264/r/egway": "vehicle",
         "frhd.co/t/881908/r/egway": "vehicle",
-        "frhd.co/t/724857/r/tricycle": "vehicle"        
+        "frhd.co/t/724857/r/tricycle": "vehicle",
+        "frhd.co/t/881908/r/egway": "trick"        
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
