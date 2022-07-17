@@ -124,7 +124,6 @@
         "frhd.co/t/455576/r/chaos-fallen": "fast",
         "frhd.co/t/784525/r/chaos-fallen": "fast",
         "frhd.co/t/197596/r/chaos-fallen": "fast",
-        "frhd.co/t/602609/r/chaos-fallen": "fast",
         "frhd.co/t/318674/r/chaos-fallen": "fast",
         "frhd.co/t/754786/r/chaos-fallen": "fast",
         "frhd.co/t/420788/r/chaos-fallen": "fast",
@@ -303,6 +302,9 @@
         "frhd.co/t/863005/r/radium_rc": "auto",
         "frhd.co/t/1083/r/radiumrc": "auto"        
     },
+    "reborn": {
+        "frhd.co/t/602609/r/reborn": "fast"
+    },        
     "redorblue": {
         "frhd.co/t/646153/r/redorblue": "fast",
         "frhd.co/t/649135/r/redorblue": "fast",
