@@ -20,7 +20,8 @@
         "frhd.co/t/53393/r/anonyymi": "fast",                
         "frhd.co/t/158140/r/anonyymi": "other",
         "frhd.co/t/225125/r/emtebe": "other",
-        "frhd.co/t/167075/r/beemex": "other"        
+        "frhd.co/t/167075/r/beemex": "other",
+        "frhd.co/t/396742/r/anonyyimi": "other"       
     },
     "calculus": {
         "frhd.co/t/10013/r/precalculus": "trick"
@@ -183,7 +184,10 @@
         "frhd.co/t/271369/r/madara": "vehicle",
         "frhd.co/t/250678/r/madara": "vehicle",
         "frhd.co/t/295373/r/madara": "vehicle",
-        "frhd.co/t/194022/r/madara": "vehicle"          
+        "frhd.co/t/194022/r/madara": "vehicle",
+        "frhd.co/t/683255/r/madara": "other",
+        "frhd.co/t/354303/r/madara": "other",
+        "frhd.co/t/656502/r/madara": "other",        
     },
     "mr..a": {
         "frhd.co/t/462701/r/mr..a": "fast",
@@ -418,12 +422,12 @@
         "frhd.co/t/297012/r/tetrationiscool": "fast",
         "frhd.co/t/2995/r/tetrationiscool": "fast",
         "frhd.co/t/127222/r/tetrationiscool": "fast",
-        "frhd.co/t/641387/r/tetrationiscool": "fast",
         "frhd.co/t/1038/r/tetrationiscool": "fast",
         "frhd.co/t/9351/r/tetrationiscool": "fast",
         "frhd.co/t/3306/r/tetrationiscool": "fast",
         "frhd.co/t/226644/r/tetrationiscool": "fast",
-        "frhd.co/t/574346/r/tetrationiscool": "fast"        
+        "frhd.co/t/574346/r/tetrationiscool": "fast",
+        "frhd.co/t/641387/r/tetrationiscool": "other"        
     },
     "totoca12": {
         "frhd.co/t/319404/r/alzakhion": "fast",
@@ -480,6 +484,7 @@
         "frhd.co/t/594686/r/xverse": "fast",
         "frhd.co/t/395374/r/xverse": "fast",
         "frhd.co/t/785392/r/xverse": "fast",
-        "frhd.co/t/813657/r/xverse": "fast"        
+        "frhd.co/t/813657/r/xverse": "fast",
+        "frhd.co/t/170958/r/xverse": "other"        
     }      
 }
