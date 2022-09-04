@@ -18,8 +18,7 @@
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/871696/r/anonyymi": "fast",
         "frhd.co/t/53393/r/anonyymi": "fast",
-        "frhd.co/t/285906/r/anonyymi": "fast",
-        "frhd.co/t/1024/r/anonyymi": "fast",        
+        "frhd.co/t/285906/r/anonyymi": "fast",       
         "frhd.co/t/158140/r/anonyymi": "other",
         "frhd.co/t/225125/r/emtebe": "other",
         "frhd.co/t/167075/r/beemex": "other",
@@ -192,7 +191,6 @@
         "frhd.co/t/656502/r/madara": "other"        
     },
     "mr..a": {
-        "frhd.co/t/462701/r/mr..a": "fast",
         "frhd.co/t/211082/r/mr..a": "trick",
         "frhd.co/t/435363/r/mr..a": "trick",
         "frhd.co/t/1728/r/mr..a": "trick",
@@ -280,7 +278,8 @@
         "frhd.co/t/895180/r/radiumrc": "fast",
         "frhd.co/t/899904/r/radiumrc": "fast",
         "frhd.co/t/878989/r/radiumrc": "fast",
-        "frhd.co/t/865979/r/radium_rc": "fast",         
+        "frhd.co/t/865979/r/radium_rc": "fast",
+        "frhd.co/t/1024/r/radiumrc": "fast",         
         "frhd.co/t/736055/r/radium_rc": "vehicle",
         "frhd.co/t/654163/r/radiumrc": "vehicle",
         "frhd.co/t/530828/r/radium_rc": "trick",
@@ -450,7 +449,8 @@
     "uniior": {
         "frhd.co/t/222275/r/uniior": "fast",
         "frhd.co/t/725866/r/uniior": "fast",
-        "frhd.co/t/461867/r/uniior": "fast",        
+        "frhd.co/t/461867/r/uniior": "fast",
+        "frhd.co/t/462701/r/uniior": "fast",        
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
