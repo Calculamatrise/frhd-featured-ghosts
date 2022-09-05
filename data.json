@@ -153,7 +153,6 @@
         "frhd.co/t/1116/r/egway": "fast",
         "frhd.co/t/1076/r/egway": "fast",
         "frhd.co/t/671692/r/tricycle": "fast",
-        "frhd.co/t/1184/r/egway": "fast",
         "frhd.co/t/459503/r/egway": "fast",        
         "frhd.co/t/597025/r/egway": "vehicle",
         "frhd.co/t/743264/r/egway": "vehicle",
@@ -306,7 +305,8 @@
         "frhd.co/t/1083/r/radiumrc": "auto"        
     },
     "reborn": {
-        "frhd.co/t/602609/r/reborn": "fast"
+        "frhd.co/t/602609/r/reborn": "fast",
+        "frhd.co/t/1184/r/reborn": "fast"        
     },        
     "redorblue": {
         "frhd.co/t/646153/r/redorblue": "fast",
