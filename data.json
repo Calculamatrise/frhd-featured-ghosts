@@ -131,8 +131,7 @@
         "frhd.co/t/420788/r/chaos-fallen": "fast",
         "frhd.co/t/347736/r/chaos-fallen": "fast",
         "frhd.co/t/732812/r/chaos-fallen": "fast",
-        "frhd.co/t/577268/r/chaos-fallen": "fast",
-        "frhd.co/t/336968/r/chaos-fallen": "vehicle"        
+        "frhd.co/t/577268/r/chaos-fallen": "fast"        
     },
     "charredlizard21": {
         "frhd.co/t/713577/r/typicaleshay": "vehicle",
@@ -306,7 +305,8 @@
     },
     "reborn": {
         "frhd.co/t/602609/r/reborn": "fast",
-        "frhd.co/t/1184/r/reborn": "fast"        
+        "frhd.co/t/1184/r/reborn": "fast",
+        "frhd.co/t/336968/r/reborn": "vehicle"        
     },        
     "redorblue": {
         "frhd.co/t/646153/r/redorblue": "fast",
