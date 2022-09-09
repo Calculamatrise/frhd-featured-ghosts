@@ -305,7 +305,8 @@
     },
     "reborn": {
         "frhd.co/t/602609/r/reborn": "fast",
-        "frhd.co/t/1184/r/reborn": "fast"       
+        "frhd.co/t/1184/r/reborn": "fast",
+        "frhd.co/t/336968/r/reborn": "vehicle"         
     },        
     "redorblue": {
         "frhd.co/t/646153/r/redorblue": "fast",
@@ -343,9 +344,6 @@
     "rippedmagnet": {
         "frhd.co/t/746191/r/rippedmagnet": "vehicle",
         "frhd.co/t/200043/r/rippedmagnet": "vehicle"        
-    },
-    "rubegoldberger": {   
-        "frhd.co/t/336968/r/rubegoldberger": "vehicle" 
     },    
     "shamatoz": {
         "frhd.co/t/352687/r/legendary_rider": "fast",
