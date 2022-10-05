@@ -118,11 +118,11 @@
         "frhd.co/t/439820/r/cerulean": "fast",
         "frhd.co/t/801731/r/cerulean": "fast",        
         "frhd.co/t/201857/r/cerulean": "fast",
-        "frhd.co/t/546909/r/cerulean": "fast",
         "frhd.co/t/510963/r/cerulean": "fast",
         "frhd.co/t/187395/r/cerulean": "vehicle",        
         "frhd.co/t/796822/r/cerulean": "trick",
-        "frhd.co/t/801452/r/cerulean": "trick"
+        "frhd.co/t/801452/r/cerulean": "trick",
+        "frhd.co/t/546909/r/cerulean": "other"        
     },
     "chaos-fallen": {
         "frhd.co/t/455576/r/chaos-fallen": "fast",
