@@ -102,7 +102,10 @@
         "frhd.co/t/268941/r/cestoiolemsater": "fast",
         "frhd.co/t/676042/r/cestoiolemsater": "fast", 
         "frhd.co/t/717829/r/cestoiolemsater": "fast",
-        "frhd.co/t/396742/r/cestoiolemsater": "fast",         
+        "frhd.co/t/396742/r/cestoiolemsater": "fast",
+        "frhd.co/t/420788/r/cestoiolemsater": "fast",
+        "frhd.co/t/115150/r/cestoiolemsater": "fast",
+        "frhd.co/t/354303/r/cestoiolemsater": "fast",        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
@@ -135,7 +138,6 @@
         "frhd.co/t/197596/r/chaos-fallen": "fast",
         "frhd.co/t/318674/r/chaos-fallen": "fast",
         "frhd.co/t/754786/r/chaos-fallen": "fast",
-        "frhd.co/t/420788/r/chaos-fallen": "fast",
         "frhd.co/t/347736/r/chaos-fallen": "fast",
         "frhd.co/t/732812/r/chaos-fallen": "fast",
         "frhd.co/t/577268/r/chaos-fallen": "fast"        
@@ -193,7 +195,6 @@
         "frhd.co/t/295373/r/madara": "vehicle",
         "frhd.co/t/194022/r/madara": "vehicle",
         "frhd.co/t/683255/r/madara": "other",
-        "frhd.co/t/354303/r/madara": "other",
         "frhd.co/t/656502/r/madara": "other"        
     },
     "mr..a": {
@@ -345,8 +346,7 @@
         "frhd.co/t/651059/r/redorblue": "fast",        
         "frhd.co/t/656352/r/redorblue": "trick"
     },
-    "resurrect": {
-        "frhd.co/t/115150/r/resurrect": "fast",                       
+    "resurrect": {                      
         "frhd.co/t/387779/r/resurrect": "trick"
     },
     "rhodium": {   
