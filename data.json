@@ -24,8 +24,7 @@
         "frhd.co/t/403228/r/anonyymi": "fast",          
         "frhd.co/t/158140/r/anonyymi": "other",
         "frhd.co/t/225125/r/emtebe": "other",
-        "frhd.co/t/167075/r/beemex": "other",
-        "frhd.co/t/396742/r/anonyymi": "other"       
+        "frhd.co/t/167075/r/beemex": "other"     
     },
     "calculus": {
         "frhd.co/t/10013/r/precalculus": "trick"
@@ -102,13 +101,13 @@
         "frhd.co/t/815335/r/cestoiolemsater": "fast",
         "frhd.co/t/268941/r/cestoiolemsater": "fast",
         "frhd.co/t/676042/r/cestoiolemsater": "fast", 
-        "frhd.co/t/717829/r/cestoiolemsater": "fast",          
+        "frhd.co/t/717829/r/cestoiolemsater": "fast",
+        "frhd.co/t/396742/r/cestoiolemsater": "fast",         
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
         "frhd.co/t/805856/r/cerasium": "auto",
         "frhd.co/t/737402/r/cerasium": "auto",
-        "frhd.co/t/306836/r/cerasium": "auto",
         "frhd.co/t/3147/r/cerasium": "auto",
         "frhd.co/t/1334/r/cerasium": "auto",
         "frhd.co/t/115150/r/cerasium": "other",
@@ -165,7 +164,8 @@
         "frhd.co/t/743264/r/egway": "vehicle",
         "frhd.co/t/881908/r/egway": "vehicle",
         "frhd.co/t/724857/r/tricycle": "vehicle",
-        "frhd.co/t/568797/r/egway": "trick"        
+        "frhd.co/t/568797/r/egway": "trick",
+        "frhd.co/t/306836/r/egway": "auto"        
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
