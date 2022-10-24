@@ -17,7 +17,6 @@
         "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/871696/r/anonyymi": "fast",
-        "frhd.co/t/53393/r/anonyymi": "fast",
         "frhd.co/t/285906/r/anonyymi": "fast",
         "frhd.co/t/492949/r/anonyymi": "fast",
         "frhd.co/t/1036/r/anonyymi": "fast",
@@ -105,7 +104,9 @@
         "frhd.co/t/396742/r/cestoiolemsater": "fast",
         "frhd.co/t/420788/r/cestoiolemsater": "fast",
         "frhd.co/t/115150/r/cestoiolemsater": "fast",
-        "frhd.co/t/354303/r/cestoiolemsater": "fast",        
+        "frhd.co/t/354303/r/cestoiolemsater": "fast",
+        "frhd.co/t/9300/r/cestoiolemsater": "fast",
+        "frhd.co/t/53393/r/cestoiolemsater": "fast",        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
@@ -457,7 +458,6 @@
     "unghosted": {
         "frhd.co/t/299698/r/unghosted": "fast",
         "frhd.co/t/141352/r/unghosted": "fast",
-        "frhd.co/t/9300/r/switchback": "fast",
         "frhd.co/t/161621/r/unghosted": "fast"        
     },
     "uniior": {
