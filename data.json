@@ -109,7 +109,8 @@
         "frhd.co/t/53393/r/cestoiolemsater": "fast",
         "frhd.co/t/336160/r/cestoiolemsater": "fast",
         "frhd.co/t/222275/r/cestoiolemsater": "fast",
-        "frhd.co/t/313117/r/cestoiolemsater": "fast",        
+        "frhd.co/t/313117/r/cestoiolemsater": "fast",
+        "frhd.co/t/1171/r/cestoiolemsater": "fast"        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
@@ -402,10 +403,7 @@
     },
     "silver_bird7": {
         "frhd.co/t/11057/r/derivative": "fast"
-    },
-    "skatitall": {
-        "frhd.co/t/1171/r/skatitall": "fast"
-    },    
+    }, 
     "slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
     },
