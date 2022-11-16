@@ -58,7 +58,6 @@
         "frhd.co/t/655951/r/cerasium": "fast",
         "frhd.co/t/230102/r/cerasium": "fast",
         "frhd.co/t/405476/r/cerasium": "fast",
-        "frhd.co/t/262859/r/cerasium": "fast",
         "frhd.co/t/164323/r/cerasium": "fast",
         "frhd.co/t/8808/r/cerasium": "fast",
         "frhd.co/t/94801/r/cerasium": "fast",
@@ -474,6 +473,9 @@
     },
     "we_are_number_one": {
         "frhd.co/t/1034/r/we_are_number_one": "fast"
+    },
+    "xenom": {
+        "frhd.co/t/262859/r/xenom": "fast",
     },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
