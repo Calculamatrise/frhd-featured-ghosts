@@ -109,7 +109,8 @@
         "frhd.co/t/336160/r/cestoiolemsater": "fast",
         "frhd.co/t/222275/r/cestoiolemsater": "fast",
         "frhd.co/t/313117/r/cestoiolemsater": "fast",
-        "frhd.co/t/1171/r/cestoiolemsater": "fast",        
+        "frhd.co/t/1171/r/cestoiolemsater": "fast",
+        "frhd.co/t/789399/r/cerasium": "fast",        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/196564/r/cerasium": "auto",
         "frhd.co/t/709759/r/cerasium": "auto",
@@ -173,6 +174,9 @@
         "frhd.co/t/730968/r/egway": "vehicle",        
         "frhd.co/t/568797/r/egway": "trick",
         "frhd.co/t/306836/r/egway": "auto"        
+    },
+    "hypercube": {
+        "frhd.co/t/1171/r/hypercube": "fast"
     },    
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
@@ -443,7 +447,6 @@
     },
     "totoca12": {
         "frhd.co/t/319404/r/alzakhion": "fast",
-        "frhd.co/t/1031/r/totoca12": "fast",
         "frhd.co/t/435363/r/lordcarl71": "trick"
     },  
     "tuttifruity": {
@@ -475,7 +478,8 @@
         "frhd.co/t/1034/r/we_are_number_one": "fast"
     },
     "xenom": {
-        "frhd.co/t/262859/r/xenom": "fast"
+        "frhd.co/t/262859/r/xenom": "fast",
+        "frhd.co/t/1031/r/xenom": "fast"        
     },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
@@ -493,7 +497,6 @@
         "frhd.co/t/7444/r/xverse": "fast",
         "frhd.co/t/404782/r/xverse": "fast",
         "frhd.co/t/671625/r/xverse": "fast",
-        "frhd.co/t/789399/r/xverse": "fast",
         "frhd.co/t/803961/r/xverse": "fast",
         "frhd.co/t/594686/r/xverse": "fast",
         "frhd.co/t/395374/r/xverse": "fast",
