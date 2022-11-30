@@ -114,7 +114,6 @@
         "frhd.co/t/709759/r/cerasium": "auto",
         "frhd.co/t/805856/r/cerasium": "auto",
         "frhd.co/t/737402/r/cerasium": "auto",
-        "frhd.co/t/3147/r/cerasium": "auto",
         "frhd.co/t/1334/r/cerasium": "auto",
         "frhd.co/t/115150/r/cerasium": "other",
         "frhd.co/t/468573/r/cerasium": "other"        
@@ -465,7 +464,6 @@
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
-        "frhd.co/t/828818/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
         "frhd.co/t/489424/r/uniior": "vehicle",
@@ -478,7 +476,9 @@
         "frhd.co/t/262859/r/xenom": "fast",
         "frhd.co/t/1031/r/xenom": "fast",
         "frhd.co/t/319404/r/xenom": "fast",
-        "frhd.co/t/720950/r/xenom": "fast"        
+        "frhd.co/t/720950/r/xenom": "fast",
+        "frhd.co/t/828818/r/xenom": "vehicle",        
+        "frhd.co/t/3147/r/xenom": "auto"        
     },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
