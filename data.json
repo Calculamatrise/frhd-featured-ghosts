@@ -377,7 +377,8 @@
         "frhd.co/t/52341/r/shamatoz": "auto",
         "frhd.co/t/428676/r/earthshine": "auto",
         "frhd.co/t/594068/r/earthshine": "auto",
-        "frhd.co/t/737402/r/earthshine": "auto"        
+        "frhd.co/t/737402/r/earthshine": "auto",
+        "frhd.co/t/3147/r/earthshine": "auto"        
     },
     "sidewalk": {
         "frhd.co/t/842887/r/sidewalk": "fast",
@@ -477,8 +478,7 @@
         "frhd.co/t/1031/r/xenom": "fast",
         "frhd.co/t/319404/r/xenom": "fast",
         "frhd.co/t/720950/r/xenom": "fast",
-        "frhd.co/t/828818/r/xenom": "vehicle",        
-        "frhd.co/t/3147/r/xenom": "auto"        
+        "frhd.co/t/828818/r/xenom": "vehicle"                
     },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
