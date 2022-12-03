@@ -312,7 +312,6 @@
         "frhd.co/t/181496/r/radium_rc": "auto",
         "frhd.co/t/67926/r/radium_rc": "auto",
         "frhd.co/t/86369/r/radium_rc": "auto",
-        "frhd.co/t/464750/r/radiumrc": "auto",
         "frhd.co/t/2282/r/radiumrc": "auto",
         "frhd.co/t/863005/r/radium_rc": "auto",
         "frhd.co/t/1083/r/radiumrc": "auto",
@@ -378,7 +377,8 @@
         "frhd.co/t/594068/r/earthshine": "auto",
         "frhd.co/t/737402/r/earthshine": "auto",
         "frhd.co/t/3147/r/earthshine": "auto",
-        "frhd.co/t/196564/r/earthshine": "auto"        
+        "frhd.co/t/196564/r/earthshine": "auto",
+        "frhd.co/t/464750/r/earthshine": "auto"        
     },
     "sidewalk": {
         "frhd.co/t/842887/r/sidewalk": "fast",
