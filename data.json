@@ -302,7 +302,6 @@
         "frhd.co/t/860325/r/radium_rc": "trick",
         "frhd.co/t/282981/r/radium_rc": "trick",
         "frhd.co/t/862906/r/radium_rc": "trick",
-        "frhd.co/t/155806/r/radium_rc": "auto",
         "frhd.co/t/8335/r/radium_rc": "auto",
         "frhd.co/t/9245/r/radium_rc": "auto",
         "frhd.co/t/1051/r/radium_rc": "auto",
@@ -317,7 +316,8 @@
         "frhd.co/t/2282/r/radiumrc": "auto",
         "frhd.co/t/863005/r/radium_rc": "auto",
         "frhd.co/t/1083/r/radiumrc": "auto",
-        "frhd.co/t/589495/r/radiumrc": "auto"            
+        "frhd.co/t/589495/r/radiumrc": "auto",
+        "frhd.co/t/155806/r/radium_rc": "auto"        
     },
     "reborn": {
         "frhd.co/t/602609/r/reborn": "fast",
