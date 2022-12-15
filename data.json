@@ -113,7 +113,6 @@
         "frhd.co/t/789399/r/cerasium": "fast",        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/805856/r/cerasium": "auto",
-        "frhd.co/t/1334/r/cerasium": "auto",
         "frhd.co/t/115150/r/cerasium": "other",
         "frhd.co/t/468573/r/cerasium": "other"        
     },
@@ -378,7 +377,8 @@
         "frhd.co/t/3147/r/earthshine": "auto",
         "frhd.co/t/196564/r/earthshine": "auto",
         "frhd.co/t/464750/r/earthshine": "auto",
-        "frhd.co/t/709759/r/shamatoz": "auto"        
+        "frhd.co/t/709759/r/shamatoz": "auto",
+        "frhd.co/t/1334/r/shamatoz": "auto"        
     },
     "sidewalk": {
         "frhd.co/t/842887/r/sidewalk": "fast",
