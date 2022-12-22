@@ -12,7 +12,6 @@
         "frhd.co/t/781041/r/anonyymi": "fast",
         "frhd.co/t/243884/r/army_man": "fast",
         "frhd.co/t/51574/r/anonyymi": "fast",
-        "frhd.co/t/690667/r/anonyymi": "fast",
         "frhd.co/t/223397/r/anonyymi": "fast",
         "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
@@ -364,7 +363,9 @@
         "frhd.co/t/8865/r/legendary_rider": "fast",
         "frhd.co/t/520372/r/earthshine": "fast",
         "frhd.co/t/484421/r/delay": "fast",
-        "frhd.co/t/442222/r/shamatoz": "fast",        
+        "frhd.co/t/442222/r/shamatoz": "fast",
+        "frhd.co/t/690667/r/shamatoz": "fast",
+        "frhd.co/t/769414/r/shamatoz": "fast",         
         "frhd.co/t/818570/r/earthshine": "vehicle",        
         "frhd.co/t/435363/r/shamatoz": "trick",
         "frhd.co/t/542830/r/earthshine": "trick",        
@@ -475,8 +476,7 @@
         "frhd.co/t/262859/r/xenom": "fast",
         "frhd.co/t/1031/r/xenom": "fast",
         "frhd.co/t/319404/r/xenom": "fast",
-        "frhd.co/t/720950/r/xenom": "fast",
-        "frhd.co/t/769414/r/xenom": "fast",        
+        "frhd.co/t/720950/r/xenom": "fast",       
         "frhd.co/t/828818/r/xenom": "vehicle"                
     },    
     "xverse": {
