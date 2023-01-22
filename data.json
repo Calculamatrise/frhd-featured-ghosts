@@ -16,7 +16,6 @@
         "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/871696/r/anonyymi": "fast",
-        "frhd.co/t/285906/r/anonyymi": "fast",
         "frhd.co/t/1036/r/anonyymi": "fast",
         "frhd.co/t/403228/r/anonyymi": "fast",
         "frhd.co/t/872596/r/anonyymi": "fast",
@@ -120,7 +119,9 @@
         "frhd.co/t/141352/r/cerasium": "fast",
         "frhd.co/t/299698/r/cerasium": "fast",
         "frhd.co/t/9351/r/cerasium": "fast",
-        "frhd.co/t/352687/r/cerasium": "fast",        
+        "frhd.co/t/352687/r/cerasium": "fast",
+        "frhd.co/t/461867/r/cerasium": "fast",        
+        "frhd.co/t/285906/r/cerasium": "fast",        
         "frhd.co/t/823601/r/cerasium": "vehicle",
         "frhd.co/t/713577/r/cerasium": "vehicle",
         "frhd.co/t/462701/r/cerasium": "vehicle",           
@@ -460,8 +461,7 @@
         "frhd.co/t/161621/r/unghosted": "fast"        
     },
     "uniior": {
-        "frhd.co/t/725866/r/uniior": "fast",
-        "frhd.co/t/461867/r/uniior": "fast",     
+        "frhd.co/t/725866/r/uniior": "fast",     
         "frhd.co/t/557255/r/uniior": "vehicle",
         "frhd.co/t/597025/r/uniior": "vehicle",
         "frhd.co/t/467459/r/uniior": "vehicle",
