@@ -156,7 +156,10 @@
         "frhd.co/t/801731/r/cerulean": "fast",        
         "frhd.co/t/201857/r/cerulean": "fast",
         "frhd.co/t/1038/r/cerulean": "fast",
-        "frhd.co/t/575587/r/cerulean": "fast",        
+        "frhd.co/t/575587/r/cerulean": "fast",     
+        "frhd.co/t/921809/r/cerulean": "fast",
+        "frhd.co/t/928157/r/cerulean": "fast",
+        "frhd.co/t/454829/r/cerulean": "fast",      
         "frhd.co/t/187395/r/cerulean": "vehicle",        
         "frhd.co/t/796822/r/cerulean": "trick",
         "frhd.co/t/801452/r/cerulean": "trick",
@@ -176,7 +179,8 @@
         "frhd.co/t/730968/r/charredlizard21": "vehicle"
     },
     "cork": {
-        "frhd.co/t/224456/r/cork": "fast"
+        "frhd.co/t/224456/r/cork": "fast",
+        "frhd.co/t/4556/r/cork": "fast"        
     },    
     "dblu": {
         "frhd.co/t/191253/r/dblu": "other"
