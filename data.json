@@ -450,7 +450,6 @@
         "frhd.co/t/191253/r/stevie.t": "fast",
         "frhd.co/t/1010/r/stevie.t": "fast",
         "frhd.co/t/509794/r/stevie.t": "fast",
-        "frhd.co/t/608063/r/stevie.t": "fast",
         "frhd.co/t/345240/r/stevie.t": "fast",            
         "frhd.co/t/291527/r/stevie.t": "vehicle",
         "frhd.co/t/649203/r/stevie.t": "vehicle",        
@@ -495,7 +494,8 @@
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
         "frhd.co/t/489424/r/uniior": "vehicle",
-        "frhd.co/t/407255/r/uniior": "vehicle"         
+        "frhd.co/t/407255/r/uniior": "vehicle",
+        "frhd.co/t/922604/r/uniior": "vehicle"           
     },
     "we_are_number_one": {
         "frhd.co/t/1034/r/we_are_number_one": "fast"
@@ -504,8 +504,11 @@
         "frhd.co/t/262859/r/xenom": "fast",
         "frhd.co/t/1031/r/xenom": "fast",
         "frhd.co/t/319404/r/xenom": "fast",
-        "frhd.co/t/720950/r/xenom": "fast",       
-        "frhd.co/t/828818/r/xenom": "vehicle"                
+        "frhd.co/t/720950/r/xenom": "fast", 
+        "frhd.co/t/930058/r/xenom": "fast",
+        "frhd.co/t/828818/r/xenom": "vehicle",
+        "frhd.co/t/925440/r/xenom": "trick",
+        "frhd.co/t/930650/r/xenom": "auto"            
     },    
     "xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
