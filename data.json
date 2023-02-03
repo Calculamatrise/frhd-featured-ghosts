@@ -154,7 +154,6 @@
         "frhd.co/t/290112/r/cerulean": "fast",
         "frhd.co/t/804304/r/cerulean": "fast",       
         "frhd.co/t/439820/r/cerulean": "fast",
-        "frhd.co/t/801731/r/cerulean": "fast",        
         "frhd.co/t/201857/r/cerulean": "fast",
         "frhd.co/t/1038/r/cerulean": "fast",
         "frhd.co/t/575587/r/cerulean": "fast",     
@@ -164,7 +163,8 @@
         "frhd.co/t/187395/r/cerulean": "vehicle",        
         "frhd.co/t/796822/r/cerulean": "trick",
         "frhd.co/t/801452/r/cerulean": "trick",
-        "frhd.co/t/546909/r/cerulean": "other"        
+        "frhd.co/t/546909/r/cerulean": "other",
+        "frhd.co/t/801731/r/cerulean": "other"                
     },
     "chaos-fallen": {
         "frhd.co/t/455576/r/chaos-fallen": "fast",
@@ -180,8 +180,7 @@
         "frhd.co/t/730968/r/charredlizard21": "vehicle"
     },
     "cork": {
-        "frhd.co/t/224456/r/cork": "fast",
-        "frhd.co/t/4556/r/cork": "fast"        
+        "frhd.co/t/224456/r/cork": "fast"      
     },    
     "dblu": {
         "frhd.co/t/191253/r/dblu": "other"
@@ -507,6 +506,7 @@
         "frhd.co/t/319404/r/xenom": "fast",
         "frhd.co/t/720950/r/xenom": "fast", 
         "frhd.co/t/930058/r/xenom": "fast",
+        "frhd.co/t/4556/r/xenom": "fast",          
         "frhd.co/t/828818/r/xenom": "vehicle",
         "frhd.co/t/925440/r/xenom": "trick",
         "frhd.co/t/930650/r/xenom": "auto"            
