@@ -131,7 +131,6 @@
         "frhd.co/t/718474/r/cestoiolemsater": "fast",
         "frhd.co/t/920555/r/cestoiolemsater": "fast",
         "frhd.co/t/924153/r/cerasium": "fast",
-        "frhd.co/t/925079/r/cerasium": "fast",
         "frhd.co/t/925959/r/cerasium": "fast",
         "frhd.co/t/507142/r/cerasium": "fast",
         "frhd.co/t/788312/r/cerasium": "fast",        
@@ -507,7 +506,8 @@
         "frhd.co/t/319404/r/xenom": "fast",
         "frhd.co/t/720950/r/xenom": "fast", 
         "frhd.co/t/930058/r/xenom": "fast",
-        "frhd.co/t/4556/r/xenom": "fast",          
+        "frhd.co/t/4556/r/xenom": "fast",
+        "frhd.co/t/925079/r/xenom": "fast",        
         "frhd.co/t/828818/r/xenom": "vehicle",
         "frhd.co/t/925440/r/xenom": "trick",
         "frhd.co/t/930650/r/xenom": "auto"            
@@ -527,12 +527,12 @@
         "frhd.co/t/713010/r/xverse": "fast",
         "frhd.co/t/7444/r/xverse": "fast",
         "frhd.co/t/404782/r/xverse": "fast",
-        "frhd.co/t/671625/r/xverse": "fast",
         "frhd.co/t/803961/r/xverse": "fast",
         "frhd.co/t/594686/r/xverse": "fast",
         "frhd.co/t/395374/r/xverse": "fast",
         "frhd.co/t/785392/r/xverse": "fast",
         "frhd.co/t/813657/r/xverse": "fast",
-        "frhd.co/t/170958/r/xverse": "other"        
+        "frhd.co/t/170958/r/xverse": "other",
+        "frhd.co/t/671625/r/xverse": "other"        
     }      
 }
