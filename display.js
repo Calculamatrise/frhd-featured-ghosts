@@ -1,43 +1,44 @@
 // ==UserScript==
 // @name         Featured Ghost Display
-// @version      0.1
+// @version      0.2
 // @author       Calculamatrise
 // @match        *://www.freeriderhd.com/*
 // @match        *://frhd.kanoapps.com/*
 // ==/UserScript==
 
-fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/alias.json").then(r => r.json()).then(function(alias) {
-    fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/data.json").then(r => r.json()).then(function(players) {
-        for (let player in players) {
-            for (const ghost in players[player]) {
-                if (parseInt(location.pathname.split("/t/")[1]) !== parseInt(ghost.split("/t/")[1])) {
-                    continue;
+let data;
+const render_leaderboards = Application.Views.TrackView.prototype._render_leaderboards;
+Application.Views.TrackView.prototype._render_leaderboards = async function(n) {
+    render_leaderboards.apply(this, arguments);
+    data = data ?? await fetch("https://raw.githubusercontent.com/calculamatrise/frhd_featured_ghosts/master/data.json").then(r => r.json());
+    const matches = Object.fromEntries(Object.entries(data).filter(e => Object.keys(e[1] = Object.fromEntries(Object.entries(e[1]).filter(([t]) => parseInt(t.split('/t/')[1]) == Application.router.current_view._get_track_id()))).length));
+    for (const player in matches) {
+        for (const ghost in matches[player]) {
+            let name = ghost.split('/r/')[1];
+            if (name.length > 15) {
+                name = name.slice(0, 12) + "...";
+            }
+
+            const races = Array.from(document.getElementsByClassName("track-leaderboard-race"));
+            for (const element of races.filter(({ innerText }) => name == innerText.toLowerCase())) {
+                let color = [232, 169, 35];
+                switch(matches[player][ghost]) {
+                    case 'fast': color = [120, 200, 200]; break;
+                    case 'vehicle': color = [240, 200, 80]; break;
+                    case 'trick': color = [160, 240, 40]; break;
                 }
 
-                for (const element of document.getElementsByClassName("track-leaderboard-race")) {
-                    if (element.innerText === void 0) {
-                        continue;
+                const container = element.parentElement.parentElement;
+                container.style.setProperty('background-color', `rgba(${color.join(',')},0.4)`);
+                const actions = container.querySelector(".track-leaderboard-action");
+                if (actions) {
+                    actions.setAttribute('class', 'core_icons core_icons-icon_featured_badge featured');
+                    actions.style.setProperty('width', '24px');
+                    for (const action of actions.children) {
+                        action.style.setProperty('opacity', 0);
                     }
-
-                    let name = alias[player] && Object.entries(alias[player]).filter(([,b]) => b == ghost.slice(-b.length))?.[0]?.[1] || player;
-                    if (name.length > 15) {
-                        name = name.slice(0, 12) + "...";
-                    }
-
-                    if (element.innerText.toLowerCase() !== name) {
-                        continue;
-                    }
-
-                    let color = "rgba(232, 169, 35, 0.4)";
-                    switch(players[player][ghost]) {
-                        case "fast": color = "rgba(120, 200, 200, 0.4)"; break;
-                        case "vehicle": color = "rgba(240, 200, 80, 0.4)"; break;
-                        case "trick": color = "rgba(160, 240, 40, 0.4)"; break;
-                    }
-
-                    element.parentElement.parentElement.style.setProperty("background-color", color);
                 }
             }
         }
-    });
-});
+    }
+}
