@@ -192,6 +192,7 @@
 		"frhd.co/t/1076/r/egway": "fast",
 		"frhd.co/t/671692/r/tricycle": "fast",
 		"frhd.co/t/459503/r/egway": "fast",
+		"frhd.co/t/191253/r/egway": "fast",		
 		"frhd.co/t/597025/r/egway": "vehicle",
 		"frhd.co/t/743264/r/egway": "vehicle",
 		"frhd.co/t/881908/r/egway": "vehicle",
@@ -444,7 +445,6 @@
 		"frhd.co/t/682672/r/dumptruck": "other"
 	},
 	"stevie.t": {
-		"frhd.co/t/191253/r/stevie.t": "fast",
 		"frhd.co/t/509794/r/stevie.t": "fast",
 		"frhd.co/t/345240/r/stevie.t": "fast",
 		"frhd.co/t/291527/r/stevie.t": "vehicle",
