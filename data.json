@@ -189,7 +189,8 @@
 		"frhd.co/t/1076/r/egway": "fast",
 		"frhd.co/t/671692/r/tricycle": "fast",
 		"frhd.co/t/459503/r/egway": "fast",
-		"frhd.co/t/191253/r/egway": "fast",		
+		"frhd.co/t/191253/r/egway": "fast",
+		"frhd.co/t/1184/r/egway": "fast",		
 		"frhd.co/t/597025/r/egway": "vehicle",
 		"frhd.co/t/743264/r/egway": "vehicle",
 		"frhd.co/t/881908/r/egway": "vehicle",
@@ -345,7 +346,6 @@
 	},
 	"reborn": {
 		"frhd.co/t/602609/r/reborn": "fast",
-		"frhd.co/t/1184/r/reborn": "fast",
 		"frhd.co/t/392713/r/reborn": "fast",
 		"frhd.co/t/336968/r/reborn": "vehicle"
 	},
