@@ -116,7 +116,6 @@
 		"frhd.co/t/492949/r/cerasium": "fast",
 		"frhd.co/t/243884/r/cerasium": "fast",
 		"frhd.co/t/141352/r/cerasium": "fast",
-		"frhd.co/t/299698/r/cerasium": "fast",
 		"frhd.co/t/9351/r/cerasium": "fast",
 		"frhd.co/t/352687/r/cerasium": "fast",
 		"frhd.co/t/461867/r/cerasium": "fast",
@@ -259,7 +258,6 @@
 		"frhd.co/t/72229/r/radium_rc": "fast",
 		"frhd.co/t/245063/r/radium_rc": "fast",
 		"frhd.co/t/6745/r/radium_rc": "fast",
-		"frhd.co/t/631619/r/radium_rc": "fast",
 		"frhd.co/t/233193/r/radium_rc": "fast",
 		"frhd.co/t/763401/r/radium_rc": "fast",
 		"frhd.co/t/1906/r/radium_rc": "fast",
@@ -476,7 +474,8 @@
 		"frhd.co/t/625674/r/ultraviolet": "vehicle"
 	},
 	"unghosted": {
-		"frhd.co/t/161621/r/unghosted": "fast"
+		"frhd.co/t/161621/r/unghosted": "fast",
+		"frhd.co/t/299698/r/unghosted": "fast"		
 	},
 	"uniior": {
 		"frhd.co/t/725866/r/uniior": "fast",
@@ -507,7 +506,8 @@
 		"frhd.co/t/134709/r/xenom": "fast",
 		"frhd.co/t/1031/r/xenomalt": "fast",
 		"frhd.co/t/1184/r/xenom": "fast",
-		"frhd.co/t/602609/r/xenom": "fast",		
+		"frhd.co/t/602609/r/xenom": "fast",
+		"frhd.co/t/631619/r/beiuwuga": "fast",		
 		"frhd.co/t/828818/r/xenom": "vehicle",
 		"frhd.co/t/925440/r/xenom": "trick",
 		"frhd.co/t/930650/r/xenom": "auto",
