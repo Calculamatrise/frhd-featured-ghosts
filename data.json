@@ -30,10 +30,14 @@
 		"frhd.co/t/429117/r/anonyymi": "fast",
 		"frhd.co/t/915431/r/anonyymi": "fast",
 		"frhd.co/t/1010/r/anonyymi": "fast",
+		"frhd.co/t/690667/r/anonyymi": "fast",		
 		"frhd.co/t/158140/r/anonyymi": "other",
 		"frhd.co/t/225125/r/emtebe": "other",
 		"frhd.co/t/167075/r/beemex": "other"
 	},
+	"backtwice": {
+		"frhd.co/t/8865/r/backtwice": "fast"
+	},	
 	"calculus": {
 		"frhd.co/t/10013/r/precalculus": "trick"
 	},
@@ -134,8 +138,15 @@
 		"frhd.co/t/355642/r/cerasium": "fast",
 		"frhd.co/t/678574/r/cerasium": "fast",
 		"frhd.co/t/933126/r/cerasium": "fast",
+		"frhd.co/t/442222/r/cerasium": "fast",
+		"frhd.co/t/824395/r/cerasium": "fast",
+		"frhd.co/t/773568/r/cerasium": "fast",		
 		"frhd.co/t/584030/r/cerasium": "vehicle",
 		"frhd.co/t/805856/r/cerasium": "auto",
+		"frhd.co/t/737402/r/cerasium": "auto",
+		"frhd.co/t/196564/r/cerasium": "auto",
+		"frhd.co/t/709759/r/cerasium": "auto",
+		"frhd.co/t/1334/r/cerasium": "auto",		
 		"frhd.co/t/468573/r/cerasium": "other",
 		"frhd.co/t/462701/r/cerasium": "other",
 		"frhd.co/t/930734/r/cerasium": "other"
@@ -382,14 +393,10 @@
 	},
 	"shamatoz": {
 		"frhd.co/t/352687/r/legendary_rider": "fast",
-		"frhd.co/t/824395/r/legendary_rider": "fast",
-		"frhd.co/t/773568/r/legendary_rider": "fast",
 		"frhd.co/t/1641/r/legendary_rider": "fast",
 		"frhd.co/t/8865/r/legendary_rider": "fast",
 		"frhd.co/t/520372/r/earthshine": "fast",
 		"frhd.co/t/484421/r/delay": "fast",
-		"frhd.co/t/442222/r/shamatoz": "fast",
-		"frhd.co/t/690667/r/shamatoz": "fast",
 		"frhd.co/t/769414/r/shamatoz": "fast",
 		"frhd.co/t/226644/r/shamatoz": "fast",
 		"frhd.co/t/53133/r/shamatoz": "fast",
@@ -401,12 +408,8 @@
 		"frhd.co/t/542830/r/earthshine": "trick",
 		"frhd.co/t/428676/r/earthshine": "auto",
 		"frhd.co/t/594068/r/earthshine": "auto",
-		"frhd.co/t/737402/r/earthshine": "auto",
 		"frhd.co/t/3147/r/earthshine": "auto",
-		"frhd.co/t/196564/r/earthshine": "auto",
 		"frhd.co/t/464750/r/earthshine": "auto",
-		"frhd.co/t/709759/r/shamatoz": "auto",
-		"frhd.co/t/1334/r/shamatoz": "auto",
 		"frhd.co/t/155806/r/shamatoz": "auto"
 	},
 	"sidewalk": {
