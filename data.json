@@ -35,9 +35,6 @@
 		"frhd.co/t/225125/r/emtebe": "other",
 		"frhd.co/t/167075/r/beemex": "other"
 	},
-	"backtwice": {
-		"frhd.co/t/8865/r/backtwice": "other"
-	},	
 	"calculus": {
 		"frhd.co/t/10013/r/precalculus": "trick"
 	},
@@ -504,7 +501,8 @@
 		"frhd.co/t/925440/r/xenom": "trick",
 		"frhd.co/t/930650/r/xenom": "auto",
 		"frhd.co/t/52341/r/xenom": "auto",
-		"frhd.co/t/3147/r/xenom": "auto"		
+		"frhd.co/t/3147/r/xenom": "auto",
+		"frhd.co/t/8865/r/xenom": "other"		
 	},
 	"xverse": {
 		"frhd.co/t/558197/r/xverse": "fast",
