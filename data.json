@@ -412,8 +412,7 @@
 		"frhd.co/t/455779/r/sidewalk_og": "trick"
 	},
 	"silver_bird7": {
-		"frhd.co/t/11057/r/derivative": "fast",
-		"frhd.co/t/8857/r/derivative": "fast"		
+		"frhd.co/t/11057/r/derivative": "fast"	
 	},
 	"slayed": {
 		"frhd.co/t/568797/r/slayed": "trick"
@@ -424,7 +423,6 @@
 	},
 	"stevie.t": {
 		"frhd.co/t/509794/r/stevie.t": "fast",
-		"frhd.co/t/345240/r/stevie.t": "fast",
 		"frhd.co/t/291527/r/stevie.t": "vehicle",
 		"frhd.co/t/649203/r/stevie.t": "vehicle",
 		"frhd.co/t/568797/r/stevie.t": "trick"
@@ -461,7 +459,8 @@
 	"unghosted": {
 		"frhd.co/t/161621/r/unghosted": "fast",
 		"frhd.co/t/299698/r/unghosted": "fast",
-		"frhd.co/t/455576/r/unghosted": "fast"		
+		"frhd.co/t/455576/r/unghosted": "fast",
+		"frhd.co/t/345240/r/unghosted": "fast",		
 	},
 	"uniior": {
 		"frhd.co/t/725866/r/uniior": "fast",
@@ -496,7 +495,8 @@
 		"frhd.co/t/690667/r/xenom": "fast",
 		"frhd.co/t/769414/r/xenom": "fast",
 		"frhd.co/t/459503/r/xenom": "fast",
-		"frhd.co/t/1641/r/xenomalt": "fast",		
+		"frhd.co/t/1641/r/xenomalt": "fast",
+		"frhd.co/t/8857/r/xenom": "fast"			
 		"frhd.co/t/828818/r/xenom": "vehicle",
 		"frhd.co/t/818570/r/xenom": "vehicle",		
 		"frhd.co/t/925440/r/xenom": "trick",
