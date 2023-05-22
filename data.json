@@ -51,7 +51,6 @@
 		"frhd.co/t/319500/r/cerasium": "fast",
 		"frhd.co/t/682672/r/cerasium": "fast",
 		"frhd.co/t/1974/r/cerasium": "fast",
-		"frhd.co/t/8857/r/cerasium": "fast",
 		"frhd.co/t/548098/r/cerasium": "fast",
 		"frhd.co/t/50046/r/cerasium": "fast",
 		"frhd.co/t/413315/r/cerasium": "fast",
@@ -168,7 +167,6 @@
 		"frhd.co/t/801731/r/cerulean": "other"
 	},
 	"chaos-fallen": {
-		"frhd.co/t/455576/r/chaos-fallen": "fast",
 		"frhd.co/t/784525/r/chaos-fallen": "fast",
 		"frhd.co/t/318674/r/chaos-fallen": "fast",
 		"frhd.co/t/754786/r/chaos-fallen": "fast",
@@ -414,7 +412,8 @@
 		"frhd.co/t/455779/r/sidewalk_og": "trick"
 	},
 	"silver_bird7": {
-		"frhd.co/t/11057/r/derivative": "fast"
+		"frhd.co/t/11057/r/derivative": "fast",
+		"frhd.co/t/8857/r/derivative": "fast"		
 	},
 	"slayed": {
 		"frhd.co/t/568797/r/slayed": "trick"
@@ -461,7 +460,8 @@
 	},
 	"unghosted": {
 		"frhd.co/t/161621/r/unghosted": "fast",
-		"frhd.co/t/299698/r/unghosted": "fast"		
+		"frhd.co/t/299698/r/unghosted": "fast",
+		"frhd.co/t/455576/r/unghosted": "fast"		
 	},
 	"uniior": {
 		"frhd.co/t/725866/r/uniior": "fast",
