@@ -192,7 +192,8 @@
 		"frhd.co/t/1116/r/egway": "fast",
 		"frhd.co/t/1076/r/egway": "fast",
 		"frhd.co/t/671692/r/tricycle": "fast",
-		"frhd.co/t/191253/r/egway": "fast",	
+		"frhd.co/t/191253/r/egway": "fast",
+		"frhd.co/t/11057/r/egway": "fast",			
 		"frhd.co/t/597025/r/egway": "vehicle",
 		"frhd.co/t/743264/r/egway": "vehicle",
 		"frhd.co/t/881908/r/egway": "vehicle",
@@ -409,9 +410,6 @@
 		"frhd.co/t/793962/r/sidewalk": "fast",
 		"frhd.co/t/475991/r/sidewalk": "fast",
 		"frhd.co/t/455779/r/sidewalk_og": "trick"
-	},
-	"silver_bird7": {
-		"frhd.co/t/11057/r/derivative": "fast"	
 	},
 	"slayed": {
 		"frhd.co/t/568797/r/slayed": "trick"
