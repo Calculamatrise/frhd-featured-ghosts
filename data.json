@@ -409,9 +409,6 @@
 		"frhd.co/t/793962/r/sidewalk": "fast",
 		"frhd.co/t/475991/r/sidewalk": "fast",
 		"frhd.co/t/455779/r/sidewalk_og": "trick"
-	},
-	"silver_bird7": {
-		"frhd.co/t/11057/r/derivative": "fast"
 	},	
 	"slayed": {
 		"frhd.co/t/568797/r/slayed": "trick"
@@ -496,7 +493,8 @@
 		"frhd.co/t/769414/r/xenom": "fast",
 		"frhd.co/t/459503/r/xenom": "fast",
 		"frhd.co/t/1641/r/xenomalt": "fast",
-		"frhd.co/t/8857/r/xenom": "fast",			
+		"frhd.co/t/8857/r/xenom": "fast",
+		"frhd.co/t/11057/r/xenom": "fast",		
 		"frhd.co/t/828818/r/xenom": "vehicle",
 		"frhd.co/t/818570/r/xenom": "vehicle",		
 		"frhd.co/t/925440/r/xenom": "trick",
