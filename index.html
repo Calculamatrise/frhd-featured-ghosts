@@ -51,7 +51,6 @@
 								innerText: Object.values(response[player]).filter(type => type === 'other').length
 							}));
 							row.addEventListener('click', function(event) {
-								if (event.target.tagName !== 'TD') return;
 								let dialog = document.querySelector('#ghostListDialog');
 								if (!dialog) {
 									dialog = document.body.appendChild(document.createElement('dialog'));

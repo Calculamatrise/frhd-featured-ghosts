@@ -1,3 +1,6 @@
-.featuredGhostsTable {
+.calRoot {
+	--background-color: white;
+	--inverse-text-color: ghostwhite;
+	--text-color: black;
 	color-scheme: light;
 }
