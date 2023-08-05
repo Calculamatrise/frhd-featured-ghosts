@@ -1,0 +1,112 @@
+.featuredGhostsTable {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.featuredGhostsTable thead tr::before {
+	content: "";
+}
+
+.featuredGhostsTable thead tr th {
+	border-bottom: 1px solid #1b1b1b;
+}
+
+.featuredGhostsTable thead tr th {
+	text-align: left;
+	padding-right: 16px;
+	user-select: none;
+}
+
+.featuredGhostsTable thead tr th:hover {
+	cursor: pointer;
+}
+
+.featuredGhostsTable thead tr th::after {
+	content: "";
+	width: 12px;
+	height: 12px;
+	float: right;
+	margin: 2px;
+	margin-left: 16px;
+	display: block;
+	background-color: black;
+	clip-path: polygon(
+		10% 40%,
+		90% 40%,
+		50% 0,
+		10% 40%,
+		10% 60%,
+		90% 60%,
+		50% 100%,
+		10% 60%
+	);
+}
+
+.featuredGhostsTable thead tr th.asc:after {
+	clip-path: polygon(
+		10% 70%,
+		90% 70%,
+		50% 30%,
+		10% 70%
+	);
+}
+
+.featuredGhostsTable thead tr th.desc:after {
+	clip-path: polygon(
+		10% 30%,
+		90% 30%,
+		50% 70%,
+		10% 30%
+	);
+}
+
+.featuredGhostsTable tbody tr {
+	counter-increment: line;
+	line-height: 2rem;
+	position: relative;	
+}
+
+.featuredGhostsTable tbody tr > .ghostList {
+	left: 0;
+	position: absolute;
+	text-indent: 2rem;
+	top: 100%;
+}
+
+/* .featuredGhostsTable tbody tr:hover { */
+.featuredGhostsTable tbody tr:has(> :not(.ghostList):hover) {
+	backdrop-filter: brightness(0.9);
+	border-radius: 4px;
+	z-index: 1;
+}
+
+.featuredGhostsTable tbody tr::before {
+	content: counter(line) ".";
+	padding-left: 0.5rem;
+	vertical-align: middle;
+}
+
+.featuredGhostsTable tbody tr td {
+	border-bottom: 1px solid #1b1b1b;
+}
+
+.featuredGhostsTable tbody tr td:first-child {
+	padding-right: 2rem;
+}
+
+/*
+.featuredGhostsTable tbody tr td:not(:first-child) {
+	text-align: center;
+}
+*/
+
+.featuredGhostsTable .ghostList {
+	background-color: white;
+	border-radius: 4px;
+	width: 100%;
+	z-index: 2;
+}
+
+.ghostList .raceLink {
+	display: block;
+}
