@@ -57,14 +57,21 @@
 									dialog.setAttribute('id', 'ghostList');
 								}
 
-								let dialogForm = document.querySelector('#ghostList > form');
+								let dialogForm = document.querySelector('#ghostListDialog > form');
 								if (!dialogForm) {
 									dialogForm = document.createElement('form');
 									dialogForm.setAttribute('method', 'dialog');
-									dialogForm.replaceChildren(Object.assign(document.createElement('button'), {
+									dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+										className: 'button primary',
+										innerText: 'View Profile'
+									}), Object.assign(document.createElement('button'), {
+										className: 'button',
 										innerText: 'Close'
 									}));
 								}
+
+								let profileLink = dialogForm.querySelector('a');
+								profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
 
 								let list = this.querySelector('#ghostListDialog > .featuredGhostsTable');
 								if (!list) {
@@ -143,7 +150,8 @@
 			<tbody></tbody>
 		</table>
 		<form method="dialog">
-			<button class="button primary">Close</button>
+			<a class="button primary">View Profile</a>
+			<button class="button">Close</button>
 		</form>
 	</dialog>
 	<!-- <script type="module">
