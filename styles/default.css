@@ -5,6 +5,7 @@
 }
 
 .featuredGhostersTable, .featuredGhostsTable {
+	border-collapse: separate;
 	border-spacing: 0 0.4rem;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: smaller;
