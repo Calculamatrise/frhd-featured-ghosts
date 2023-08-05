@@ -1,32 +1,39 @@
-.featuredGhostsTable {
-	border-bottom: 1px solid;
-	border-collapse: collapse;
-	border-spacing: 0;
+.featuredGhostersTable, .featuredGhostsTable {
+	border-spacing: 0 0.4rem;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: smaller;
 }
 
-.featuredGhostsTable thead {
-	border-bottom: 1px solid;
+:is(.featuredGhostersTable, .featuredGhostsTable) thead {
+	--text-color: ghostwhite;
+	backdrop-filter: brightness(0.2);
+	border-radius: 4px;
+	box-shadow: 0 0 0 1px;
+	color: var(--text-color);
+	text-transform: capitalize;
 }
 
-.featuredGhostsTable thead tr::before {
+:is(.featuredGhostersTable, .featuredGhostsTable) thead tr::before {
 	content: "";
 }
 
-/* .featuredGhostsTable thead tr th {
+/* .featuredGhostersTable thead tr th {
 	border-bottom: 1px solid #1b1b1b;
 } */
 
-.featuredGhostsTable thead tr th {
+:is(.featuredGhostersTable, .featuredGhostsTable) thead tr th {
 	text-align: left;
-	padding-right: 16px;
+	/* padding-right: 16px; */
+	padding: 0.5rem;
+	padding-left: 0;
 	user-select: none;
 }
 
-.featuredGhostsTable thead tr th:hover {
+:is(.featuredGhostersTable, .featuredGhostsTable) :is(.sort th, th.sort):hover {
 	cursor: pointer;
 }
 
-.featuredGhostsTable thead tr th::after {
+:is(.sort th, th.sort)::after {
 	content: "";
 	width: 12px;
 	height: 12px;
@@ -34,7 +41,7 @@
 	margin: 2px;
 	margin-left: 16px;
 	display: block;
-	background-color: black;
+	background-color: var(--text-color);
 	clip-path: polygon(
 		10% 40%,
 		90% 40%,
@@ -47,7 +54,7 @@
 	);
 }
 
-.featuredGhostsTable thead tr th.asc:after {
+:is(.sort th, th.sort).asc:after {
 	clip-path: polygon(
 		10% 70%,
 		90% 70%,
@@ -56,7 +63,7 @@
 	);
 }
 
-.featuredGhostsTable thead tr th.desc:after {
+:is(.sort th, th.sort).desc:after {
 	clip-path: polygon(
 		10% 30%,
 		90% 30%,
@@ -65,60 +72,61 @@
 	);
 }
 
-.featuredGhostsTable tbody tr {
-	counter-increment: line;
-	line-height: 2rem;
-	position: relative;	
+.featuredGhostersTable tbody {
+	text-transform: capitalize;
 }
 
-.featuredGhostsTable tbody tr > .ghostList {
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr {
+	backdrop-filter: brightness(0.975);
+	border-radius: 4px;
+	box-shadow: 0 0 1px 0px;
+	counter-increment: line;
+	position: relative;
+}
+
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr > .ghostList {
 	left: 0;
 	position: absolute;
-	text-indent: 2rem;
+	padding-left: 2rem;
 	top: 100%;
 }
 
-/* .featuredGhostsTable tbody tr:hover { */
-.featuredGhostsTable tbody tr:has(> :not(.ghostList):hover) {
-	backdrop-filter: brightness(0.9);
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr:hover {
+	backdrop-filter: brightness(0.95);
 	border-radius: 4px;
 	z-index: 1;
 }
 
-.featuredGhostsTable tbody tr::before {
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr::before {
 	content: counter(line) ".";
-	padding-left: 0.5rem;
-	vertical-align: middle;
+	display: block;
+	padding: 0.5rem;
+	padding-left: 1rem;
 }
 
-.featuredGhostsTable tbody tr td {
-	border-bottom: 1px solid #1b1b1b;
-}
-
-.featuredGhostsTable tbody tr td > a {
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr td > a {
 	color: black;
 	text-decoration: none;
 }
 
-.featuredGhostsTable tbody tr td:first-child {
+:is(.featuredGhostersTable, .featuredGhostsTable) tbody tr td:first-child {
 	padding-right: 2rem;
 }
 
-/*
-.featuredGhostsTable tbody tr td:not(:first-child) {
+/* :is(.featuredGhostersTable, .featuredGhostsTable) tbody tr td:not(:first-child) {
 	text-align: center;
-}
-*/
+} */
 
-.featuredGhostsTable .ghostList {
+:is(.featuredGhostersTable, .featuredGhostsTable) .ghostList {
 	background-color: white;
 	border-radius: 4px;
 	width: 100%;
 	z-index: 2;
 }
 
-.ghostList .raceLink {
+:is(.featuredGhostersTable, .featuredGhostsTable) .raceLink {
 	color: black;
 	display: block;
 	text-decoration: none;
+	width: fit-content;
 }

@@ -12,7 +12,7 @@
 </head>
 <body>
 	<link rel="stylesheet" href="styles/default.css">
-	<table class="featuredGhostsTable">
+	<table class="featuredGhostersTable sort">
 		<thead>
 			<tr>
 				<th>User</th>
@@ -26,14 +26,13 @@
 		</thead>
 		<tbody>
 			<script>
-				let tableBody = document.currentScript.parentElement;
-				function refresh() {
-					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd_featured_ghosts/master/data.json").then(r => r.json()).then(function(response) {
+				const tableBody = document.currentScript.parentElement;
+				(function updateStatistics(tableBody = document.currentScript.parentElement) {
+					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/data.json").then(r => r.json()).then(function(response) {
 						let rows = [];
 						for (const player in response) {
 							const row = document.createElement('tr');
-							const name = row.appendChild(document.createElement('td'));
-							name.appendChild(Object.assign(document.createElement('a'), {
+							row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
 								href: 'https://freeriderhd.com/u/' + player.toLowerCase(),
 								innerText: player,
 								target: '_blank'
@@ -53,74 +52,73 @@
 							}));
 							row.addEventListener('click', function(event) {
 								if (event.target.tagName !== 'TD') return;
-								if (event.ctrlKey) {
-									let dialog = document.querySelector('#ghostList');
-									if (!dialog) {
-										dialog = document.body.appendChild(document.createElement('dialog'));
-										dialog.setAttribute('id', 'ghostList');
-									}
-
-									let dialogForm = document.querySelector('#ghostList > form');
-									if (!dialogForm) {
-										dialogForm = document.createElement('form');
-										dialogForm.setAttribute('method', 'dialog');
-										dialogForm.replaceChildren(Object.assign(document.createElement('button'), {
-											innerText: 'Close'
-										}));
-									}
-
-									let ghostList = this.querySelector('.ghostList');
-									if (!ghostList) {
-										ghostList = document.createElement('div');
-										ghostList.setAttribute('class', 'ghostList');
-										ghostList.append(...Object.keys(response[player]).map(race => {
-											let raceLink = document.createElement('a');
-											raceLink.classList.add('raceLink');
-											raceLink.setAttribute('href', race.replace(/^(https?:\/\/)?/, 'https://'));
-											raceLink.setAttribute('target', '_blank');
-											raceLink.innerText = race;
-											return raceLink;
-										}));
-									} else {
-										ghostList.style.removeProperty('display');
-									}
-
-									dialog.replaceChildren(ghostList, dialogForm);
-									dialog.showModal();
-									return;
+								let dialog = document.querySelector('#ghostListDialog');
+								if (!dialog) {
+									dialog = document.body.appendChild(document.createElement('dialog'));
+									dialog.setAttribute('id', 'ghostList');
 								}
 
-								let ghostList = this.querySelector('.ghostList');
-								if (ghostList !== null) {
-									ghostList.style[(ghostList.style.getPropertyValue('display') !== 'none' ? 'set' : 'remove') + 'Property']('display', 'none');
-								} else {
-									ghostList = this.appendChild(document.createElement('div'));
-									ghostList.setAttribute('class', 'ghostList');
-									ghostList.append(...Object.keys(response[player]).map(race => {
-										let raceLink = document.createElement('a');
-										raceLink.classList.add('raceLink');
-										raceLink.href = race.replace(/^(https?:\/\/)?/, 'https://');
-										raceLink.innerText = race;
-										return raceLink;
+								let dialogForm = document.querySelector('#ghostList > form');
+								if (!dialogForm) {
+									dialogForm = document.createElement('form');
+									dialogForm.setAttribute('method', 'dialog');
+									dialogForm.replaceChildren(Object.assign(document.createElement('button'), {
+										innerText: 'Close'
 									}));
 								}
+
+								let list = this.querySelector('#ghostListDialog > .featuredGhostsTable');
+								if (!list) {
+									list = document.createElement('table');
+									list.classList.add('featuredGhostsTable');
+								}
+
+								let thead = list.querySelector('thead');
+								if (!thead) {
+									thead = list.appendChild(document.createElement('thead'));
+									thead.appendChild(document.createElement('tr')).append(
+										Object.assign(document.createElement('th'), {
+											innerText: 'Track'
+										}),
+										Object.assign(document.createElement('th'), {
+											className: 'sort',
+											innerText: 'Type'
+										})
+									)
+								}
+
+								let tbody = list.querySelector('#ghostListDialog > .featuredGhostsTable') || list.appendChild(document.createElement('tbody'));
+								tbody.replaceChildren(...Object.entries(response[player]).map(([race, type]) => {
+									let row = document.createElement('tr');
+									let track = row.appendChild(document.createElement('td'));
+									let raceLink = track.appendChild(document.createElement('a'));
+									raceLink.classList.add('raceLink');
+									raceLink.setAttribute('href', race.replace(/^(https?:\/\/)?/, 'https://'));
+									raceLink.setAttribute('target', '_blank');
+									raceLink.innerText = race;
+									row.appendChild(Object.assign(document.createElement('td'), {
+										innerText: type
+									}));
+									return row;
+								}));
+
+								dialog.replaceChildren(list, dialogForm);
+								dialog.showModal();
 							});
 							rows.push(row);
 						}
 
 						tableBody.replaceChildren(...rows);
 					});
-				}
+				})();
 
-				refresh();
 				document.querySelectorAll("table thead tr th").forEach(function(element) {
 					element.addEventListener('click', function(event) {
 						const rows = tableBody;
 						document.querySelectorAll("table thead tr th:not(:last-child)").forEach(element => element.dataset.direction && element.classList.remove(element.dataset.direction));
-
-						this.dataset.direction = this.dataset.direction !== 'asc' ? 'asc' : 'desc';
+						this.dataset.direction = this.dataset.direction !== 'desc' ? 'desc' : 'asc';
 						const sorted = [...rows.children].sort((a, b, c) => {
-							if (this.dataset.direction !== 'asc') c = a, a = b, b = c;
+							if (this.dataset.direction !== 'asc') c = a, a = b, b = c; // [c, a, b] = [a, b, c];
 							if (isFinite(a.children[this.cellIndex].innerText) && isFinite(b.children[this.cellIndex].innerText)) {
 								return a.children[this.cellIndex].innerText - b.children[this.cellIndex].innerText;
 							}
@@ -128,20 +126,31 @@
 							return a.children[this.cellIndex].innerText.localeCompare(b.children[this.cellIndex].innerText);
 						});
 
-						for (const row in sorted) {
-							try {
-								rows.replaceChild(sorted[row], rows.children[row]);
-							} catch(e) {
-								rows.appendChild(sorted[row]);
-							}
-						}
-
+						rows.replaceChildren(...sorted);
 						this.classList.add(this.dataset.direction);
 					});
 				});
 			</script>
 		</tbody>
 	</table>
-	<dialog id="ghostList"></dialog>
+	<dialog id="ghostListDialog">
+		<table class="featuredGhostsTable">
+			<thead>
+				<tr>
+					<th>Track</th>
+					<th class="sort">Type</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+		<form method="dialog">
+			<button class="button primary">Close</button>
+		</form>
+	</dialog>
+	<!-- <script type="module">
+		document.head.appendChild(Object.assign(document.createElement('style'), {
+			textContent: await fetch('https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/styles/default.css').then(r => r.text())
+		}));
+	</script> -->
 </body>
 </html>
