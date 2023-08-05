@@ -3,13 +3,17 @@
 	border-spacing: 0;
 }
 
+.featuredGhostsTable thead tr {
+	box-shadow: 0px 1px 0px 0px;
+}
+
 .featuredGhostsTable thead tr::before {
 	content: "";
 }
 
-.featuredGhostsTable thead tr th {
+/* .featuredGhostsTable thead tr th {
 	border-bottom: 1px solid #1b1b1b;
-}
+} */
 
 .featuredGhostsTable thead tr th {
 	text-align: left;
@@ -90,6 +94,11 @@
 	border-bottom: 1px solid #1b1b1b;
 }
 
+.featuredGhostsTable tbody tr td > a {
+	color: black;
+	text-decoration: none;
+}
+
 .featuredGhostsTable tbody tr td:first-child {
 	padding-right: 2rem;
 }
@@ -108,5 +117,7 @@
 }
 
 .ghostList .raceLink {
+	color: black;
 	display: block;
+	text-decoration: none;
 }
