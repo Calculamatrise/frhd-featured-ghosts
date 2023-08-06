@@ -37,13 +37,121 @@
 		</table>
 	</template>
 	<main id="content">
+		<!-- Calculate statistics -->
+		<table class="frhdTable rowCounter ghostingAwards sort">
+			<caption>Player Statistics</caption>
+			<thead>
+				<tr>
+					<th>User</th>
+					<th>Overall Awards</th>
+					<th>Wins</th>
+				</tr>
+			</thead>
+			<tbody>
+				<script>
+					{
+						const tableBody = document.currentScript.parentElement;
+						fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards/potm.json").then(r => r.json()).then(function(data) {
+							const thead = tableBody.closest('table').querySelector('thead tr');
+							for (const year of Object.keys(data)) {
+								thead.appendChild(Object.assign(document.createElement('th'), {
+									innerText: year,
+									onclick: sortTable
+								}));
+							}
+
+							const awardWinners = new Set(Object.values(data).flatMap(Object.values).flat().sort());
+							let rows = [];
+							for (const awardWinner of awardWinners) {
+								const filteredData = Object.entries(data).map(([year, data]) => [year, Object.entries(data).map(([month, users]) => [month, users.indexOf(awardWinner) + 1])]);
+								window.filteredData = filteredData
+								const row = document.createElement('tr');
+								row.append(Object.assign(document.createElement('td'), {
+									innerText: awardWinner
+								}), Object.assign(document.createElement('td'), {
+									innerText: filteredData.flatMap(([year, data]) => data.filter(([_, a]) => a > 0)).length
+								}), Object.assign(document.createElement('td'), {
+									innerText: filteredData.flatMap(([year, data]) => data.filter(([_, a]) => a === 1)).length
+								}));
+								for (const year of Object.keys(data)) {
+									row.appendChild(Object.assign(document.createElement('td'), {
+										innerText: Object.fromEntries(filteredData)[year].filter(([month, place]) => place === 1).length
+									}));
+								}
+								row.addEventListener('click', function(event) {
+									let dialog = document.querySelector('#playerStatsDialog');
+									if (!dialog) {
+										dialog = document.body.appendChild(document.createElement('dialog'));
+										dialog.setAttribute('id', 'playerListDialog');
+									}
+
+									let dialogForm = dialog.querySelector('form');
+									if (!dialogForm) {
+										dialogForm = document.createElement('form');
+										dialogForm.setAttribute('method', 'dialog');
+										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+											className: 'button primary',
+											innerText: 'View Profile'
+										}), Object.assign(document.createElement('button'), {
+											className: 'button',
+											innerText: 'Close'
+										}));
+									}
+
+									let profileLink = dialogForm.querySelector('a');
+									profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + awardWinner.toLowerCase());
+
+									let list = dialog.querySelector('.frhdTable');
+									if (!list) {
+										list = document.createElement('table');
+										list.classList.add('frhdTable');
+									}
+
+									let caption = list.querySelector('caption');
+									caption.innerText = awardWinner + '\'s Awards';
+
+									let thead = list.querySelector('thead');
+									if (!thead) {
+										thead = list.appendChild(document.createElement('thead'));
+										thead.appendChild(document.createElement('tr')).append(
+											Object.assign(document.createElement('th'), {
+												innerText: 'Player'
+											})
+										)
+									}
+
+									let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+									tbody.replaceChildren(...filteredData.flatMap(([year, data]) => data.filter(([_, i]) => i > 0).flatMap(([month, placement]) => {
+										let row = document.createElement('tr');
+										row.append(Object.assign(document.createElement('td'), {
+											innerText: year
+										}), Object.assign(document.createElement('td'), {
+											innerText: month
+										}), Object.assign(document.createElement('td'), {
+											innerText: placement
+										}));
+										return row;
+									})));
+
+									dialog.replaceChildren(list, dialogForm);
+									dialog.showModal();
+								});
+								rows.push(row);
+							}
+
+							tableBody.replaceChildren(...rows);
+						});
+					}
+				</script>
+			</tbody>
+		</table>
 		<h4>Ghosters of the month</h4>
 		<section>
 			<script>
 				{
 					const content = document.currentScript.parentElement;
 					const template = document.querySelector('#potmTemplate');
-					fetch("./potm.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards.json"*/).then(r => r.json()).then(function(data) {
+					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards/potm.json").then(r => r.json()).then(function(data) {
 						for (const year in data) {
 							const temp = template.content.cloneNode(true);
 							const caption = temp.querySelector('caption');
@@ -127,7 +235,7 @@
 				{
 					const content = document.currentScript.parentElement;
 					const template = document.querySelector('#gotmTemplate');
-					fetch("./gotm.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards.json"*/).then(r => r.json()).then(function(data) {
+					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards/gotm.json").then(r => r.json()).then(function(data) {
 						for (const year in data) {
 							const temp = template.content.cloneNode(true);
 							const caption = temp.querySelector('caption');
@@ -166,25 +274,51 @@
 			<tbody></tbody>
 		</table>
 		<form method="dialog">
+			<a class="button primary">View Profile</a>
+			<button class="button">Close</button>
+		</form>
+	</dialog>
+	<dialog id="playerStatsDialog">
+		<table class="frhdTable">
+			<caption></caption>
+			<thead>
+				<tr>
+					<th>Year</th>
+					<th>Month</th>
+					<th>Placement</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+		<form method="dialog">
+			<a class="button primary">View Profile</a>
 			<button class="button">Close</button>
 		</form>
 	</dialog>
 	<script>
-		function sort(event) {
-			const rows = tableBody; // parent elements
-			document.querySelectorAll("table thead tr th:not(:last-child)").forEach(element => element.dataset.direction && element.classList.remove(element.dataset.direction));
-			this.dataset.direction = this.dataset.direction !== 'desc' ? 'desc' : 'asc';
+		document.querySelectorAll(':is(.sort th, th.sort)').forEach(function(element) {
+			element.addEventListener('click', sortTable);
+		});
+
+		function sortTable(event) {
+			const table = event.target.closest('table');
+			const thead = table && table.querySelectorAll('thead th');
+			thead.forEach(element => element.dataset.direction && element.classList.remove(element.dataset.direction));
+			const rows = table && table.querySelector('tbody');
+			event.target.classList.remove(event.target.dataset.direction);
+			event.target.dataset.direction = event.target.dataset.direction !== 'desc' ? 'desc' : 'asc';
+			event.target.classList.add(event.target.dataset.direction);
 			const sorted = [...rows.children].sort((a, b, c) => {
-				if (this.dataset.direction !== 'asc') c = a, a = b, b = c; // [c, a, b] = [a, b, c];
-				if (isFinite(a.children[this.cellIndex].innerText) && isFinite(b.children[this.cellIndex].innerText)) {
-					return a.children[this.cellIndex].innerText - b.children[this.cellIndex].innerText;
+				if (event.target.dataset.direction !== 'asc') c = a, a = b, b = c; // [c, a, b] = [a, b, c];
+				if (isFinite(a.children[event.target.cellIndex].innerText) && isFinite(b.children[event.target.cellIndex].innerText)) {
+					return a.children[event.target.cellIndex].innerText - b.children[event.target.cellIndex].innerText;
 				}
 
-				return a.children[this.cellIndex].innerText.localeCompare(b.children[this.cellIndex].innerText);
+				return a.children[event.target.cellIndex].innerText.localeCompare(b.children[event.target.cellIndex].innerText);
 			});
 
 			rows.replaceChildren(...sorted);
-			this.classList.add(this.dataset.direction);
+			event.target.classList.add(event.target.dataset.direction);
 		}
 	</script>
 	<!-- <script type="module">
