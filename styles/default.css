@@ -97,6 +97,18 @@
 	position: relative;
 }
 
+.frhdTable.podium tbody tr:nth-child(1) {
+	backdrop-filter: contrast(0.5) brightness(0.975) sepia(1) hue-rotate(10deg);
+}
+
+.frhdTable.podium tbody tr:nth-child(2) {
+	backdrop-filter: contrast(0.75) brightness(0.975);
+}
+
+.frhdTable.podium tbody tr:nth-child(3) {
+	backdrop-filter: contrast(0.4) brightness(0.975) sepia(1) hue-rotate(6deg);
+}
+
 .frhdTable tbody tr:hover {
 	backdrop-filter: brightness(0.95);
 }

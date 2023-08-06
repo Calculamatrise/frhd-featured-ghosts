@@ -37,15 +37,14 @@
 		</table>
 	</template>
 	<main id="content">
-		<section style="
-			backdrop-filter: brightness(0.95);
-			border: 1px solid gainsboro;
-			border-radius: 0.25rem;
-			width: min-content;
-			padding: 0 2rem;
-		">
-			<h4>Top 3 This Month</h4>
-			<ol style="padding-right: 4rem;">
+		<table class="frhdTable rowCounter ghostingAwards podium sort">
+			<caption>This Month's Top 3</caption>
+			<thead>
+				<tr>
+					<th>User</th>
+				</tr>
+			</thead>
+			<tbody>
 				<script>
 					{
 						const tableBody = document.currentScript.parentElement;
@@ -55,10 +54,11 @@
 							for (const awardWinner of awardWinners) {
 								const filteredData = Object.entries(data).map(([year, data]) => [year, Object.entries(data).map(([month, users]) => [month, users.indexOf(awardWinner) + 1])]);
 								window.filteredData = filteredData
-								const row = document.createElement('li');
-								row.append(Object.assign(document.createElement('a'), {
-									href: 'https://frhd.co/u/' + awardWinner.toLowerCase(),
-									innerText: awardWinner
+								const row = document.createElement('tr');
+								row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
+									href: 'https://frhd.co/u/' + awardWinner,
+									innerText: awardWinner,
+									target: '_blank'
 								}));
 								row.addEventListener('click', function(event) {
 									let dialog = document.querySelector('#playerStatsDialog');
@@ -134,8 +134,8 @@
 						});
 					}
 				</script>
-			</ol>
-		</section>
+			</tbody>
+		</table>
 		<table class="frhdTable rowCounter ghostingAwards sort">
 			<caption>Player Statistics</caption>
 			<thead>
