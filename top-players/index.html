@@ -22,7 +22,7 @@
 			<script>
 				{
 					const tableBody = document.currentScript.parentElement;
-					fetch("./data.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/top-players/data.json"*/).then(r => r.json()).then(function(data) {
+					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/top-players/data.json").then(r => r.json()).then(function(data) {
 						const thead = tableBody.closest('table').querySelector('thead tr');
 						for (const year of Object.keys(data)) {
 							thead.appendChild(Object.assign(document.createElement('th'), {

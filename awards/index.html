@@ -37,15 +37,14 @@
 		</table>
 	</template>
 	<main id="content">
-		<!-- Calculate statistics -->
-		<table class="frhdTable rowCounter ghostingAwards sort">
-			<caption>This Month's Top 3</caption>
-			<thead>
-				<tr>
-					<th>User</th>
-				</tr>
-			</thead>
-			<tbody>
+		<section style="
+			border: 1px solid;
+			border-radius: 0.25rem;
+			width: min-content;
+			padding: 0 2rem;
+		">
+			<h4>Top 3 This Month</h4>
+			<ol style="padding-right: 4rem;">
 				<script>
 					{
 						const tableBody = document.currentScript.parentElement;
@@ -55,8 +54,9 @@
 							for (const awardWinner of awardWinners) {
 								const filteredData = Object.entries(data).map(([year, data]) => [year, Object.entries(data).map(([month, users]) => [month, users.indexOf(awardWinner) + 1])]);
 								window.filteredData = filteredData
-								const row = document.createElement('tr');
-								row.append(Object.assign(document.createElement('td'), {
+								const row = document.createElement('li');
+								row.append(Object.assign(document.createElement('a'), {
+									href: 'https://frhd.co/u/' + awardWinner.toLowerCase(),
 									innerText: awardWinner
 								}));
 								row.addEventListener('click', function(event) {
@@ -133,8 +133,8 @@
 						});
 					}
 				</script>
-			</tbody>
-		</table>
+			</ol>
+		</section>
 		<table class="frhdTable rowCounter ghostingAwards sort">
 			<caption>Player Statistics</caption>
 			<thead>
