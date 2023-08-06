@@ -12,7 +12,7 @@
 </head>
 <body>
 	<link rel="stylesheet" href="styles/default.css">
-	<table class="featuredGhostersTable sort">
+	<table class="frhdTable ghosters sort">
 		<thead>
 			<tr>
 				<th>User</th>
@@ -27,96 +27,94 @@
 		<tbody>
 			<script>
 				const tableBody = document.currentScript.parentElement;
-				(function updateStatistics(tableBody = document.currentScript.parentElement) {
-					fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/data.json").then(r => r.json()).then(function(response) {
-						let rows = [];
-						for (const player in response) {
-							const row = document.createElement('tr');
-							row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
-								href: 'https://freeriderhd.com/u/' + player.toLowerCase(),
-								innerText: player,
-								target: '_blank'
-							}));
-							row.append(Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).length
-							}), Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).filter(type => type === 'fast').length
-							}), Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).filter(type => type === 'vehicle').length
-							}), Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).filter(type => type === 'trick').length
-							}), Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).filter(type => type === 'auto').length
-							}), Object.assign(document.createElement('td'), {
-								innerText: Object.values(response[player]).filter(type => type === 'other').length
-							}));
-							row.addEventListener('click', function(event) {
-								let dialog = document.querySelector('#ghostListDialog');
-								if (!dialog) {
-									dialog = document.body.appendChild(document.createElement('dialog'));
-									dialog.setAttribute('id', 'ghostList');
-								}
+				fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/data.json").then(r => r.json()).then(function(response) {
+					let rows = [];
+					for (const player in response) {
+						const row = document.createElement('tr');
+						row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
+							href: 'https://freeriderhd.com/u/' + player.toLowerCase(),
+							innerText: player,
+							target: '_blank'
+						}));
+						row.append(Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).length
+						}), Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).filter(type => type === 'fast').length
+						}), Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).filter(type => type === 'vehicle').length
+						}), Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).filter(type => type === 'trick').length
+						}), Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).filter(type => type === 'auto').length
+						}), Object.assign(document.createElement('td'), {
+							innerText: Object.values(response[player]).filter(type => type === 'other').length
+						}));
+						row.addEventListener('click', function(event) {
+							let dialog = document.querySelector('#ghostListDialog');
+							if (!dialog) {
+								dialog = document.body.appendChild(document.createElement('dialog'));
+								dialog.setAttribute('id', 'ghostListDialog');
+							}
 
-								let dialogForm = document.querySelector('#ghostListDialog > form');
-								if (!dialogForm) {
-									dialogForm = document.createElement('form');
-									dialogForm.setAttribute('method', 'dialog');
-									dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
-										className: 'button primary',
-										innerText: 'View Profile'
-									}), Object.assign(document.createElement('button'), {
-										className: 'button',
-										innerText: 'Close'
-									}));
-								}
-
-								let profileLink = dialogForm.querySelector('a');
-								profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
-
-								let list = this.querySelector('#ghostListDialog > .featuredGhostsTable');
-								if (!list) {
-									list = document.createElement('table');
-									list.classList.add('featuredGhostsTable');
-								}
-
-								let thead = list.querySelector('thead');
-								if (!thead) {
-									thead = list.appendChild(document.createElement('thead'));
-									thead.appendChild(document.createElement('tr')).append(
-										Object.assign(document.createElement('th'), {
-											innerText: 'Track'
-										}),
-										Object.assign(document.createElement('th'), {
-											className: 'sort',
-											innerText: 'Type'
-										})
-									)
-								}
-
-								let tbody = list.querySelector('#ghostListDialog > .featuredGhostsTable') || list.appendChild(document.createElement('tbody'));
-								tbody.replaceChildren(...Object.entries(response[player]).map(([race, type]) => {
-									let row = document.createElement('tr');
-									let track = row.appendChild(document.createElement('td'));
-									let raceLink = track.appendChild(document.createElement('a'));
-									raceLink.classList.add('raceLink');
-									raceLink.setAttribute('href', race.replace(/^(https?:\/\/)?/, 'https://'));
-									raceLink.setAttribute('target', '_blank');
-									raceLink.innerText = race;
-									row.appendChild(Object.assign(document.createElement('td'), {
-										innerText: type
-									}));
-									return row;
+							let dialogForm = document.querySelector('#ghostListDialog > form');
+							if (!dialogForm) {
+								dialogForm = document.createElement('form');
+								dialogForm.setAttribute('method', 'dialog');
+								dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+									className: 'button primary',
+									innerText: 'View Profile'
+								}), Object.assign(document.createElement('button'), {
+									className: 'button',
+									innerText: 'Close'
 								}));
+							}
 
-								dialog.replaceChildren(list, dialogForm);
-								dialog.showModal();
-							});
-							rows.push(row);
-						}
+							let profileLink = dialogForm.querySelector('a');
+							profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
 
-						tableBody.replaceChildren(...rows);
-					});
-				})();
+							let list = dialog.querySelector('.frhdTable.ghostList');
+							if (!list) {
+								list = document.createElement('table');
+								list.classList.add('frhdTable', 'ghostList');
+							}
+
+							let thead = list.querySelector('thead');
+							if (!thead) {
+								thead = list.appendChild(document.createElement('thead'));
+								thead.appendChild(document.createElement('tr')).append(
+									Object.assign(document.createElement('th'), {
+										innerText: 'Track'
+									}),
+									Object.assign(document.createElement('th'), {
+										className: 'sort',
+										innerText: 'Type'
+									})
+								)
+							}
+
+							let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+							tbody.replaceChildren(...Object.entries(response[player]).map(([race, type]) => {
+								let row = document.createElement('tr');
+								let track = row.appendChild(document.createElement('td'));
+								let raceLink = track.appendChild(document.createElement('a'));
+								raceLink.classList.add('raceLink');
+								raceLink.setAttribute('href', race.replace(/^(https?:\/\/)?/, 'https://'));
+								raceLink.setAttribute('target', '_blank');
+								raceLink.innerText = race;
+								row.appendChild(Object.assign(document.createElement('td'), {
+									innerText: type
+								}));
+								return row;
+							}));
+
+							dialog.replaceChildren(list, dialogForm);
+							dialog.showModal();
+						});
+						rows.push(row);
+					}
+
+					tableBody.replaceChildren(...rows);
+				});
 
 				document.querySelectorAll("table thead tr th").forEach(function(element) {
 					element.addEventListener('click', function(event) {
@@ -140,7 +138,7 @@
 		</tbody>
 	</table>
 	<dialog id="ghostListDialog">
-		<table class="featuredGhostsTable">
+		<table class="frhdTable ghostList">
 			<thead>
 				<tr>
 					<th>Track</th>

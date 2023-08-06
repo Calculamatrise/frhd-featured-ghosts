@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:title" content="Statistics - Official Featured Ghosts">
+	<meta property="og:description" content="Here lies a table containing statistics for featured ghosts!">
+	<meta property="og:image" content="/icons/favicon.png">
+	<meta property="og:url" content="https://calculamatrise.github.io/frhd-featured-ghosts/">
+	<title>Featured Ghosts - Free Rider HD | Calculamatrise</title>
+</head>
+<body>
+	<link rel="stylesheet" href="../styles/default.css">
+	<template id="potmTemplate">
+		<table class="frhdTable ghostingAwards">
+			<caption></caption>
+			<thead>
+				<tr>
+					<th>Term</th>
+					<th>Player</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+	</template>
+	<template id="gotmTemplate">
+		<table class="frhdTable ghostingAwards">
+			<caption></caption>
+			<thead>
+				<tr>
+					<th>Term</th>
+					<th>Ghost</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+	</template>
+	<main id="content">
+		<h4>Ghosters of the month</h4>
+		<section>
+			<script>
+				{
+					const content = document.currentScript.parentElement;
+					const template = document.querySelector('#potmTemplate');
+					fetch("./potm.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards.json"*/).then(r => r.json()).then(function(data) {
+						for (const year in data) {
+							const temp = template.content.cloneNode(true);
+							const caption = temp.querySelector('caption');
+							caption.innerText = 'Ghosters of ' + year;
+							const tableBody = temp.querySelector('tbody');
+							let rows = [];
+							for (const term in data[year]) {
+								const row = document.createElement('tr');
+								row.append(Object.assign(document.createElement('td'), {
+									innerText: term
+								}), Object.assign(document.createElement('td'), {
+									innerText: data[year][term]
+								}));
+								row.addEventListener('click', function(event) {
+									let dialog = document.querySelector('#playerListDialog');
+									if (!dialog) {
+										dialog = document.body.appendChild(document.createElement('dialog'));
+										dialog.setAttribute('id', 'playerListDialog');
+									}
+			
+									let dialogForm = document.querySelector('#playerListDialog > form');
+									if (!dialogForm) {
+										dialogForm = document.createElement('form');
+										dialogForm.setAttribute('method', 'dialog');
+										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+											className: 'button primary',
+											innerText: 'View Profile'
+										}), Object.assign(document.createElement('button'), {
+											className: 'button',
+											innerText: 'Close'
+										}));
+									}
+			
+									let list = dialog.querySelector('.frhdTable');
+									if (!list) {
+										list = document.createElement('table');
+										list.classList.add('frhdTable');
+									}
+			
+									let caption = list.querySelector('caption');
+									caption.innerText = 'Ghosters of ' + term + ' ' + year
+			
+									let thead = list.querySelector('thead');
+									if (!thead) {
+										thead = list.appendChild(document.createElement('thead'));
+										thead.appendChild(document.createElement('tr')).append(
+											Object.assign(document.createElement('th'), {
+												innerText: 'Player'
+											})
+										)
+									}
+			
+									let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+									tbody.replaceChildren(...data[year][term] instanceof Array && data[year][term].map(player => {
+										let row = document.createElement('tr');
+										let profile = row.appendChild(document.createElement('td'));
+										let profileLink = profile.appendChild(document.createElement('a'));
+										profileLink.classList.add('raceLink');
+										profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
+										profileLink.setAttribute('target', '_blank');
+										profileLink.innerText = player;
+										return row;
+									}) || []);
+			
+									dialog.replaceChildren(list, dialogForm);
+									dialog.showModal();
+								});
+								rows.push(row);
+							}
+			
+							tableBody.replaceChildren(...rows);
+							content.appendChild(temp)
+						}
+					});
+				}
+			</script>
+		</section>
+		<h4>Ghost of the month</h4>
+		<section>
+			<script>
+				{
+					const content = document.currentScript.parentElement;
+					const template = document.querySelector('#gotmTemplate');
+					fetch("./gotm.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards.json"*/).then(r => r.json()).then(function(data) {
+						for (const year in data) {
+							const temp = template.content.cloneNode(true);
+							const caption = temp.querySelector('caption');
+							caption.innerText = 'Ghost of ' + year;
+							const tableBody = temp.querySelector('tbody');
+							let rows = [];
+							for (const term in data[year]) {
+								const row = document.createElement('tr');
+								row.append(Object.assign(document.createElement('td'), {
+									innerText: term
+								}));
+								row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
+									href: data[year][term].replace(/^(https?:\/\/)?/, 'https://'),
+									innerText: data[year][term]
+								}));
+								row.addEventListener('click', function(event) {
+									let dialog = document.querySelector('#playerListDialog');
+									if (!dialog) {
+										dialog = document.body.appendChild(document.createElement('dialog'));
+										dialog.setAttribute('id', 'playerListDialog');
+									}
+			
+									let dialogForm = document.querySelector('#playerListDialog > form');
+									if (!dialogForm) {
+										dialogForm = document.createElement('form');
+										dialogForm.setAttribute('method', 'dialog');
+										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+											className: 'button primary',
+											innerText: 'View Profile'
+										}), Object.assign(document.createElement('button'), {
+											className: 'button',
+											innerText: 'Close'
+										}));
+									}
+			
+									let list = dialog.querySelector('.frhdTable');
+									if (!list) {
+										list = document.createElement('table');
+										list.classList.add('frhdTable');
+									}
+			
+									let caption = list.querySelector('caption');
+									caption.innerText = 'Ghosters of ' + term + ' ' + year
+			
+									let thead = list.querySelector('thead');
+									if (!thead) {
+										thead = list.appendChild(document.createElement('thead'));
+										thead.appendChild(document.createElement('tr')).append(
+											Object.assign(document.createElement('th'), {
+												innerText: 'Player'
+											})
+										)
+									}
+			
+									let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+									tbody.replaceChildren(...data[year][term] instanceof Array && data[year][term].map(player => {
+										let row = document.createElement('tr');
+										let profile = row.appendChild(document.createElement('td'));
+										let profileLink = profile.appendChild(document.createElement('a'));
+										profileLink.classList.add('raceLink');
+										profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
+										profileLink.setAttribute('target', '_blank');
+										profileLink.innerText = player;
+										return row;
+									}) || []);
+			
+									dialog.replaceChildren(list, dialogForm);
+									dialog.showModal();
+								});
+								rows.push(row);
+							}
+			
+							tableBody.replaceChildren(...rows);
+							content.appendChild(temp)
+						}
+					});
+				}
+			</script>
+		</section>
+	</main>
+	<dialog id="playerListDialog">
+		<table class="frhdTable">
+			<caption></caption>
+			<thead>
+				<tr>
+					<th>Player</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+		<form method="dialog">
+			<button class="button">Close</button>
+		</form>
+	</dialog>
+	<script>
+		function sort(event) {
+			const rows = tableBody; // parent elements
+			document.querySelectorAll("table thead tr th:not(:last-child)").forEach(element => element.dataset.direction && element.classList.remove(element.dataset.direction));
+			this.dataset.direction = this.dataset.direction !== 'desc' ? 'desc' : 'asc';
+			const sorted = [...rows.children].sort((a, b, c) => {
+				if (this.dataset.direction !== 'asc') c = a, a = b, b = c; // [c, a, b] = [a, b, c];
+				if (isFinite(a.children[this.cellIndex].innerText) && isFinite(b.children[this.cellIndex].innerText)) {
+					return a.children[this.cellIndex].innerText - b.children[this.cellIndex].innerText;
+				}
+
+				return a.children[this.cellIndex].innerText.localeCompare(b.children[this.cellIndex].innerText);
+			});
+
+			rows.replaceChildren(...sorted);
+			this.classList.add(this.dataset.direction);
+		}
+	</script>
+	<!-- <script type="module">
+		document.head.appendChild(Object.assign(document.createElement('style'), {
+			textContent: await fetch('https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/styles/default.css').then(r => r.text())
+		}));
+	</script> -->
+</body>
+</html>
