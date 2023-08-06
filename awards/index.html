@@ -39,6 +39,103 @@
 	<main id="content">
 		<!-- Calculate statistics -->
 		<table class="frhdTable rowCounter ghostingAwards sort">
+			<caption>This month's Top 3</caption>
+			<thead>
+				<tr>
+					<th>User</th>
+				</tr>
+			</thead>
+			<tbody>
+				<script>
+					{
+						const tableBody = document.currentScript.parentElement;
+						fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards/potm.json").then(r => r.json()).then(function(data) {
+							const awardWinners = Object.values(Object.values(data).pop()).pop();
+							let rows = [];
+							for (const awardWinner of awardWinners) {
+								const filteredData = Object.entries(data).map(([year, data]) => [year, Object.entries(data).map(([month, users]) => [month, users.indexOf(awardWinner) + 1])]);
+								window.filteredData = filteredData
+								const row = document.createElement('tr');
+								row.append(Object.assign(document.createElement('td'), {
+									innerText: awardWinner
+								}));
+								row.addEventListener('click', function(event) {
+									let dialog = document.querySelector('#playerStatsDialog');
+									if (!dialog) {
+										dialog = document.body.appendChild(document.createElement('dialog'));
+										dialog.setAttribute('id', 'playerListDialog');
+									}
+
+									let dialogForm = dialog.querySelector('form');
+									if (!dialogForm) {
+										dialogForm = document.createElement('form');
+										dialogForm.setAttribute('method', 'dialog');
+										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+											className: 'button primary',
+											innerText: 'View Profile'
+										}), Object.assign(document.createElement('button'), {
+											className: 'button',
+											innerText: 'Close'
+										}));
+									}
+
+									let profileLink = dialogForm.querySelector('a');
+									profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + awardWinner.toLowerCase());
+
+									let list = dialog.querySelector('.frhdTable');
+									if (!list) {
+										list = document.createElement('table');
+										list.classList.add('frhdTable', 'rowCounter', 'sort');
+									}
+
+									let caption = list.querySelector('caption');
+									caption.innerText = awardWinner + '\'s Awards';
+
+									let thead = list.querySelector('thead');
+									if (!thead) {
+										thead = list.appendChild(document.createElement('thead'));
+										thead.appendChild(document.createElement('tr')).append(
+											Object.assign(document.createElement('th'), {
+												innerText: 'Year',
+												onclick: sortTable
+											}),
+											Object.assign(document.createElement('th'), {
+												innerText: 'Month',
+												onclick: sortTable
+											}),
+											Object.assign(document.createElement('th'), {
+												innerText: 'Placement',
+												onclick: sortTable
+											})
+										)
+									}
+
+									let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+									tbody.replaceChildren(...filteredData.flatMap(([year, data]) => data.filter(([_, i]) => i > 0).flatMap(([month, placement]) => {
+										let row = document.createElement('tr');
+										row.append(Object.assign(document.createElement('td'), {
+											innerText: year
+										}), Object.assign(document.createElement('td'), {
+											innerText: month
+										}), Object.assign(document.createElement('td'), {
+											innerText: placement
+										}));
+										return row;
+									})));
+
+									dialog.replaceChildren(list, dialogForm);
+									dialog.showModal();
+								});
+								rows.push(row);
+							}
+
+							tableBody.replaceChildren(...rows);
+						});
+					}
+				</script>
+			</tbody>
+		</table>
+		<table class="frhdTable rowCounter ghostingAwards sort">
 			<caption>Player Statistics</caption>
 			<thead>
 				<tr>
