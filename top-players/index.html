@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:title" content="Statistics - Official Featured Ghosts">
+	<meta property="og:description" content="Here lies a table containing statistics for featured ghosts!">
+	<meta property="og:image" content="/icons/favicon.png">
+	<meta property="og:url" content="https://calculamatrise.github.io/frhd-featured-ghosts/">
+	<title>Featured Ghosts - Free Rider HD | Calculamatrise</title>
+</head>
+<body>
+	<link rel="stylesheet" href="../styles/default.css">
+	<table class="frhdTable ghostingAwards">
+		<thead>
+			<tr>
+				<th class="sort">Placement</th>
+			</tr>
+		</thead>
+		<tbody>
+			<script>
+				{
+					const tableBody = document.currentScript.parentElement;
+					fetch("./data.json" /*"https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/top-players/data.json"*/).then(r => r.json()).then(function(data) {
+						const thead = tableBody.closest('table').querySelector('thead tr');
+						for (const year of Object.keys(data)) {
+							thead.appendChild(Object.assign(document.createElement('th'), {
+								innerText: year
+							})).addEventListener('click', function(event) {
+								let dialog = document.querySelector('#topPlayersDialog');
+								if (!dialog) {
+									dialog = document.body.appendChild(document.createElement('dialog'));
+									dialog.setAttribute('id', 'playerListDialog');
+								}
+
+								let dialogForm = dialog.querySelector('form');
+								if (!dialogForm) {
+									dialogForm = document.createElement('form');
+									dialogForm.setAttribute('method', 'dialog');
+									dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
+										className: 'button primary',
+										innerText: 'View Profile'
+									}), Object.assign(document.createElement('button'), {
+										className: 'button',
+										innerText: 'Close'
+									}));
+								}
+
+								let profileLink = dialogForm.querySelector('a');
+								// profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + awardWinner.toLowerCase());
+
+								let list = dialog.querySelector('.frhdTable');
+								if (!list) {
+									list = document.createElement('table');
+									list.classList.add('frhdTable', 'rowCounter', 'sort');
+								}
+
+								let caption = list.querySelector('caption');
+								// caption.innerText = awardWinner + '\'s Awards';
+
+								let thead = list.querySelector('thead');
+								if (!thead) {
+									thead = list.appendChild(document.createElement('thead'));
+									thead.appendChild(document.createElement('tr')).append(
+										Object.assign(document.createElement('th'), {
+											className: 'sort',
+											innerText: 'Placement',
+											onclick: sortTable
+										}),
+										Object.assign(document.createElement('th'), {
+											innerText: 'Player'
+										})
+									)
+								}
+
+								let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
+								tbody.replaceChildren(...data[year].map((player, index) => {
+									let row = document.createElement('tr');
+									row.append(Object.assign(document.createElement('td'), {
+										innerText: index + 1
+									}), Object.assign(document.createElement('td'), {
+										innerText: player
+									}));
+									return row;
+								}));
+
+								dialog.replaceChildren(list, dialogForm);
+								dialog.showModal();
+							});
+						}
+
+						const awardWinners = new Set(Object.values(data).flatMap(Object.values).flat().sort());
+						let rows = [];
+						for (let i = 0; i < 100; i++) {
+							const row = document.createElement('tr');
+							row.appendChild(Object.assign(document.createElement('td'), {
+								innerText: i + 1
+							}));
+							for (const year of Object.keys(data)) {
+								row.appendChild(Object.assign(document.createElement('td'), {
+									innerText: data[year][i]
+								}));
+							}
+							rows.push(row);
+						}
+
+						tableBody.replaceChildren(...rows);
+					});
+				}
+			</script>
+		</tbody>
+	</table>
+	<dialog id="topPlayersDialog">
+		<table class="frhdTable">
+			<caption></caption>
+			<thead>
+				<tr>
+					<th class="sort">Placement</th>
+					<th>Player</th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
+		<form method="dialog">
+			<a class="button primary">View Profile</a>
+			<button class="button">Close</button>
+		</form>
+	</dialog>
+	<script>
+		document.querySelectorAll(':is(.sort th, th.sort)').forEach(function(element) {
+			element.addEventListener('click', sortTable);
+		});
+
+		function sortTable(event) {
+			const table = event.target.closest('table');
+			const thead = table && table.querySelectorAll('thead th');
+			thead.forEach(element => element.dataset.direction && element.classList.remove(element.dataset.direction));
+			const rows = table && table.querySelector('tbody');
+			event.target.classList.remove(event.target.dataset.direction);
+			event.target.dataset.direction = event.target.dataset.direction !== 'desc' ? 'desc' : 'asc';
+			event.target.classList.add(event.target.dataset.direction);
+			const sorted = [...rows.children].sort((a, b, c) => {
+				if (event.target.dataset.direction !== 'asc') c = a, a = b, b = c; // [c, a, b] = [a, b, c];
+				if (isFinite(a.children[event.target.cellIndex].innerText) && isFinite(b.children[event.target.cellIndex].innerText)) {
+					return a.children[event.target.cellIndex].innerText - b.children[event.target.cellIndex].innerText;
+				}
+
+				return a.children[event.target.cellIndex].innerText.localeCompare(b.children[event.target.cellIndex].innerText);
+			});
+
+			rows.replaceChildren(...sorted);
+			event.target.classList.add(event.target.dataset.direction);
+		}
+	</script>
+	<!-- <script type="module">
+		document.head.appendChild(Object.assign(document.createElement('style'), {
+			textContent: await fetch('https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/styles/default.css').then(r => r.text())
+		}));
+	</script> -->
+</body>
+</html>
