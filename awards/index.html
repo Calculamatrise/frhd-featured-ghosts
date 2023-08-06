@@ -141,62 +141,9 @@
 								}));
 								row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
 									href: data[year][term].replace(/^(https?:\/\/)?/, 'https://'),
-									innerText: data[year][term]
+									innerText: data[year][term],
+									target: '_blank'
 								}));
-								row.addEventListener('click', function(event) {
-									let dialog = document.querySelector('#playerListDialog');
-									if (!dialog) {
-										dialog = document.body.appendChild(document.createElement('dialog'));
-										dialog.setAttribute('id', 'playerListDialog');
-									}
-			
-									let dialogForm = document.querySelector('#playerListDialog > form');
-									if (!dialogForm) {
-										dialogForm = document.createElement('form');
-										dialogForm.setAttribute('method', 'dialog');
-										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
-											className: 'button primary',
-											innerText: 'View Profile'
-										}), Object.assign(document.createElement('button'), {
-											className: 'button',
-											innerText: 'Close'
-										}));
-									}
-			
-									let list = dialog.querySelector('.frhdTable');
-									if (!list) {
-										list = document.createElement('table');
-										list.classList.add('frhdTable');
-									}
-			
-									let caption = list.querySelector('caption');
-									caption.innerText = 'Ghosters of ' + term + ' ' + year
-			
-									let thead = list.querySelector('thead');
-									if (!thead) {
-										thead = list.appendChild(document.createElement('thead'));
-										thead.appendChild(document.createElement('tr')).append(
-											Object.assign(document.createElement('th'), {
-												innerText: 'Player'
-											})
-										)
-									}
-			
-									let tbody = list.querySelector('tbody') || list.appendChild(document.createElement('tbody'));
-									tbody.replaceChildren(...data[year][term] instanceof Array && data[year][term].map(player => {
-										let row = document.createElement('tr');
-										let profile = row.appendChild(document.createElement('td'));
-										let profileLink = profile.appendChild(document.createElement('a'));
-										profileLink.classList.add('raceLink');
-										profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + player.toLowerCase());
-										profileLink.setAttribute('target', '_blank');
-										profileLink.innerText = player;
-										return row;
-									}) || []);
-			
-									dialog.replaceChildren(list, dialogForm);
-									dialog.showModal();
-								});
 								rows.push(row);
 							}
 			
