@@ -97,6 +97,11 @@
 	position: relative;
 }
 
+.frhdTable.podium {
+	margin: auto;
+	width: 25vw;
+}
+
 .frhdTable.podium tbody tr:nth-child(1) {
 	backdrop-filter: contrast(0.5) brightness(0.975) sepia(1) hue-rotate(10deg);
 }
@@ -142,4 +147,9 @@
 	display: block;
 	text-decoration: none;
 	width: fit-content;
+}
+
+.divider {
+	border-bottom: 1px solid hsl(0deg 0% 50% / 0.5);
+	margin: 1.5em 0;
 }
