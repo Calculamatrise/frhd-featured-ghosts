@@ -12,7 +12,7 @@
 </head>
 <body>
 	<link rel="stylesheet" href="../styles/default.css">
-	<table class="frhdTable ghostingAwards">
+	<table class="frhdTable topPlayers">
 		<thead>
 			<tr>
 				<th class="sort">Placement</th>
@@ -47,9 +47,6 @@
 									}));
 								}
 
-								let profileLink = dialogForm.querySelector('a');
-								// profileLink.setAttribute('href', 'https://freeriderhd.com/u/' + awardWinner.toLowerCase());
-
 								let list = dialog.querySelector('.frhdTable');
 								if (!list) {
 									list = document.createElement('table');
@@ -57,7 +54,7 @@
 								}
 
 								let caption = list.querySelector('caption');
-								// caption.innerText = awardWinner + '\'s Awards';
+								caption.innerText = 'Top Ghosters of ' + year;
 
 								let thead = list.querySelector('thead');
 								if (!thead) {
@@ -80,7 +77,7 @@
 									row.append(Object.assign(document.createElement('td'), {
 										innerText: index + 1
 									}), Object.assign(document.createElement('td'), {
-										innerText: player
+										innerHTML: player.replace(/^~{2}(.+)~{2}$/, '<s>$1</s>')
 									}));
 									return row;
 								}));
@@ -90,7 +87,6 @@
 							});
 						}
 
-						const awardWinners = new Set(Object.values(data).flatMap(Object.values).flat().sort());
 						let rows = [];
 						for (let i = 0; i < 100; i++) {
 							const row = document.createElement('tr');
@@ -99,7 +95,7 @@
 							}));
 							for (const year of Object.keys(data)) {
 								row.appendChild(Object.assign(document.createElement('td'), {
-									innerText: data[year][i]
+									innerHTML: console.log('??')||data[year][i].replace(/^~{2}(.+)~{2}$/, '<s>$1</s>')
 								}));
 							}
 							rows.push(row);
@@ -123,7 +119,6 @@
 			<tbody></tbody>
 		</table>
 		<form method="dialog">
-			<a class="button primary">View Profile</a>
 			<button class="button">Close</button>
 		</form>
 	</dialog>
