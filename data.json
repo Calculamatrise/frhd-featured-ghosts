@@ -185,7 +185,6 @@
 	"Egway": {
 		"frhd.co/t/1254/r/egway": "fast",
 		"frhd.co/t/1076/r/egway": "fast",
-		"frhd.co/t/671692/r/tricycle": "fast",
 		"frhd.co/t/191253/r/egway": "fast",		
 		"frhd.co/t/597025/r/egway": "vehicle",
 		"frhd.co/t/743264/r/egway": "vehicle",
@@ -492,7 +491,8 @@
 		"frhd.co/t/305440/r/xenom": "fast",
 		"frhd.co/t/161621/r/shortkid": "fast",
 		"frhd.co/t/299698/r/shortkid": "fast",
-		"frhd.co/t/267197/r/shortkid": "fast",		
+		"frhd.co/t/267197/r/shortkid": "fast",
+		"frhd.co/t/671692/r/xenom": "fast",		
 		"frhd.co/t/828818/r/xenom": "vehicle",
 		"frhd.co/t/818570/r/xenom": "vehicle",
 		"frhd.co/t/925440/r/xenom": "trick",
