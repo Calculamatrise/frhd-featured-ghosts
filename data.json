@@ -157,7 +157,6 @@
 		"frhd.co/t/773568/r/cerulean": "fast",			
 		"frhd.co/t/796822/r/cerulean": "trick",
 		"frhd.co/t/801452/r/cerulean": "trick",
-		"frhd.co/t/546909/r/cerulean": "other",
 		"frhd.co/t/801731/r/cerulean": "other"
 	},
 	"Chaos-Fallen": {
@@ -484,14 +483,14 @@
 		"frhd.co/t/608063/r/xenom": "fast",
 		"frhd.co/t/717829/r/xenom": "fast",			
 		"frhd.co/t/928157/r/xenom": "fast",
-		"frhd.co/t/345240/r/xenom": "fast",
 		"frhd.co/t/835172/r/xenom": "fast",	
 		"frhd.co/t/455576/r/xenom": "fast",
 		"frhd.co/t/305440/r/xenom": "fast",
 		"frhd.co/t/161621/r/shortkid": "fast",
 		"frhd.co/t/299698/r/shortkid": "fast",
 		"frhd.co/t/267197/r/shortkid": "fast",
-		"frhd.co/t/671692/r/xenom": "fast",		
+		"frhd.co/t/671692/r/xenom": "fast",
+		"frhd.co/t/546909/r/xenom": "fast",		
 		"frhd.co/t/828818/r/xenom": "vehicle",
 		"frhd.co/t/818570/r/xenom": "vehicle",
 		"frhd.co/t/925440/r/xenom": "trick",
@@ -502,7 +501,8 @@
 		"frhd.co/t/196564/r/xenom": "auto",		
 		"frhd.co/t/8865/r/xenom": "other",
 		"frhd.co/t/468573/r/xenom": "other",
-		"frhd.co/t/930734/r/xenom": "other"		
+		"frhd.co/t/930734/r/xenom": "other",
+		"frhd.co/t/345240/r/xenom": "other"		
 	},
 	"Xverse": {
 		"frhd.co/t/558197/r/xverse": "fast",
