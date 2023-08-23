@@ -148,8 +148,7 @@
         "frhd.co/t/575587/r/cerulean": "fast",
         "frhd.co/t/773568/r/cerulean": "fast",
         "frhd.co/t/796822/r/cerulean": "trick",
-        "frhd.co/t/801452/r/cerulean": "trick",
-        "frhd.co/t/801731/r/cerulean": "other"
+        "frhd.co/t/801452/r/cerulean": "trick"
     },
     "Chaos-Fallen": {
         "frhd.co/t/784525/r/chaos-fallen": "fast",
@@ -502,7 +501,8 @@
         "frhd.co/t/921809/r/xenomalt": "fast",
         "frhd.co/t/454829/r/xenom": "fast",
         "frhd.co/t/824395/r/xenomalt": "fast",
-        "frhd.co/t/127165/r/xenom": "fast"
+        "frhd.co/t/127165/r/xenom": "fast",
+        "frhd.co/t/801731/r/xenom": "other"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
