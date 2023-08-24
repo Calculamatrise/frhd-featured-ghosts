@@ -95,7 +95,6 @@
         "frhd.co/t/771504/r/cerasium": "fast",
         "frhd.co/t/766541/r/cerasium": "fast",
         "frhd.co/t/677761/r/cerasium": "fast",
-        "frhd.co/t/1026/r/cestoiolemsater": "fast",
         "frhd.co/t/815335/r/cestoiolemsater": "fast",
         "frhd.co/t/268941/r/cestoiolemsater": "fast",
         "frhd.co/t/676042/r/cestoiolemsater": "fast",
@@ -142,7 +141,6 @@
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
         "frhd.co/t/808681/r/cerulean": "fast",
-        "frhd.co/t/439820/r/cerulean": "fast",
         "frhd.co/t/201857/r/cerulean": "fast",
         "frhd.co/t/1038/r/cerulean": "fast",
         "frhd.co/t/575587/r/cerulean": "fast",
@@ -502,7 +500,9 @@
         "frhd.co/t/454829/r/xenom": "fast",
         "frhd.co/t/824395/r/xenomalt": "fast",
         "frhd.co/t/127165/r/xenom": "fast",
-        "frhd.co/t/801731/r/xenom": "other"        
+        "frhd.co/t/801731/r/xenom": "other",
+        "frhd.co/t/1026/r/xenom": "fast",
+        "frhd.co/t/439820/r/xenom": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
