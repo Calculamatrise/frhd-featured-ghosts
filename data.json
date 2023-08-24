@@ -232,7 +232,6 @@
     },
     "Ninjasparkour": {
         "frhd.co/t/298213/r/ninjasparkour": "fast",
-        "frhd.co/t/520372/r/ninjasparkour": "fast",
         "frhd.co/t/2819/r/ninjasparkour": "trick",
         "frhd.co/t/62033/r/xagefimuh": "auto"
     },
@@ -502,7 +501,8 @@
         "frhd.co/t/127165/r/xenom": "fast",
         "frhd.co/t/801731/r/xenom": "other",
         "frhd.co/t/1026/r/xenom": "fast",
-        "frhd.co/t/439820/r/xenom": "fast"        
+        "frhd.co/t/439820/r/xenom": "fast",
+        "frhd.co/t/520372/r/xenom": "fast"
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
@@ -526,5 +526,8 @@
         "frhd.co/t/813657/r/xverse": "fast",
         "frhd.co/t/170958/r/xverse": "other",
         "frhd.co/t/671625/r/xverse": "other"
-    }
+    },
+    "Zycerak": {
+        "frhd.co/t/627100/r/zycerak": "fast"
+    }    
 }
