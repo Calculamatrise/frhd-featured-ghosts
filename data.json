@@ -376,7 +376,6 @@
         "frhd.co/t/259615/r/sidewalk": "fast",
         "frhd.co/t/236046/r/sidewalk": "fast",
         "frhd.co/t/733399/r/sidewalk": "fast",
-        "frhd.co/t/658640/r/sidewalk": "fast",
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/793962/r/sidewalk": "fast",
@@ -433,7 +432,6 @@
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
-        "frhd.co/t/489424/r/uniior": "vehicle",
         "frhd.co/t/407255/r/uniior": "vehicle",
         "frhd.co/t/922604/r/uniior": "vehicle",
         "frhd.co/t/187395/r/uniior": "vehicle"
@@ -503,7 +501,9 @@
         "frhd.co/t/439820/r/xenom": "fast",
         "frhd.co/t/520372/r/xenom": "fast",
         "frhd.co/t/627100/r/xenom": "fast",
-        "frhd.co/t/1045/r/xenom": "fast"
+        "frhd.co/t/1045/r/xenom": "fast",
+        "frhd.co/t/489424/r/xenom": "vehicle",
+        "frhd.co/t/658640/r/xenom": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
