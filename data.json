@@ -71,7 +71,6 @@
         "frhd.co/t/287310/r/cerasium": "fast",
         "frhd.co/t/608398/r/cerasium": "fast",
         "frhd.co/t/668128/r/cerasium": "fast",
-        "frhd.co/t/3982/r/cerasium": "fast",
         "frhd.co/t/221171/r/cerasium": "fast",
         "frhd.co/t/768770/r/cerasium": "fast",
         "frhd.co/t/556324/r/cerasium": "fast",
@@ -503,7 +502,8 @@
         "frhd.co/t/627100/r/xenom": "fast",
         "frhd.co/t/1045/r/xenom": "fast",
         "frhd.co/t/489424/r/xenom": "vehicle",
-        "frhd.co/t/658640/r/xenom": "fast"        
+        "frhd.co/t/658640/r/xenom": "fast",
+        "frhd.co/t/3982/r/xenomalt": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
