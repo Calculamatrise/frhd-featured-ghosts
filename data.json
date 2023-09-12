@@ -203,7 +203,6 @@
         "frhd.co/t/250678/r/madara": "vehicle",
         "frhd.co/t/295373/r/madara": "vehicle",
         "frhd.co/t/194022/r/madara": "vehicle",
-        "frhd.co/t/683255/r/madara": "other",
         "frhd.co/t/656502/r/madara": "other"
     },
     "mr..A": {
@@ -504,7 +503,8 @@
         "frhd.co/t/225125/r/xenomalt": "other",
         "frhd.co/t/808554/r/xenomalt": "fast",
         "frhd.co/t/750874/r/xenomalt": "fast",
-        "frhd.co/t/236046/r/xenomalt": "fast"         
+        "frhd.co/t/236046/r/xenomalt": "fast",
+        "frhd.co/t/683255/r/beiuwuga": "other"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
