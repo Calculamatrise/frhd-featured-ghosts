@@ -1,6 +1,5 @@
 {
     "AndrewVaughn3": {
-        "frhd.co/t/179558/r/sarcast": "fast",
         "frhd.co/t/575831/r/andrewvaughn3": "fast"
     },
     "Anonyymi": {
@@ -40,7 +39,6 @@
         "frhd.co/t/10013/r/precalculus": "trick"
     },
     "Cerasium": {
-        "frhd.co/t/282498/r/cerasium": "fast",
         "frhd.co/t/5337/r/cerasium": "fast",
         "frhd.co/t/580217/r/cerasium": "fast",
         "frhd.co/t/451691/r/cerasium": "fast",
@@ -91,7 +89,6 @@
         "frhd.co/t/766541/r/cerasium": "fast",
         "frhd.co/t/677761/r/cerasium": "fast",
         "frhd.co/t/815335/r/cestoiolemsater": "fast",
-        "frhd.co/t/268941/r/cestoiolemsater": "fast",
         "frhd.co/t/676042/r/cestoiolemsater": "fast",
         "frhd.co/t/396742/r/cestoiolemsater": "fast",
         "frhd.co/t/420788/r/cestoiolemsater": "fast",
@@ -366,7 +363,6 @@
         "frhd.co/t/842887/r/sidewalk": "fast",
         "frhd.co/t/677071/r/sidewalk": "fast",
         "frhd.co/t/837328/r/sidewalk": "fast",
-        "frhd.co/t/259615/r/sidewalk": "fast",
         "frhd.co/t/733399/r/sidewalk": "fast",
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
@@ -505,7 +501,12 @@
         "frhd.co/t/230102/r/beiuwuga": "fast",
         "frhd.co/t/651059/r/xenom": "fast",
         "frhd.co/t/793962/r/xenomalt": "fast",
-        "frhd.co/t/771504/r/xenom": "fast"        
+        "frhd.co/t/771504/r/xenom": "fast",
+        "frhd.co/t/259615/r/xenom": "fast",
+        "frhd.co/t/282498/r/xenom": "fast",   
+        "frhd.co/t/179558/r/xenom": "fast",  
+        "frhd.co/t/268941/r/xenom": "fast", 
+        "frhd.co/t/671625/r/xenom": "other"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
@@ -526,7 +527,6 @@
         "frhd.co/t/594686/r/xverse": "fast",
         "frhd.co/t/395374/r/xverse": "fast",
         "frhd.co/t/785392/r/xverse": "fast",
-        "frhd.co/t/813657/r/xverse": "fast",
-        "frhd.co/t/671625/r/xverse": "other"
+        "frhd.co/t/813657/r/xverse": "fast"
     }
 }
