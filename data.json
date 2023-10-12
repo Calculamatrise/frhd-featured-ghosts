@@ -190,9 +190,6 @@
         "frhd.co/t/523860/r/madara": "vehicle",
         "frhd.co/t/201964/r/madara": "vehicle",
         "frhd.co/t/513974/r/madara": "vehicle",
-        "frhd.co/t/271369/r/madara": "vehicle",
-        "frhd.co/t/250678/r/madara": "vehicle",
-        "frhd.co/t/295373/r/madara": "vehicle",
         "frhd.co/t/194022/r/madara": "vehicle",
         "frhd.co/t/656502/r/madara": "other"
     },
@@ -290,7 +287,6 @@
         "frhd.co/t/922979/r/radiumrc": "fast",
         "frhd.co/t/923665/r/radiumrc": "fast",
         "frhd.co/t/736055/r/radium_rc": "vehicle",
-        "frhd.co/t/654163/r/radiumrc": "vehicle",
         "frhd.co/t/530828/r/radium_rc": "trick",
         "frhd.co/t/859689/r/radium_rc": "trick",
         "frhd.co/t/860325/r/radium_rc": "trick",
@@ -407,7 +403,11 @@
         "frhd.co/t/655053/r/ultraviolet": "vehicle",
         "frhd.co/t/653884/r/ultraviolet": "vehicle",
         "frhd.co/t/527178/r/ultraviolet": "vehicle",
-        "frhd.co/t/584030/r/ultraviolet": "vehicle"
+        "frhd.co/t/584030/r/ultraviolet": "vehicle",
+        "frhd.co/t/654163/r/ultraviolet": "vehicle",
+        "frhd.co/t/295373/r/ultraviolet": "vehicle",
+        "frhd.co/t/271369/r/ultraviolet": "vehicle",
+        "frhd.co/t/250678/r/madara": "vehicle"
     },
     "Uniior": {
         "frhd.co/t/725866/r/uniior": "fast",
