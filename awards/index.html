@@ -280,7 +280,7 @@
 								row.append(Object.assign(document.createElement('td'), {
 									innerText: term
 								}), Object.assign(document.createElement('td'), {
-									innerText: data[year][term]
+									innerText: data[year][term].join(', ')
 								}));
 								row.addEventListener('click', function(event) {
 									let dialog = document.querySelector('#playerListDialog');
@@ -377,7 +377,7 @@
 			</script>
 		</section>
 	</main>
-	<dialog id="playerListDialog">
+	<dialog class="frhdDialog" id="playerListDialog">
 		<table class="frhdTable">
 			<caption></caption>
 			<thead>
@@ -391,7 +391,7 @@
 			<button class="button">Close</button>
 		</form>
 	</dialog>
-	<dialog id="playerStatsDialog">
+	<dialog class="frhdDialog" id="playerStatsDialog">
 		<table class="frhdTable rowCounter sort">
 			<caption></caption>
 			<thead>
