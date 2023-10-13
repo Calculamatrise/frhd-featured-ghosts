@@ -38,7 +38,7 @@
 	</template>
 	<main id="content">
 		<table class="frhdTable rowCounter ghostingAwards podium">
-			<caption>This Month's Top 3</caption>
+			<caption>Last Month's Top 3</caption>
 			<thead>
 				<tr>
 					<th>Award Winner</th>
@@ -49,11 +49,20 @@
 					{
 						const tableBody = document.currentScript.parentElement;
 						fetch("https://raw.githubusercontent.com/Calculamatrise/frhd-featured-ghosts/master/awards/potm.json").then(r => r.json()).then(function(data) {
-							const awardWinners = Object.values(Object.values(data).pop()).pop();
+							const months = Object.values(Object.values(data).pop());
+							const lastMonth = months.length;
+							const date = new Date();
+							const month = date.getMonth();
+							if (month > lastMonth) {
+								const caption = tableBody.parentElement.querySelector('caption');
+								date.setMonth(lastMonth - 1);
+								caption.innerText = caption.innerText.replace('Last Month', date.toLocaleString('default', { month: 'long' }));
+							}
+							const awardWinners = months.pop();
 							let rows = [];
 							for (const awardWinner of awardWinners) {
 								const filteredData = Object.entries(data).map(([year, data]) => [year, Object.entries(data).map(([month, users]) => [month, users.indexOf(awardWinner) + 1])]);
-								window.filteredData = filteredData
+								window.filteredData = filteredData;
 								const row = document.createElement('tr');
 								row.appendChild(document.createElement('td')).appendChild(Object.assign(document.createElement('a'), {
 									href: 'https://frhd.co/u/' + awardWinner.toLowerCase(),
@@ -137,7 +146,7 @@
 			</tbody>
 		</table>
 		<div class="divider"></div>
-		<table class="frhdTable rowCounter ghostingAwards sort">
+		<table class="frhdTable rowCounter ghostingAwards sort" style="width: -webkit-fill-available;">
 			<caption>Player Statistics</caption>
 			<thead>
 				<tr>
@@ -254,7 +263,7 @@
 			</tbody>
 		</table>
 		<h4>Ghosters of the month</h4>
-		<section>
+		<section class="frhdGrid autoColumns">
 			<script>
 				{
 					const content = document.currentScript.parentElement;
@@ -284,10 +293,7 @@
 									if (!dialogForm) {
 										dialogForm = document.createElement('form');
 										dialogForm.setAttribute('method', 'dialog');
-										dialogForm.replaceChildren(Object.assign(document.createElement('a'), {
-											className: 'button primary',
-											innerText: 'View Profile'
-										}), Object.assign(document.createElement('button'), {
+										dialogForm.replaceChildren(Object.assign(document.createElement('button'), {
 											className: 'button',
 											innerText: 'Close'
 										}));
@@ -338,7 +344,7 @@
 			</script>
 		</section>
 		<h4>Ghost of the month</h4>
-		<section>
+		<section class="frhdGrid autoColumns">
 			<script>
 				{
 					const content = document.currentScript.parentElement;
@@ -382,7 +388,6 @@
 			<tbody></tbody>
 		</table>
 		<form method="dialog">
-			<a class="button primary">View Profile</a>
 			<button class="button">Close</button>
 		</form>
 	</dialog>
