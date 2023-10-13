@@ -189,7 +189,6 @@
         "frhd.co/t/624596/r/madara": "vehicle",
         "frhd.co/t/523860/r/madara": "vehicle",
         "frhd.co/t/201964/r/madara": "vehicle",
-        "frhd.co/t/513974/r/madara": "vehicle",
         "frhd.co/t/194022/r/madara": "vehicle",
         "frhd.co/t/656502/r/madara": "other"
     },
@@ -407,7 +406,11 @@
         "frhd.co/t/654163/r/ultraviolet": "vehicle",
         "frhd.co/t/295373/r/ultraviolet": "vehicle",
         "frhd.co/t/271369/r/ultraviolet": "vehicle",
-        "frhd.co/t/250678/r/ultraviolet": "vehicle"
+        "frhd.co/t/250678/r/ultraviolet": "vehicle",
+        "frhd.co/t/513974/r/ultraviolet": "vehicle",       
+        "frhd.co/t/489424/r/ultraviolet": "vehicle",
+        "frhd.co/t/407255/r/ultraviolet": "vehicle",
+        "frhd.co/t/922604/r/ultraviolet": "vehicle"        
     },
     "Uniior": {
         "frhd.co/t/725866/r/uniior": "fast",
@@ -417,8 +420,6 @@
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
-        "frhd.co/t/407255/r/uniior": "vehicle",
-        "frhd.co/t/922604/r/uniior": "vehicle",
         "frhd.co/t/187395/r/uniior": "vehicle"
     },
     "Xenom": {
@@ -487,7 +488,6 @@
         "frhd.co/t/520372/r/xenom": "fast",
         "frhd.co/t/627100/r/xenom": "fast",
         "frhd.co/t/1045/r/xenom": "fast",
-        "frhd.co/t/489424/r/xenom": "vehicle",
         "frhd.co/t/658640/r/xenom": "fast",
         "frhd.co/t/3982/r/xenomalt": "fast",
         "frhd.co/t/170958/r/xenom": "fast",
