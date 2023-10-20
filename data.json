@@ -182,7 +182,6 @@
         "frhd.co/t/216027/r/madara": "fast",
         "frhd.co/t/837530/r/madara": "fast",
         "frhd.co/t/836399/r/madara": "fast",
-        "frhd.co/t/225125/r/madara": "fast",
         "frhd.co/t/508734/r/madara": "vehicle",
         "frhd.co/t/653478/r/sanninx": "vehicle",
         "frhd.co/t/292062/r/madara": "vehicle",
@@ -507,7 +506,8 @@
         "frhd.co/t/671625/r/xenom": "other",
         "frhd.co/t/611918/r/beiuwuga": "fast",
         "frhd.co/t/677761/r/beiuwuga": "fast",       
-        "frhd.co/t/274894/r/beiuwuga": "fast"                
+        "frhd.co/t/274894/r/beiuwuga": "fast",
+        "frhd.co/t/225125/r/xenom": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
