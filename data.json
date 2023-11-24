@@ -139,7 +139,8 @@
         "frhd.co/t/345240/r/theft": "other",
         "frhd.co/t/8865/r/theft": "other",
         "frhd.co/t/671625/r/theft": "other",
-        "frhd.co/t/225125/r/theft": "other"        
+        "frhd.co/t/225125/r/theft": "other",
+        "frhd.co/t/347736/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -153,7 +154,6 @@
     "Chaos-Fallen": {
         "frhd.co/t/784525/r/chaos-fallen": "fast",
         "frhd.co/t/318674/r/chaos-fallen": "fast",
-        "frhd.co/t/347736/r/chaos-fallen": "fast",
         "frhd.co/t/732812/r/chaos-fallen": "fast",
         "frhd.co/t/577268/r/chaos-fallen": "fast"
     },
