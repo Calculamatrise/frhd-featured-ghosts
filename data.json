@@ -128,7 +128,6 @@
         "frhd.co/t/629722/r/theft": "fast",
         "frhd.co/t/675131/r/theft": "fast",
         "frhd.co/t/683255/r/theft": "fast",
-        "frhd.co/t/680654/r/theft": "fast",
         "frhd.co/t/233193/r/theft": "fast",
         "frhd.co/t/677761/r/theft": "fast",
         "frhd.co/t/837328/r/theft": "fast",
@@ -511,7 +510,8 @@
         "frhd.co/t/345240/r/xenom": "other",        
         "frhd.co/t/8865/r/xenom": "other",  
         "frhd.co/t/225125/r/xenom": "other",
-        "frhd.co/t/225125/r/xenom2.0": "fast"       
+        "frhd.co/t/225125/r/xenom2.0": "fast",
+        "frhd.co/t/680654/r/xenom": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
