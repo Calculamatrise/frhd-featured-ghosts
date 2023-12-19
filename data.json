@@ -32,7 +32,8 @@
         "frhd.co/t/167075/r/beemex": "other"
     },
     "BrendanMagill": {
-        "frhd.co/t/1116/r/brendanmagill": "fast"
+        "frhd.co/t/1116/r/brendanmagill": "fast",
+        "frhd.co/t/682672/r/brendanmagill": "fast"        
     },
     "Calculus": {
         "frhd.co/t/10013/r/precalculus": "trick"
@@ -46,13 +47,11 @@
         "frhd.co/t/57539/r/cerasium": "fast",
         "frhd.co/t/781113/r/cerasium": "fast",
         "frhd.co/t/319500/r/cerasium": "fast",
-        "frhd.co/t/682672/r/cerasium": "fast",
         "frhd.co/t/1974/r/cerasium": "fast",
         "frhd.co/t/548098/r/cerasium": "fast",
         "frhd.co/t/50046/r/cerasium": "fast",
         "frhd.co/t/413315/r/cerasium": "fast",
         "frhd.co/t/678531/r/cerasium": "fast",
-        "frhd.co/t/250403/r/cerasium": "fast",
         "frhd.co/t/1042/r/cerasium": "fast",
         "frhd.co/t/1728/r/cerasium": "fast",
         "frhd.co/t/655951/r/cerasium": "fast",
@@ -511,7 +510,9 @@
         "frhd.co/t/8865/r/xenom": "other",  
         "frhd.co/t/225125/r/xenom": "other",
         "frhd.co/t/225125/r/xenom2.0": "fast",
-        "frhd.co/t/680654/r/xenom": "fast"        
+        "frhd.co/t/680654/r/xenom": "fast",
+        "frhd.co/t/250403/r/xenom": "fast",
+        "frhd.co/t/608398/r/xenom": "fast"        
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
