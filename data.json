@@ -38,7 +38,6 @@
         "frhd.co/t/10013/r/precalculus": "trick"
     },
     "Cerasium": {
-        "frhd.co/t/5337/r/cerasium": "fast",
         "frhd.co/t/580217/r/cerasium": "fast",
         "frhd.co/t/451691/r/cerasium": "fast",
         "frhd.co/t/92960/r/cerasium": "fast",
@@ -514,7 +513,8 @@
         "frhd.co/t/682672/r/xenom": "fast",
         "frhd.co/t/629722/r/xenom": "fast",
         "frhd.co/t/319500/r/xenom": "fast",
-        "frhd.co/t/405476/r/xenom2.0": "fast"        
+        "frhd.co/t/405476/r/xenom2.0": "fast",
+        "frhd.co/t/5337/r/xenom2.0": "fast"
     },
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
