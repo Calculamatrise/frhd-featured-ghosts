@@ -428,8 +428,13 @@
         "frhd.co/t/407255/r/ultraviolet": "vehicle",
         "frhd.co/t/922604/r/ultraviolet": "vehicle",
         "frhd.co/t/187395/r/ultraviolet": "vehicle",
-        "frhd.co/t/773568/r/ultraviolet": "fast"        
+        "frhd.co/t/773568/r/ultraviolet": "fast",
+        "frhd.co/t/930938/r/ultraviolet": "vehicle",
+        "frhd.co/t/293791/r/ultraviolet": "vehicle"        
     },
+    "Unghosted": {
+        "frhd.co/t/102719/r/unghosted": "fast"
+    },    
     "Uniior": {
         "frhd.co/t/725866/r/uniior": "fast",
         "frhd.co/t/222275/r/uniior": "fast",
