@@ -156,7 +156,8 @@
         "frhd.co/t/915877/r/typicaleshay": "vehicle"    
     },
     "Cork": {
-        "frhd.co/t/224456/r/cork": "fast"       
+        "frhd.co/t/224456/r/cork": "fast",
+        "frhd.co/t/216650/r/cork": "fast"         
     },
     "DblU": {
         "frhd.co/t/191253/r/dblu": "other"
@@ -166,7 +167,8 @@
     },
     "Duper": {
         "frhd.co/t/332790/r/duper": "fast",
-        "frhd.co/t/507142/r/duper": "fast"              
+        "frhd.co/t/507142/r/duper": "fast",
+        "frhd.co/t/970702/r/duper": "fast"         
     },    
     "Egway": {
         "frhd.co/t/1254/r/egway": "fast",
@@ -179,7 +181,8 @@
         "frhd.co/t/730968/r/egway": "vehicle",
         "frhd.co/t/713577/r/egway": "vehicle",
         "frhd.co/t/823601/r/egway": "vehicle",
-        "frhd.co/t/568797/r/egway": "trick"
+        "frhd.co/t/568797/r/egway": "trick",
+        "frhd.co/t/861191/r/egway": "vehicle"       
     },
     "HyperCube": {
         "frhd.co/t/1171/r/hypercube": "fast"
