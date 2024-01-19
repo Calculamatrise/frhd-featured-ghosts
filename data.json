@@ -319,7 +319,8 @@
         "frhd.co/t/594068/r/radium_rc": "auto",
         "frhd.co/t/464750/r/radiumrc": "auto",
         "frhd.co/t/155806/r/radium_rc": "auto",
-        "frhd.co/t/919593/r/radiumrc": "fast"        
+        "frhd.co/t/919593/r/radiumrc": "fast",
+        "frhd.co/t/901541/r/radiumrc": "fast"         
     },
     "Reborn": {
         "frhd.co/t/392713/r/reborn": "fast",
@@ -359,7 +360,8 @@
         "frhd.co/t/822204/r/rippedmagnet": "vehicle"        
     },
     "Setsu": {
-        "frhd.co/t/930152/r/setsu": "fast"
+        "frhd.co/t/930152/r/setsu": "fast",
+        "frhd.co/t/952626/r/setsu": "fast"        
     },    
     "Sidewalk": {
         "frhd.co/t/842887/r/sidewalk": "fast",
@@ -368,14 +370,16 @@
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/475991/r/sidewalk": "fast",
-        "frhd.co/t/455779/r/sidewalk_og": "trick"       
+        "frhd.co/t/455779/r/sidewalk_og": "trick",
+        "frhd.co/t/837562/r/sidewalk": "fast"             
     },
     "Slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
     },
     "spruce": {
         "frhd.co/t/163774/r/dumptruck": "trick",
-        "frhd.co/t/682672/r/dumptruck": "other"
+        "frhd.co/t/682672/r/dumptruck": "other",
+        "frhd.co/t/211286/r/dumptruck": "fast"        
     },
     "Stevie.T": {
         "frhd.co/t/509794/r/stevie.t": "fast",
