@@ -376,8 +376,7 @@
     },
     "spruce": {
         "frhd.co/t/163774/r/dumptruck": "trick",
-        "frhd.co/t/682672/r/dumptruck": "other",
-        "frhd.co/t/211286/r/dumptruck": "fast"        
+        "frhd.co/t/682672/r/dumptruck": "other" 
     },
     "Stevie.T": {
         "frhd.co/t/509794/r/stevie.t": "fast",
@@ -553,7 +552,8 @@
         "frhd.co/t/834483/r/xenom": "fast",
         "frhd.co/t/628028/r/xenom": "auto",
         "frhd.co/t/776922/r/xenom": "fast",
-        "frhd.co/t/732812/r/xenom": "fast"        
+        "frhd.co/t/732812/r/xenom": "fast",
+        "frhd.co/t/211286/r/xenom": "fast"               
     },
     "XGRAzgr": {
             "frhd.co/t/946065/r/xgrazgr": "fast"
