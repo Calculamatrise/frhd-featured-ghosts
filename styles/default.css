@@ -133,7 +133,7 @@
 }
 
 .frhdTable tbody tr td > a {
-	color: black;
+	color: initial;
 	text-decoration: none;
 }
 
@@ -142,7 +142,6 @@
 }
 
 .frhdTable .raceLink {
-	color: black;
 	display: block;
 	text-decoration: none;
 	width: fit-content;
