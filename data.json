@@ -364,7 +364,6 @@
     "Sidewalk": {
         "frhd.co/t/842887/r/sidewalk": "fast",
         "frhd.co/t/677071/r/sidewalk": "fast",
-        "frhd.co/t/733399/r/sidewalk": "fast",
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/475991/r/sidewalk": "fast",
@@ -553,7 +552,8 @@
         "frhd.co/t/628028/r/xenom": "auto",
         "frhd.co/t/776922/r/xenom": "fast",
         "frhd.co/t/732812/r/xenom": "fast",
-        "frhd.co/t/211286/r/xenom": "fast"               
+        "frhd.co/t/211286/r/xenom": "fast",
+        "frhd.co/t/733399/r/xenom": "fast"        
     },
     "XGRAzgr": {
             "frhd.co/t/946065/r/xgrazgr": "fast"
