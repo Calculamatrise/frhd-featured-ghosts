@@ -132,7 +132,10 @@
         "frhd.co/t/962343/r/theft": "fast",
         "frhd.co/t/963113/r/theft": "fast",
         "frhd.co/t/963577/r/theft": "fast",
-        "frhd.co/t/964915/r/theft": "fast"   
+        "frhd.co/t/964915/r/theft": "fast",
+        "frhd.co/t/577268/r/theft": "fast",
+        "frhd.co/t/837562/r/theft": "fast", 
+        "frhd.co/t/53080/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -146,8 +149,7 @@
     },
     "Chaos-Fallen": {
         "frhd.co/t/784525/r/chaos-fallen": "fast",
-        "frhd.co/t/318674/r/chaos-fallen": "fast",
-        "frhd.co/t/577268/r/chaos-fallen": "fast"
+        "frhd.co/t/318674/r/chaos-fallen": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -330,7 +332,6 @@
         "frhd.co/t/649135/r/redorblue": "fast",
         "frhd.co/t/590812/r/trickghost": "fast",
         "frhd.co/t/660509/r/redorblue": "fast",
-        "frhd.co/t/53080/r/redorblue": "fast",
         "frhd.co/t/799917/r/redorblue": "fast",
         "frhd.co/t/232048/r/redorblue": "fast",
         "frhd.co/t/9331/r/redorblue": "fast",
@@ -367,8 +368,7 @@
         "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/475991/r/sidewalk": "fast",
-        "frhd.co/t/455779/r/sidewalk_og": "trick",
-        "frhd.co/t/837562/r/sidewalk": "fast"             
+        "frhd.co/t/455779/r/sidewalk_og": "trick"          
     },
     "Slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
