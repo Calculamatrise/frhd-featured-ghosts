@@ -147,7 +147,10 @@
         "frhd.co/t/935036/r/theft": "fast",
         "frhd.co/t/930945/r/theft": "fast",
         "frhd.co/t/455576/r/theft": "fast", 
-        "frhd.co/t/155001/r/theft": "fast"                
+        "frhd.co/t/155001/r/theft": "fast",
+        "frhd.co/t/921809/r/theft": "fast",
+        "frhd.co/t/53393/r/theft": "fast",
+        "frhd.co/t/273315/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -170,7 +173,8 @@
     },
     "Cork": {
         "frhd.co/t/224456/r/cork": "fast",
-        "frhd.co/t/216650/r/cork": "fast"         
+        "frhd.co/t/216650/r/cork": "fast",
+        "frhd.co/t/273315/r/u3lilac": "fast"          
     },
     "DblU": {
         "frhd.co/t/191253/r/dblu": "other"
@@ -473,7 +477,6 @@
         "frhd.co/t/8857/r/xenom": "fast",
         "frhd.co/t/933126/r/xenom": "fast",
         "frhd.co/t/11057/r/beiuwuga": "fast",
-        "frhd.co/t/53393/r/xenom": "fast",
         "frhd.co/t/243884/r/xenom": "fast",
         "frhd.co/t/53133/r/xenom": "fast",
         "frhd.co/t/717829/r/xenom": "fast",
@@ -496,10 +499,8 @@
         "frhd.co/t/468573/r/xenom": "other",
         "frhd.co/t/930734/r/xenom": "other",
         "frhd.co/t/825384/r/xenomalt": "fast",
-        "frhd.co/t/273315/r/xenomalt": "fast",
         "frhd.co/t/290112/r/xenom": "fast",
         "frhd.co/t/804304/r/xenomalt": "fast",
-        "frhd.co/t/921809/r/xenomalt": "fast",
         "frhd.co/t/454829/r/xenom": "fast",
         "frhd.co/t/824395/r/xenomalt": "fast",
         "frhd.co/t/127165/r/xenom": "fast",
