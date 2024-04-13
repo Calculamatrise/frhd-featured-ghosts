@@ -154,7 +154,9 @@
         "frhd.co/t/318674/r/theft": "fast",
         "frhd.co/t/778969/r/meat2": "fast",
         "frhd.co/t/842887/r/theft": "fast",
-        "frhd.co/t/291322/r/theft": "fast"        
+        "frhd.co/t/291322/r/theft": "fast",
+        "frhd.co/t/793962/r/theft": "fast",
+        "frhd.co/t/260513/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -458,7 +460,6 @@
         "frhd.co/t/930058/r/xenom": "fast",
         "frhd.co/t/4556/r/xenom": "fast",
         "frhd.co/t/925079/r/xenom": "fast",
-        "frhd.co/t/260513/r/xenom": "fast",
         "frhd.co/t/920555/r/xenom": "fast",
         "frhd.co/t/421663/r/xenom": "fast",
         "frhd.co/t/134709/r/xenom": "fast",
@@ -521,8 +522,7 @@
         "frhd.co/t/671625/r/xenom": "other",
         "frhd.co/t/611918/r/beiuwuga": "fast",    
         "frhd.co/t/274894/r/beiuwuga": "fast",
-        "frhd.co/t/710486/r/xenom": "fast", 
-        "frhd.co/t/793962/r/xenom": "fast",
+        "frhd.co/t/710486/r/xenom": "fast",         
         "frhd.co/t/720950/r/xenom": "fast",        
         "frhd.co/t/345240/r/xenom": "other",        
         "frhd.co/t/8865/r/xenom": "other",  
