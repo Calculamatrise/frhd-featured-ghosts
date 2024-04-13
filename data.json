@@ -152,7 +152,9 @@
         "frhd.co/t/273315/r/theft": "fast",
         "frhd.co/t/784525/r/theft": "fast",
         "frhd.co/t/318674/r/theft": "fast",
-        "frhd.co/t/778969/r/meat2": "fast"        
+        "frhd.co/t/778969/r/meat2": "fast",
+        "frhd.co/t/842887/r/theft": "fast",
+        "frhd.co/t/291322/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -376,9 +378,7 @@
         "frhd.co/t/952626/r/setsu": "fast"        
     },    
     "Sidewalk": {
-        "frhd.co/t/842887/r/sidewalk": "fast",
         "frhd.co/t/677071/r/sidewalk": "fast",
-        "frhd.co/t/291322/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/475991/r/sidewalk": "fast",
         "frhd.co/t/455779/r/sidewalk_og": "trick"          
@@ -521,7 +521,6 @@
         "frhd.co/t/671625/r/xenom": "other",
         "frhd.co/t/611918/r/beiuwuga": "fast",    
         "frhd.co/t/274894/r/beiuwuga": "fast",
-        "frhd.co/t/291322/r/xenom": "fast",
         "frhd.co/t/710486/r/xenom": "fast", 
         "frhd.co/t/793962/r/xenom": "fast",
         "frhd.co/t/720950/r/xenom": "fast",        
