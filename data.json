@@ -154,7 +154,9 @@
         "frhd.co/t/291322/r/theft": "fast",
         "frhd.co/t/793962/r/theft": "fast",
         "frhd.co/t/260513/r/theft": "fast",
-        "frhd.co/t/575831/r/theft": "fast"        
+        "frhd.co/t/575831/r/theft": "fast",
+        "frhd.co/t/677071/r/theft": "fast", 
+        "frhd.co/t/594068/r/theft": "auto"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -332,7 +334,6 @@
         "frhd.co/t/1083/r/radiumrc": "auto",
         "frhd.co/t/589495/r/radiumrc": "auto",
         "frhd.co/t/428676/r/radium_rc": "auto",
-        "frhd.co/t/594068/r/radium_rc": "auto",
         "frhd.co/t/464750/r/radiumrc": "auto",
         "frhd.co/t/155806/r/radium_rc": "auto",
         "frhd.co/t/919593/r/radiumrc": "fast",
@@ -378,7 +379,6 @@
         "frhd.co/t/952626/r/setsu": "fast"        
     },    
     "Sidewalk": {
-        "frhd.co/t/677071/r/sidewalk": "fast",
         "frhd.co/t/870890/r/sidewalk": "fast",
         "frhd.co/t/475991/r/sidewalk": "fast",
         "frhd.co/t/455779/r/sidewalk_og": "trick"          
