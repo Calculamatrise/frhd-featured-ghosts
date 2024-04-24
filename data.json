@@ -145,7 +145,6 @@
         "frhd.co/t/155001/r/theft": "fast",
         "frhd.co/t/921809/r/theft": "fast",
         "frhd.co/t/53393/r/theft": "fast",
-        "frhd.co/t/273315/r/theft": "fast",
         "frhd.co/t/784525/r/theft": "fast",
         "frhd.co/t/318674/r/theft": "fast",
         "frhd.co/t/778969/r/meat2": "fast",
@@ -188,9 +187,8 @@
         "frhd.co/t/915877/r/typicaleshay": "vehicle"    
     },
     "Cork": {
-        "frhd.co/t/224456/r/cork": "fast",
-        "frhd.co/t/216650/r/cork": "fast",
-        "frhd.co/t/273315/r/u3lilac": "fast"          
+        "frhd.co/t/224456/r/u3lilac": "fast",
+        "frhd.co/t/216650/r/u3lilac": "fast"
     },
     "DblU": {
         "frhd.co/t/191253/r/dblu": "other"
@@ -392,7 +390,8 @@
         "frhd.co/t/952626/r/setsu": "fast"        
     },    
     "Sidewalk": {
-        "frhd.co/t/455779/r/sidewalk_og": "trick"          
+        "frhd.co/t/455779/r/sidewalk_og": "trick",
+        "frhd.co/t/273315/r/sidewalk": "fast"        
     },
     "Slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
