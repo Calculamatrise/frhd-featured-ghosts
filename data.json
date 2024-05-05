@@ -169,7 +169,8 @@
         "frhd.co/t/223397/r/theft": "fast",   
         "frhd.co/t/658640/r/theft": "fast",        
         "frhd.co/t/750874/r/theft": "fast",        
-        "frhd.co/t/590774/r/theft": "fast"        
+        "frhd.co/t/590774/r/theft": "fast",
+        "frhd.co/t/273315/r/theft": "fast"          
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -390,8 +391,7 @@
         "frhd.co/t/952626/r/setsu": "fast"        
     },    
     "Sidewalk": {
-        "frhd.co/t/455779/r/sidewalk_og": "trick",
-        "frhd.co/t/273315/r/sidewalk": "fast"        
+        "frhd.co/t/455779/r/sidewalk_og": "trick"      
     },
     "Slayed": {
         "frhd.co/t/568797/r/slayed": "trick"
