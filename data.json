@@ -175,7 +175,10 @@
         "frhd.co/t/5337/r/theft": "fast",       
         "frhd.co/t/215664/r/theft": "fast",
         "frhd.co/t/946065/r/theft": "fast",
-        "frhd.co/t/1034/r/theft": "fast"        
+        "frhd.co/t/1034/r/theft": "fast",
+        "frhd.co/t/776828/r/theft": "fast",
+        "frhd.co/t/952626/r/theft": "fast",   
+        "frhd.co/t/102719/r/meat2": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -370,7 +373,6 @@
         "frhd.co/t/9331/r/redorblue": "fast",
         "frhd.co/t/835176/r/redorblue": "fast",
         "frhd.co/t/824784/r/redorblue": "fast",
-        "frhd.co/t/776828/r/redorblue": "fast",
         "frhd.co/t/836752/r/redorblue": "fast",
         "frhd.co/t/837797/r/redorblue": "fast",
         "frhd.co/t/1119/r/redorblue": "fast",
@@ -391,8 +393,7 @@
         "frhd.co/t/822204/r/rippedmagnet": "vehicle"        
     },
     "Setsu": {
-        "frhd.co/t/930152/r/setsu": "fast",
-        "frhd.co/t/952626/r/setsu": "fast"        
+        "frhd.co/t/930152/r/setsu": "fast"     
     },    
     "Sidewalk": {
         "frhd.co/t/455779/r/sidewalk_og": "trick"      
@@ -452,9 +453,6 @@
         "frhd.co/t/930938/r/ultraviolet": "vehicle",
         "frhd.co/t/293791/r/ultraviolet": "vehicle"        
     },
-    "Unghosted": {
-        "frhd.co/t/102719/r/unghosted": "fast"
-    },    
     "Uniior": {
         "frhd.co/t/725866/r/uniior": "fast",
         "frhd.co/t/222275/r/uniior": "fast",
