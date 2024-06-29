@@ -178,7 +178,9 @@
         "frhd.co/t/1034/r/theft": "fast",
         "frhd.co/t/776828/r/theft": "fast",
         "frhd.co/t/952626/r/theft": "fast",   
-        "frhd.co/t/102719/r/meat2": "fast"        
+        "frhd.co/t/102719/r/meat2": "fast",
+        "frhd.co/t/837530/r/theft": "fast",
+        "frhd.co/t/836399/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -231,8 +233,6 @@
         "frhd.co/t/195874/r/isekeb": "trick"
     },
     "Madara": {
-        "frhd.co/t/837530/r/madara": "fast",
-        "frhd.co/t/836399/r/madara": "fast",
         "frhd.co/t/508734/r/madara": "vehicle",
         "frhd.co/t/653478/r/sanninx": "vehicle",
         "frhd.co/t/292062/r/madara": "vehicle",
