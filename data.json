@@ -177,7 +177,8 @@
         "frhd.co/t/952626/r/theft": "fast",   
         "frhd.co/t/102719/r/meat2": "fast",
         "frhd.co/t/837530/r/theft": "fast",
-        "frhd.co/t/836399/r/theft": "fast"        
+        "frhd.co/t/836399/r/theft": "fast",
+        "frhd.co/t/915877/r/theft": "vehicle"          
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -457,8 +458,7 @@
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
-        "frhd.co/t/653478/r/uniior": "vehicle",
-        "frhd.co/t/915877/r/uniior": "vehicle",            
+        "frhd.co/t/653478/r/uniior": "vehicle",          
         "frhd.co/t/462701/r/uniior": "other"        
     },
     "Xenom": {
