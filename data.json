@@ -110,7 +110,7 @@
         "frhd.co/t/805856/r/cerasium": "auto",
         "frhd.co/t/1334/r/cerasium": "auto",
         "frhd.co/t/468573/r/cerasium": "other",
-        "frhd.co/t/462701/r/cerasium": "other",
+        "frhd.co/t/462701/r/theft": "other",
         "frhd.co/t/675131/r/theft": "fast",
         "frhd.co/t/683255/r/theft": "fast",
         "frhd.co/t/233193/r/theft": "fast",
@@ -191,8 +191,7 @@
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
-        "frhd.co/t/730968/r/charredlizard21": "vehicle",
-        "frhd.co/t/915877/r/typicaleshay": "vehicle"    
+        "frhd.co/t/730968/r/charredlizard21": "vehicle"
     },
     "Cork": {
         "frhd.co/t/224456/r/og_cork": "fast",
@@ -458,7 +457,9 @@
         "frhd.co/t/467459/r/uniior": "vehicle",
         "frhd.co/t/677731/r/uniior": "vehicle",
         "frhd.co/t/557948/r/uniior": "vehicle",
-        "frhd.co/t/653478/r/uniior": "vehicle"        
+        "frhd.co/t/653478/r/uniior": "vehicle",
+        "frhd.co/t/915877/r/uniior": "vehicle",            
+        "frhd.co/t/462701/r/uniior": "other"        
     },
     "Xenom": {
         "frhd.co/t/319404/r/xenom": "fast",
