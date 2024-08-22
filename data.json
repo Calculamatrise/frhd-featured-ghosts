@@ -178,7 +178,8 @@
         "frhd.co/t/102719/r/meat2": "fast",
         "frhd.co/t/837530/r/theft": "fast",
         "frhd.co/t/836399/r/theft": "fast",
-        "frhd.co/t/915877/r/theft": "vehicle"          
+        "frhd.co/t/915877/r/theft": "vehicle",
+        "frhd.co/t/332790/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -203,12 +204,7 @@
     },
     "DrChill": {
         "frhd.co/t/796822/r/drchill": "trick"
-    },
-    "Duper": {
-        "frhd.co/t/332790/r/duper": "fast",
-        "frhd.co/t/507142/r/duper": "fast",
-        "frhd.co/t/970702/r/duper": "fast"         
-    },    
+    },   
     "Egway": {
         "frhd.co/t/1254/r/egway": "fast",
         "frhd.co/t/1076/r/egway": "fast",
@@ -544,7 +540,8 @@
         "frhd.co/t/628028/r/xenom": "auto",
         "frhd.co/t/776922/r/xenom": "fast",
         "frhd.co/t/733399/r/xenom": "fast",
-        "frhd.co/t/186428/r/xenom": "fast"        
+        "frhd.co/t/186428/r/xenom": "fast",
+        "frhd.co/t/507142/r/xenom2.0": "fast"        
     },
     "XGRAzgr": {
             "frhd.co/t/946065/r/xgrazgr": "fast"
