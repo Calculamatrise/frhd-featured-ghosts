@@ -191,7 +191,12 @@
         "frhd.co/t/863819/r/theft": "fast",
         "frhd.co/t/615261/r/theft": "fast", 
         "frhd.co/t/656502/r/theft": "fast",
-        "frhd.co/t/297012/r/theft": "fast"        
+        "frhd.co/t/297012/r/theft": "fast",
+        "frhd.co/t/225125/r/theft": "other", 
+        "frhd.co/t/127165/r/theft": "fast",     
+        "frhd.co/t/651059/r/theft": "fast",
+        "frhd.co/t/825384/r/theft": "fast",
+        "frhd.co/t/319500/r/theft": "fast"         
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -493,22 +498,18 @@
         "frhd.co/t/737402/r/xenom": "auto",
         "frhd.co/t/468573/r/xenom": "other",
         "frhd.co/t/930734/r/xenom": "other",
-        "frhd.co/t/825384/r/xenomalt": "fast",
         "frhd.co/t/290112/r/xenom": "fast",
         "frhd.co/t/804304/r/xenomalt": "fast",
         "frhd.co/t/454829/r/xenom": "fast",
         "frhd.co/t/824395/r/xenomalt": "fast",
-        "frhd.co/t/127165/r/xenom": "fast",
         "frhd.co/t/801731/r/xenom": "other",
-        "frhd.co/t/1026/r/xenom": "fast",
         "frhd.co/t/439820/r/xenom": "fast",
         "frhd.co/t/520372/r/xenom": "fast",
         "frhd.co/t/1045/r/xenom": "fast",
         "frhd.co/t/3982/r/xenomalt": "fast",
         "frhd.co/t/170958/r/xenom": "fast",
         "frhd.co/t/236046/r/xenomalt": "fast",
-        "frhd.co/t/230102/r/beiuwuga": "fast",
-        "frhd.co/t/651059/r/xenom": "fast",
+        "frhd.co/t/230102/r/beiuwuga": "fast",        
         "frhd.co/t/771504/r/xenom": "fast",
         "frhd.co/t/259615/r/xenom": "fast",
         "frhd.co/t/282498/r/xenom2.0": "fast",   
@@ -519,13 +520,11 @@
         "frhd.co/t/710486/r/xenom": "fast",       
         "frhd.co/t/345240/r/xenom": "other",        
         "frhd.co/t/8865/r/xenom": "other",  
-        "frhd.co/t/225125/r/xenom": "other",
         "frhd.co/t/225125/r/xenom2.0": "fast",
         "frhd.co/t/680654/r/xenom": "fast",
         "frhd.co/t/608398/r/xenom": "fast",
         "frhd.co/t/682672/r/xenom": "fast",
         "frhd.co/t/629722/r/xenom": "fast",
-        "frhd.co/t/319500/r/xenom": "fast",
         "frhd.co/t/405476/r/xenom2.0": "fast",
         "frhd.co/t/793658/r/xenom": "fast",
         "frhd.co/t/484421/r/xenom": "fast",        
@@ -543,7 +542,8 @@
         "frhd.co/t/576498/r/xenom": "fast"        
     },
     "XGRAzgr": {
-        "frhd.co/t/946065/r/xgrazgr": "fast"     
+        "frhd.co/t/946065/r/xgrazgr": "fast",
+        "frhd.co/t/1026/r/xgrazgr": "fast"        
     },  
     "Xverse": {
         "frhd.co/t/558197/r/xverse": "fast",
