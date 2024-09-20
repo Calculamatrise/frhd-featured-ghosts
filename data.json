@@ -90,7 +90,7 @@
         "frhd.co/t/141352/r/cerasium": "fast",
         "frhd.co/t/9351/r/cerasium": "fast",
         "frhd.co/t/352687/r/cerasium": "fast",
-        "frhd.co/t/461867/r/cerasium": "fast",
+        "frhd.co/t/461867/r/cerasium": "other",
         "frhd.co/t/285906/r/cerasium": "fast",
         "frhd.co/t/274894/r/cerasium": "fast",
         "frhd.co/t/176055/r/cerasium": "fast",
@@ -202,7 +202,8 @@
         "frhd.co/t/927808/r/theft": "fast",
         "frhd.co/t/53133/r/theft": "fast",        
         "frhd.co/t/930650/r/theft": "auto",
-        "frhd.co/t/3147/r/theft": "auto"        
+        "frhd.co/t/3147/r/theft": "auto",
+        "frhd.co/t/510963/r/theft": "fast"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -337,7 +338,6 @@
         "frhd.co/t/910057/r/radiumrc": "fast",
         "frhd.co/t/864891/r/radium_rc": "fast",
         "frhd.co/t/9300/r/radiumrc": "fast",
-        "frhd.co/t/510963/r/radiumrc": "fast",
         "frhd.co/t/51784/r/radiumrc": "fast",
         "frhd.co/t/921000/r/radiumrc": "fast",
         "frhd.co/t/922979/r/radiumrc": "fast",
