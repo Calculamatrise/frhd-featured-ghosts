@@ -306,7 +306,6 @@
         "frhd.co/t/8875/r/radiumrc": "fast",
         "frhd.co/t/772571/r/radiumrc": "fast",
         "frhd.co/t/95778/r/radiumrc": "fast",
-        "frhd.co/t/576498/r/radiumrc": "fast",
         "frhd.co/t/646557/r/radiumrc": "fast",
         "frhd.co/t/863874/r/theft": "fast",
         "frhd.co/t/862338/r/radium_rc": "fast",
@@ -540,7 +539,8 @@
         "frhd.co/t/733399/r/xenom": "fast",
         "frhd.co/t/186428/r/xenom": "fast",
         "frhd.co/t/507142/r/xenom2.0": "fast",
-        "frhd.co/t/828818/r/xenom": "vehicle"             
+        "frhd.co/t/828818/r/xenom": "vehicle",
+        "frhd.co/t/576498/r/xenom": "fast"        
     },
     "XGRAzgr": {
         "frhd.co/t/946065/r/xgrazgr": "fast"     
