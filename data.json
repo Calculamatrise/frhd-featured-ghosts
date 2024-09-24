@@ -206,7 +206,6 @@
         "frhd.co/t/510963/r/theft": "fast",
         "frhd.co/t/927503/r/meat2": "fast",
         "frhd.co/t/424370/r/theft": "fast",
-        "frhd.co/t/392713/r/cerasium": "fast",
         "frhd.co/t/222275/r/cerasium": "fast",
         "frhd.co/t/576498/r/cerasium": "fast",
         "frhd.co/t/201857/r/cerasium": "fast"
@@ -374,7 +373,8 @@
         "frhd.co/t/901541/r/radiumrc": "fast"
     },
     "Reborn": {
-        "frhd.co/t/336968/r/reborn": "vehicle"
+        "frhd.co/t/336968/r/reborn": "vehicle",
+        "frhd.co/t/392713/r/reborn": "fast"
     },
     "RedOrBlue": {
         "frhd.co/t/646153/r/redorblue": "fast",
