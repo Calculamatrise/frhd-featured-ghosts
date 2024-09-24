@@ -206,9 +206,10 @@
         "frhd.co/t/510963/r/theft": "fast",
         "frhd.co/t/927503/r/meat2": "fast",
         "frhd.co/t/424370/r/theft": "fast",
-        "frhd.co/t/222275/r/cerasium": "fast",
-        "frhd.co/t/576498/r/cerasium": "fast",
-        "frhd.co/t/201857/r/cerasium": "fast"
+        "frhd.co/t/222275/r/theft": "fast",
+        "frhd.co/t/576498/r/theft": "fast",
+        "frhd.co/t/201857/r/theft": "fast",
+        "frhd.co/t/985958/r/meat2"        
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
