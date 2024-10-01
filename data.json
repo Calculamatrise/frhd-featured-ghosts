@@ -219,7 +219,11 @@
         "frhd.co/t/294635/r/theft": "fast",
         "frhd.co/t/499876/r/theft": "vehicle",
         "frhd.co/t/979019/r/theft": "fast",
-        "frhd.co/t/979022/r/theft": "fast"
+        "frhd.co/t/979022/r/theft": "fast",
+        "frhd.co/t/964130/r/theft": "auto",
+        "frhd.co/t/388398/r/theft": "fast",
+        "frhd.co/t/959258/r/theft": "vehicle",
+        "frhd.co/t/832517/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
