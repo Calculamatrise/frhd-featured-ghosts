@@ -408,8 +408,7 @@
         "frhd.co/t/746191/r/rippedmagnet": "vehicle",
         "frhd.co/t/200043/r/rippedmagnet": "vehicle",
         "frhd.co/t/929287/r/rippedmagnet": "vehicle",
-        "frhd.co/t/822204/r/rippedmagnet": "vehicle",
-        "frhd.co/t/761815/r/rippedmagnet": "vehicle"
+        "frhd.co/t/822204/r/rippedmagnet": "vehicle"
     },
     "Setsu": {
         "frhd.co/t/930152/r/setsu": "fast"
@@ -427,7 +426,8 @@
         "frhd.co/t/509794/r/stevie.t": "fast",
         "frhd.co/t/291527/r/stevie.t": "vehicle",
         "frhd.co/t/649203/r/stevie.t": "vehicle",
-        "frhd.co/t/568797/r/stevie.t": "trick"
+        "frhd.co/t/568797/r/stevie.t": "trick",
+        "frhd.co/t/761815/r/stevie.t": "vehicle"
     },
     "tetrationiscool": {
         "frhd.co/t/217107/r/tetrationiscool": "fast",
