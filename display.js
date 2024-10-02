@@ -21,11 +21,12 @@ Application.Views.TrackView.prototype._render_leaderboards = async function(n) {
 
             const races = Array.from(document.getElementsByClassName("track-leaderboard-race"));
             for (const element of races.filter(({ innerText }) => name == innerText.toLowerCase())) {
-                let color = [232, 169, 35];
+                let color = [0, 0, 0];
                 switch(matches[player][ghost]) {
                     case 'fast': color = [120, 200, 200]; break;
                     case 'vehicle': color = [240, 200, 80]; break;
-                    case 'trick': color = [160, 240, 40]; break;
+                    case 'trick': color = [232, 169, 35]; break;
+                    case 'auto': color = [160, 240, 40]; break;                        
                 }
 
                 const container = element.parentElement.parentElement;
