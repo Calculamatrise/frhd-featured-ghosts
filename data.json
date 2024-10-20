@@ -4,7 +4,6 @@
         "frhd.co/t/167075/r/anonyymi": "fast",
         "frhd.co/t/290712/r/anonyymi": "fast",
         "frhd.co/t/781041/r/anonyymi": "fast",
-        "frhd.co/t/51574/r/anonyymi": "fast",
         "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/1036/r/anonyymi": "fast",
@@ -12,9 +11,7 @@
         "frhd.co/t/872596/r/anonyymi": "fast",
         "frhd.co/t/185273/r/anonyymi": "fast",
         "frhd.co/t/587873/r/anonyymi": "fast",
-        "frhd.co/t/1019/r/anonyymi": "fast",
         "frhd.co/t/1170/r/anonyymi": "fast",
-        "frhd.co/t/544020/r/anonyymi": "fast",
         "frhd.co/t/72227/r/anonyymi": "fast",
         "frhd.co/t/1014/r/anonyymi": "fast",
         "frhd.co/t/429117/r/anonyymi": "fast",
@@ -230,15 +227,18 @@
         "frhd.co/t/840794/r/theft": "fast",
         "frhd.co/t/654026/r/theft": "auto",
         "frhd.co/t/946065/r/theft": "fast",
-        "frhd.co/t/1026/r/theft": "fast"
+        "frhd.co/t/1026/r/theft": "fast",
+        "frhd.co/t/51574/r/theft": "fast",
+        "frhd.co/t/1019/r/theft": "fast",
+        "frhd.co/t/544020/r/theft": "fast",
+        "frhd.co/t/928168/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
         "frhd.co/t/808681/r/cerulean": "fast",
         "frhd.co/t/1038/r/cerulean": "fast",
         "frhd.co/t/796822/r/cerulean": "trick",
-        "frhd.co/t/801452/r/cerulean": "trick",
-        "frhd.co/t/928168/r/cerulean": "fast"
+        "frhd.co/t/801452/r/cerulean": "trick"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
