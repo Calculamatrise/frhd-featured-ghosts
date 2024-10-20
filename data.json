@@ -239,7 +239,8 @@
         "frhd.co/t/796822/r/cerulean": "trick",
         "frhd.co/t/801452/r/cerulean": "trick",
         "frhd.co/t/690667/r/cerulean": "fast",
-        "frhd.co/t/92960/r/theft": "fast"
+        "frhd.co/t/92960/r/theft": "fast",
+        "frhd.co/t/1171/r/cerulean": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -271,9 +272,6 @@
         "frhd.co/t/568797/r/egway": "trick",
         "frhd.co/t/861191/r/egway": "vehicle",
         "frhd.co/t/956792/r/egway": "vehicle"
-    },
-    "HyperCube": {
-        "frhd.co/t/1171/r/hypercube": "fast"
     },
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
