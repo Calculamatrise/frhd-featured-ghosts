@@ -231,7 +231,8 @@
         "frhd.co/t/544020/r/theft": "fast",
         "frhd.co/t/928168/r/theft": "fast",
         "frhd.co/t/713010/r/theft": "fast",
-        "frhd.co/t/92960/r/cerasium": "fast"
+        "frhd.co/t/92960/r/cerasium": "fast",
+        "frhd.co/t/392713/r/theft": "other"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -398,8 +399,7 @@
         "frhd.co/t/59226/r/radiumrc": "fast"
     },
     "Reborn": {
-        "frhd.co/t/336968/r/reborn": "other",
-        "frhd.co/t/392713/r/reborn": "fast"
+        "frhd.co/t/336968/r/reborn": "other"
     },
     "RedOrBlue": {
         "frhd.co/t/646153/r/redorblue": "fast",
