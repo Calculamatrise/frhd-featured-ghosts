@@ -17,7 +17,6 @@
         "frhd.co/t/429117/r/anonyymi": "fast",
         "frhd.co/t/915431/r/anonyymi": "fast",
         "frhd.co/t/1010/r/anonyymi": "fast",
-        "frhd.co/t/690667/r/anonyymi": "fast",
         "frhd.co/t/158140/r/anonyymi": "other",
         "frhd.co/t/167075/r/beemex": "other",
         "frhd.co/t/243884/r/army_man": "fast",
@@ -29,7 +28,6 @@
     "Cerasium": {
         "frhd.co/t/580217/r/cerasium": "fast",
         "frhd.co/t/451691/r/cerasium": "fast",
-        "frhd.co/t/92960/r/cerasium": "fast",
         "frhd.co/t/533484/r/cerasium": "fast",
         "frhd.co/t/57539/r/cerasium": "fast",
         "frhd.co/t/781113/r/cerasium": "fast",
@@ -231,14 +229,17 @@
         "frhd.co/t/51574/r/theft": "fast",
         "frhd.co/t/1019/r/theft": "fast",
         "frhd.co/t/544020/r/theft": "fast",
-        "frhd.co/t/928168/r/theft": "fast"
+        "frhd.co/t/928168/r/theft": "fast",
+        "frhd.co/t/713010/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
         "frhd.co/t/808681/r/cerulean": "fast",
         "frhd.co/t/1038/r/cerulean": "fast",
         "frhd.co/t/796822/r/cerulean": "trick",
-        "frhd.co/t/801452/r/cerulean": "trick"
+        "frhd.co/t/801452/r/cerulean": "trick",
+        "frhd.co/t/690667/r/cerulean": "fast",
+        "frhd.co/t/92960/r/theft": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -399,7 +400,7 @@
         "frhd.co/t/59226/r/radiumrc": "fast"
     },
     "Reborn": {
-        "frhd.co/t/336968/r/reborn": "vehicle",
+        "frhd.co/t/336968/r/reborn": "other",
         "frhd.co/t/392713/r/reborn": "fast"
     },
     "RedOrBlue": {
@@ -511,7 +512,6 @@
         "frhd.co/t/1031/r/xenomalt": "fast",
         "frhd.co/t/1184/r/xenom": "fast",
         "frhd.co/t/631619/r/beiuwuga": "fast",
-        "frhd.co/t/690667/r/xenom": "fast",
         "frhd.co/t/769414/r/xenom": "fast",
         "frhd.co/t/459503/r/xenom": "fast",
         "frhd.co/t/1641/r/xenomalt": "fast",
@@ -582,7 +582,6 @@
         "frhd.co/t/473132/r/xverse": "fast",
         "frhd.co/t/795679/r/xverse": "fast",
         "frhd.co/t/384996/r/xverse": "fast",
-        "frhd.co/t/713010/r/xverse": "fast",
         "frhd.co/t/7444/r/xverse": "fast",
         "frhd.co/t/404782/r/xverse": "fast",
         "frhd.co/t/803961/r/xverse": "fast",
