@@ -232,7 +232,8 @@
         "frhd.co/t/167075/r/theft": "other",
         "frhd.co/t/468573/r/theft": "other",
         "frhd.co/t/355642/r/theft": "fast",
-        "frhd.co/t/9322/r/theft": "fast"
+        "frhd.co/t/9322/r/theft": "fast",
+        "frhd.co/t/53133/r/meat2": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -243,8 +244,7 @@
         "frhd.co/t/690667/r/cerulean": "fast",
         "frhd.co/t/1171/r/cerulean": "fast",
         "frhd.co/t/825384/r/cerulean": "fast",
-        "frhd.co/t/484421/r/cerulean": "fast",
-        "frhd.co/t/53133/r/cerulean": "fast"
+        "frhd.co/t/484421/r/cerulean": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
