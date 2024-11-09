@@ -16,7 +16,6 @@
         "frhd.co/t/429117/r/anonyymi": "fast",
         "frhd.co/t/915431/r/anonyymi": "fast",
         "frhd.co/t/1010/r/anonyymi": "fast",
-        "frhd.co/t/158140/r/anonyymi": "other",
         "frhd.co/t/243884/r/army_man": "fast",
         "frhd.co/t/1003/r/anonyymi": "fast"
     },
@@ -186,12 +185,10 @@
         "frhd.co/t/225125/r/theft": "other",
         "frhd.co/t/127165/r/theft": "fast",
         "frhd.co/t/651059/r/theft": "fast",
-        "frhd.co/t/825384/r/theft": "fast",
         "frhd.co/t/319500/r/theft": "fast",
         "frhd.co/t/928157/r/theft": "fast",
         "frhd.co/t/682672/r/theft": "fast",
         "frhd.co/t/927808/r/theft": "fast",
-        "frhd.co/t/53133/r/meat2": "fast",
         "frhd.co/t/930650/r/theft": "auto",
         "frhd.co/t/3147/r/theft": "auto",
         "frhd.co/t/510963/r/theft": "fast",
@@ -234,7 +231,8 @@
         "frhd.co/t/167075/r/meat2": "fast",
         "frhd.co/t/167075/r/theft": "other",
         "frhd.co/t/468573/r/theft": "other",
-        "frhd.co/t/355642/r/theft": "fast"
+        "frhd.co/t/355642/r/theft": "fast",
+        "frhd.co/t/9322/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -243,7 +241,10 @@
         "frhd.co/t/796822/r/cerulean": "trick",
         "frhd.co/t/801452/r/cerulean": "trick",
         "frhd.co/t/690667/r/cerulean": "fast",
-        "frhd.co/t/1171/r/cerulean": "fast"
+        "frhd.co/t/1171/r/cerulean": "fast",
+        "frhd.co/t/825384/r/cerulean": "fast",
+        "frhd.co/t/484421/r/cerulean": "fast",
+        "frhd.co/t/53133/r/cerulean": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -450,7 +451,6 @@
         "frhd.co/t/217107/r/tetrationiscool": "fast",
         "frhd.co/t/4515/r/tetrationiscool": "fast",
         "frhd.co/t/388497/r/tetrationiscool": "fast",
-        "frhd.co/t/9322/r/tetrationiscool": "fast",
         "frhd.co/t/50114/r/tetrationiscool": "fast",
         "frhd.co/t/166501/r/tetrationiscool": "fast",
         "frhd.co/t/2995/r/tetrationiscool": "fast",
@@ -552,7 +552,6 @@
         "frhd.co/t/629722/r/xenom": "fast",
         "frhd.co/t/405476/r/xenom2.0": "fast",
         "frhd.co/t/793658/r/xenom": "fast",
-        "frhd.co/t/484421/r/xenom": "fast",
         "frhd.co/t/155001/r/xenom": "fast",
         "frhd.co/t/463797/r/xenom": "fast",
         "frhd.co/t/960789/r/xenom": "fast",
