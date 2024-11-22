@@ -244,7 +244,8 @@
         "frhd.co/t/690667/r/cerulean": "fast",
         "frhd.co/t/1171/r/cerulean": "fast",
         "frhd.co/t/825384/r/cerulean": "fast",
-        "frhd.co/t/484421/r/cerulean": "fast"
+        "frhd.co/t/484421/r/cerulean": "fast",
+        "frhd.co/t/671692/r/cerulean": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -284,8 +285,7 @@
         "frhd.co/t/508734/r/madara": "vehicle",
         "frhd.co/t/292062/r/madara": "vehicle",
         "frhd.co/t/523860/r/madara": "vehicle",
-        "frhd.co/t/201964/r/madara": "vehicle",
-        "frhd.co/t/194022/r/madara": "vehicle"
+        "frhd.co/t/201964/r/madara": "vehicle"
     },
     "mR..A": {
         "frhd.co/t/211082/r/mr..a": "trick",
@@ -475,12 +475,9 @@
         "frhd.co/t/584030/r/ultraviolet": "vehicle",
         "frhd.co/t/654163/r/ultraviolet": "vehicle",
         "frhd.co/t/295373/r/ultraviolet": "vehicle",
-        "frhd.co/t/271369/r/ultraviolet": "vehicle",
         "frhd.co/t/250678/r/ultraviolet": "vehicle",
         "frhd.co/t/513974/r/ultraviolet": "vehicle",
-        "frhd.co/t/489424/r/ultraviolet": "vehicle",
         "frhd.co/t/407255/r/ultraviolet": "vehicle",
-        "frhd.co/t/922604/r/ultraviolet": "vehicle",
         "frhd.co/t/187395/r/ultraviolet": "vehicle",
         "frhd.co/t/773568/r/ultraviolet": "fast",
         "frhd.co/t/930938/r/ultraviolet": "vehicle",
@@ -497,7 +494,13 @@
         "frhd.co/t/624596/r/uniior": "vehicle",
         "frhd.co/t/462701/r/uniior": "other",
         "frhd.co/t/713551/r/uniior": "fast",
-        "frhd.co/t/222275/r/uniior": "fast"
+        "frhd.co/t/222275/r/uniior": "fast",
+        "frhd.co/t/194022/r/uniior": "vehicle",
+        "frhd.co/t/271369/r/uniior": "vehicle",
+        "frhd.co/t/489424/r/uniior": "vehicle",
+        "frhd.co/t/922604/r/uniior": "vehicle",
+        "frhd.co/t/584030/r/uniior": "vehicle",
+        "frhd.co/t/499876/r/uniior": "vehicle"
     },
     "Xenom": {
         "frhd.co/t/319404/r/xenom": "fast",
@@ -517,7 +520,6 @@
         "frhd.co/t/305440/r/xenom": "fast",
         "frhd.co/t/161621/r/shortkid": "fast",
         "frhd.co/t/267197/r/shortkid": "fast",
-        "frhd.co/t/671692/r/xenom": "fast",
         "frhd.co/t/546909/r/xenom": "fast",
         "frhd.co/t/818570/r/xenom": "vehicle",
         "frhd.co/t/925440/r/xenom": "trick",
