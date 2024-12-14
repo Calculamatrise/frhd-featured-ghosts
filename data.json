@@ -233,7 +233,8 @@
         "frhd.co/t/468573/r/theft": "other",
         "frhd.co/t/355642/r/theft": "fast",
         "frhd.co/t/9322/r/theft": "fast",
-        "frhd.co/t/53133/r/meat2": "fast"
+        "frhd.co/t/53133/r/meat2": "fast",
+        "frhd.co/t/7440/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -565,7 +566,6 @@
         "frhd.co/t/186428/r/xenom": "fast",
         "frhd.co/t/507142/r/xenom2.0": "fast",
         "frhd.co/t/828818/r/xenom": "vehicle",
-        "frhd.co/t/7440/r/xenom": "fast",
         "frhd.co/t/796822/r/xenom2.0": "trick",
         "frhd.co/t/975678/r/xenom": "fast",
         "frhd.co/t/975717/r/xenom": "fast"
