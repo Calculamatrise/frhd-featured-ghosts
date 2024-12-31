@@ -238,7 +238,12 @@
         "frhd.co/t/587873/r/theft": "fast",
         "frhd.co/t/230102/r/theft": "fast",
         "frhd.co/t/345240/r/theft": "other",
-        "frhd.co/t/405476/r/theft": "fast"
+        "frhd.co/t/405476/r/theft": "fast",
+        "frhd.co/t/473132/r/theft": "fast",
+        "frhd.co/t/558197/r/theft": "fast",
+        "frhd.co/t/785392/r/theft": "fast",
+        "frhd.co/t/395374/r/theft": "fast",
+        "frhd.co/t/795679/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -572,20 +577,15 @@
         "frhd.co/t/975717/r/xenom": "fast"
     },
     "Xverse": {
-        "frhd.co/t/558197/r/xverse": "fast",
         "frhd.co/t/106750/r/xverse": "fast",
         "frhd.co/t/681049/r/xverse": "fast",
         "frhd.co/t/627153/r/xverse": "fast",
         "frhd.co/t/100595/r/xverse": "fast",
-        "frhd.co/t/473132/r/xverse": "fast",
-        "frhd.co/t/795679/r/xverse": "fast",
         "frhd.co/t/384996/r/xverse": "fast",
         "frhd.co/t/7444/r/xverse": "fast",
         "frhd.co/t/404782/r/xverse": "fast",
         "frhd.co/t/803961/r/xverse": "fast",
         "frhd.co/t/594686/r/xverse": "fast",
-        "frhd.co/t/395374/r/xverse": "fast",
-        "frhd.co/t/785392/r/xverse": "fast",
         "frhd.co/t/813657/r/xverse": "fast"
     },
     "erikeriksson2001": {
