@@ -3,16 +3,13 @@
         "frhd.co/t/706438/r/anonyymi": "fast",
         "frhd.co/t/290712/r/anonyymi": "fast",
         "frhd.co/t/781041/r/anonyymi": "fast",
-        "frhd.co/t/329452/r/anonyymi": "fast",
         "frhd.co/t/257665/r/anonyymi": "fast",
         "frhd.co/t/1036/r/anonyymi": "fast",
         "frhd.co/t/403228/r/anonyymi": "fast",
         "frhd.co/t/872596/r/anonyymi": "fast",
-        "frhd.co/t/185273/r/anonyymi": "fast",
         "frhd.co/t/587873/r/anonyymi": "fast",
         "frhd.co/t/1170/r/anonyymi": "fast",
         "frhd.co/t/72227/r/anonyymi": "fast",
-        "frhd.co/t/1014/r/anonyymi": "fast",
         "frhd.co/t/429117/r/anonyymi": "fast",
         "frhd.co/t/915431/r/anonyymi": "fast",
         "frhd.co/t/1010/r/anonyymi": "fast",
@@ -252,7 +249,16 @@
         "frhd.co/t/627153/r/theft": "fast",
         "frhd.co/t/803961/r/theft": "fast",
         "frhd.co/t/232048/r/theft": "fast",
-        "frhd.co/t/259615/r/theft": "fast"
+        "frhd.co/t/259615/r/theft": "fast",
+        "frhd.co/t/329452/r/cerasium": "fast",
+        "frhd.co/t/1014/r/cerasium": "fast",
+        "frhd.co/t/185273/r/cerasium": "fast",
+        "frhd.co/t/671692/r/cerasium": "fast",
+        "frhd.co/t/298213/r/cerasium": "fast",
+        "frhd.co/t/772571/r/cerasium": "fast",
+        "frhd.co/t/9459/r/cerasium": "fast",
+        "frhd.co/t/4556/r/cerasium": "fast",
+        "frhd.co/t/161621/r/cerasium": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -263,8 +269,7 @@
         "frhd.co/t/690667/r/cerulean": "fast",
         "frhd.co/t/1171/r/cerulean": "fast",
         "frhd.co/t/825384/r/cerulean": "fast",
-        "frhd.co/t/484421/r/cerulean": "fast",
-        "frhd.co/t/671692/r/cerulean": "fast"
+        "frhd.co/t/484421/r/cerulean": "fast"
     },
     "CHARREDLIZARD21": {
         "frhd.co/t/739180/r/charredlizard21": "vehicle",
@@ -326,7 +331,6 @@
         "frhd.co/t/715818/r/mr..a": "trick"
     },
     "Ninjasparkour": {
-        "frhd.co/t/298213/r/ninjasparkour": "fast",
         "frhd.co/t/2819/r/ninjasparkour": "trick",
         "frhd.co/t/62033/r/xagefimuh": "auto"
     },
@@ -352,7 +356,6 @@
         "frhd.co/t/88611/r/radium_rc": "fast",
         "frhd.co/t/72695/r/radium_rc": "fast",
         "frhd.co/t/863174/r/radium_rc": "fast",
-        "frhd.co/t/9459/r/radium_rc": "fast",
         "frhd.co/t/173968/r/theft": "fast",
         "frhd.co/t/713537/r/theft": "fast",
         "frhd.co/t/641550/r/theft": "fast",
@@ -366,7 +369,6 @@
         "frhd.co/t/239108/r/radiumrc": "fast",
         "frhd.co/t/10280/r/radiumrc": "fast",
         "frhd.co/t/8875/r/radiumrc": "fast",
-        "frhd.co/t/772571/r/radiumrc": "fast",
         "frhd.co/t/95778/r/radiumrc": "fast",
         "frhd.co/t/646557/r/radiumrc": "fast",
         "frhd.co/t/863874/r/theft": "fast",
@@ -522,7 +524,6 @@
     },
     "Xenom": {
         "frhd.co/t/319404/r/xenom": "fast",
-        "frhd.co/t/4556/r/xenom": "fast",
         "frhd.co/t/925079/r/xenom": "fast",
         "frhd.co/t/920555/r/xenom": "fast",
         "frhd.co/t/421663/r/xenom": "fast",
@@ -536,7 +537,6 @@
         "frhd.co/t/11057/r/beiuwuga": "fast",
         "frhd.co/t/717829/r/xenom": "fast",
         "frhd.co/t/305440/r/xenom": "fast",
-        "frhd.co/t/161621/r/shortkid": "fast",
         "frhd.co/t/267197/r/shortkid": "fast",
         "frhd.co/t/546909/r/xenom": "fast",
         "frhd.co/t/818570/r/xenom": "vehicle",
