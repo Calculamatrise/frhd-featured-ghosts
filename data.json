@@ -51,7 +51,6 @@
         "frhd.co/t/724312/r/theft": "fast",
         "frhd.co/t/781696/r/theft": "fast",
         "frhd.co/t/222413/r/theft": "fast",
-        "frhd.co/t/1554/r/theft": "fast",
         "frhd.co/t/217220/r/cerasium": "fast",
         "frhd.co/t/185066/r/cerasium": "fast",
         "frhd.co/t/750575/r/cerasium": "fast",
@@ -263,7 +262,9 @@
         "frhd.co/t/59226/r/theft": "fast",
         "frhd.co/t/1171/r/theft": "fast",
         "frhd.co/t/9331/r/theft": "fast",
-        "frhd.co/t/421663/r/cerasium": "fast"
+        "frhd.co/t/421663/r/cerasium": "fast",
+        "frhd.co/t/863174/r/theft": "fast",
+        "frhd.co/t/611918/r/theft": "fast"
     },
     "Cerulean": {
         "frhd.co/t/838707/r/cerulean": "fast",
@@ -359,7 +360,6 @@
         "frhd.co/t/229644/r/radium_rc": "fast",
         "frhd.co/t/88611/r/radium_rc": "fast",
         "frhd.co/t/72695/r/radium_rc": "fast",
-        "frhd.co/t/863174/r/radium_rc": "fast",
         "frhd.co/t/173968/r/theft": "fast",
         "frhd.co/t/713537/r/theft": "fast",
         "frhd.co/t/641550/r/theft": "fast",
@@ -558,7 +558,6 @@
         "frhd.co/t/282498/r/xenom2.0": "fast",
         "frhd.co/t/179558/r/xenom": "fast",
         "frhd.co/t/671625/r/xenom": "other",
-        "frhd.co/t/611918/r/beiuwuga": "other",
         "frhd.co/t/274894/r/beiuwuga": "fast",
         "frhd.co/t/710486/r/xenom": "fast",
         "frhd.co/t/8865/r/xenom": "other",
