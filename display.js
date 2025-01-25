@@ -25,8 +25,9 @@ Application.Views.TrackView.prototype._render_leaderboards = async function(n) {
                 switch(matches[player][ghost]) {
                     case 'fast': color = [120, 200, 200]; break;
                     case 'vehicle': color = [240, 200, 80]; break;
-                    case 'trick': color = [232, 169, 35]; break;
-                    case 'auto': color = [160, 240, 40]; break;                        
+                    case 'trick': color = [160, 240, 40]; break;
+                    case 'auto': color = [232, 169, 35]; break; 
+                    case 'other': color = [50, 50, 50]; break;  
                 }
 
                 const container = element.parentElement.parentElement;
