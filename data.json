@@ -201,7 +201,6 @@
         "frhd.co/t/246811/r/theft": "fast",
         "frhd.co/t/831256/r/theft": "fast",
         "frhd.co/t/294635/r/theft": "fast",
-        "frhd.co/t/499876/r/theft": "vehicle",
         "frhd.co/t/979019/r/theft": "fast",
         "frhd.co/t/979022/r/theft": "fast",
         "frhd.co/t/964130/r/theft": "auto",
@@ -311,9 +310,6 @@
         "frhd.co/t/195874/r/isekeb": "trick"
     },
     "Madara": {
-        "frhd.co/t/508734/r/madara": "vehicle",
-        "frhd.co/t/292062/r/madara": "vehicle",
-        "frhd.co/t/523860/r/madara": "vehicle",
         "frhd.co/t/201964/r/madara": "vehicle"
     },
     "mR..A": {
@@ -467,7 +463,12 @@
         "frhd.co/t/649203/r/stevie.t": "vehicle",
         "frhd.co/t/568797/r/stevie.t": "trick",
         "frhd.co/t/761815/r/stevie.t": "vehicle",
-        "frhd.co/t/194022/r/stevie.t": "vehicle"
+        "frhd.co/t/194022/r/stevie.t": "vehicle",
+        "frhd.co/t/499876/r/stevie.t": "vehicle",
+        "frhd.co/t/292062/r/stevie.t": "vehicle",
+        "frhd.co/t/508734/r/stevie.t": "vehicle",
+        "frhd.co/t/523860/r/stevie.t": "vehicle",
+        "frhd.co/t/625674/r/stevie.t": "vehicle"
     },
     "tetrationiscool": {
         "frhd.co/t/217107/r/tetrationiscool": "fast",
