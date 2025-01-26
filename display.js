@@ -27,7 +27,7 @@ Application.Views.TrackView.prototype._render_leaderboards = async function(n) {
                     case 'vehicle': color = [240, 200, 80]; break;
                     case 'trick': color = [160, 240, 40]; break;
                     case 'auto': color = [232, 169, 35]; break; 
-                    case 'other': color = [50, 50, 50]; break;  
+                    case 'other': color = [160, 240, 40]; break;  
                 }
 
                 const container = element.parentElement.parentElement;
