@@ -310,9 +310,6 @@
     "isekeb": {
         "frhd.co/t/195874/r/isekeb": "trick"
     },
-    "Madara": {
-        "frhd.co/t/201964/r/madara": "vehicle"
-    },
     "mR..A": {
         "frhd.co/t/211082/r/mr..a": "trick",
         "frhd.co/t/435363/r/mr..a": "trick",
@@ -521,7 +518,8 @@
         "frhd.co/t/922604/r/uniior": "vehicle",
         "frhd.co/t/584030/r/uniior": "vehicle",
         "frhd.co/t/250678/r/uniior": "vehicle",
-        "frhd.co/t/930938/r/uniior": "vehicle"
+        "frhd.co/t/930938/r/uniior": "vehicle",
+        "frhd.co/t/201964/r/uniior": "vehicle"
     },
     "Xenom": {
         "frhd.co/t/319404/r/xenom": "fast",
